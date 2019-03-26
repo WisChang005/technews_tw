@@ -6,22 +6,22 @@ import hashlib
 import logging
 
 
-class TechOrange:
+class ITHOME:
 
     def __init__(self):
-        self.url = "https://buzzorange.com/techorange/"
+        self.url = "http://www.ithome.com.tw/latest"
         self.headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/58.0.3029.81 Safari/537.36",
-            "accept": "text/html,application/xhtml+xml,"
-            "application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "accept": "ttext/html,application/xhtml+xml,application/xml;"
+            "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
         }
         self.session = requests.Session()
 
-    def get_news(self, page=1):
+    def get_news(self, page=0):
         resp = self.session.get(self.url, headers=self.headers)
         resp.encoding = 'utf-8'
         logging.debug("Encoding - [%s]" % resp.encoding)
@@ -30,7 +30,7 @@ class TechOrange:
 
         # get title text
         soup = BeautifulSoup(resp.text, "lxml")
-        page_meta = soup.find("meta", {"name": "description"})
+        page_meta = soup.find('meta', {'property': "og:site_name"})
         page_title = page_meta["content"].strip()
         news_data = {
             "timestamp": time.time(),
@@ -43,8 +43,8 @@ class TechOrange:
         news_contents.update(cur_news_data)
 
         # get other pages
-        if page >= 2:
-            for page_i in range(2, page + 1):
+        if page >= 1:
+            for page_i in range(1, page + 1):
                 others_pages_news_data = self.__load_pages(page_index=page_i)
                 news_contents.update(others_pages_news_data)
 
@@ -58,21 +58,15 @@ class TechOrange:
         return news_data
 
     def __load_pages(self, page_index):
-        _load_page_api = "https://buzzorange.com/techorange/wp-admin/admin-ajax.php"
-        _payload = {
-            "action": "fm_ajax_load_more",
-            "nonce": "fc7e9eb0b5",
-            "page": page_index
-        }
+        _load_page_api = "https://www.ithome.com.tw/latest?page={}"
+        _load_page_api = _load_page_api.format(page_index)
+        logging.debug("Load page -> %s" % _load_page_api)
 
-        load_resp = self.session.post(
-            url=_load_page_api,
-            data=_payload)
+        load_resp = self.session.get(url=_load_page_api)
 
         logging.debug("Load page status [%s]" % load_resp.status_code)
         if load_resp.status_code == 200:
-            resp_json = load_resp.json()
-            resp_data = resp_json["data"]
+            resp_data = load_resp.text
         else:
             raise Exception("Load page error")
 
@@ -83,16 +77,20 @@ class TechOrange:
         data_soup = BeautifulSoup(data_contents, "lxml")
 
         # generate data dict
+        _base_url = "https://www.ithome.com.tw"
         _contents = dict()
-        for tag_a in data_soup.findAll("a", {"class": "post-thumbnail"}):
-            news_link = tag_a["href"]
-            img_link = tag_a["style"].split(":url(")[1].strip(")")
-            news_title1 = tag_a["onclick"].split("'Click', '")[1]
-            news_title = news_title1.split("', {'nonInteraction'")[0]
+        for tag_p in data_soup.findAll("div", {"class": "views-field views-field-created"}):
+            tag_p_title = tag_p.find("p", {"class": "title"})
+            tag_p_img = tag_p.find("p", {"class", "photo"})
+            tag_a_title = tag_p_title.find("a")
+            tag_a_img = tag_p_img.find("a")
+            news_link = tag_a_title["href"]
+            news_title = tag_a_title.text
+            img_link = tag_a_img.find("img")["src"]
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {
                 news_md5: {
-                    "link": news_link,
+                    "link": _base_url + news_link,
                     "image": img_link,
                     "title": news_title
                 }
@@ -108,6 +106,6 @@ if __name__ == '__main__':
         ' %(levelname)s %(message)s'
     logging.basicConfig(level=logging.DEBUG, format=strFormat)
 
-    tech_news = TechOrange()
-    news_data = tech_news.get_news(page=1)
+    tech_news = ITHOME()
+    news_data = tech_news.get_news()
     print(news_data)
