@@ -6,16 +6,16 @@ import hashlib
 import logging
 
 
-class TechOrange:
+class BusinessNext:
 
     def __init__(self):
-        self.url = "https://buzzorange.com/techorange/"
+        self.url = "https://www.bnext.com.tw/articles"
         self.headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/58.0.3029.81 Safari/537.36",
-            "accept": "text/html,application/xhtml+xml,"
-            "application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "accept": "ttext/html,application/xhtml+xml,application/xml;"
+            "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
         }
@@ -30,7 +30,8 @@ class TechOrange:
 
         # get title text
         soup = BeautifulSoup(resp.text, "lxml")
-        page_meta = soup.find("meta", {"name": "description"})
+        page_meta = soup.find('meta', {'property': "og:site_name"})
+        csrf_token = soup.find('meta', {'name': "csrf-token"})["content"]
         page_title = page_meta["content"].strip()
         news_data = {
             "timestamp": time.time(),
@@ -45,7 +46,9 @@ class TechOrange:
         # get other pages
         if page >= 2:
             for page_i in range(2, page + 1):
-                others_pages_news_data = self.__load_pages(page_index=page_i)
+                others_pages_news_data = self.__load_pages(
+                    page_index=page_i,
+                    token=csrf_token)
                 news_contents.update(others_pages_news_data)
 
         news_data["news_contents"] = news_contents
@@ -56,26 +59,33 @@ class TechOrange:
 
         return news_data
 
-    def __load_pages(self, page_index):
-        _load_page_api = "https://buzzorange.com/techorange/wp-admin/admin-ajax.php"
-        _payload = {
-            "action": "fm_ajax_load_more",
-            "nonce": "fc7e9eb0b5",
-            "page": page_index
+    def __load_pages(self, page_index, token=None):
+        _load_page_api = "https://www.bnext.com.tw/articles"
+        logging.debug("Load page -> %s" % _load_page_api)
+
+        payload = {
+            "ac": "get_page",
+            "offset": 8 + ((page_index - 1) * 12),
+            "get_page_num": page_index,
+            "page_sel": "#page_{}_".format(page_index),
+            "type": "",
+            "btn_sel": ".more_btn",
+            "_token": token
         }
 
         load_resp = self.session.post(
             url=_load_page_api,
-            data=_payload)
+            data=payload)
 
         logging.debug("Load page status [%s]" % load_resp.status_code)
         if load_resp.status_code == 200:
-            resp_json = load_resp.json()
-            resp_data = resp_json["data"]
+            resp_data = load_resp.text
+            raw_data = BeautifulSoup(resp_data, "lxml")
+            text_content = raw_data.find("content").text
         else:
             raise Exception("Load page error")
 
-        resp_data_dict = self.__handle_page_contents(data_contents=resp_data)
+        resp_data_dict = self.__handle_page_contents(data_contents=text_content)
         return resp_data_dict
 
     def __handle_page_contents(self, data_contents):
@@ -83,11 +93,12 @@ class TechOrange:
 
         # generate data dict
         _contents = dict()
-        for tag_a in data_soup.findAll("a", {"class": "post-thumbnail"}):
-            news_link = tag_a["href"]
-            img_link = tag_a["style"].split(":url(")[1].strip(")")
-            news_title1 = tag_a["onclick"].split("'Click', '")[1]
-            news_title = news_title1.split("', {'nonInteraction'")[0]
+        for tag_div in data_soup.findAll("div", {"class": "item_box item_sty01 div_tab"}):
+            tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
+            tag_div_title = tag_div.find("div", {"class": "item_title font_sty02"})
+            news_link = tag_a_img["href"]
+            news_title = tag_div_title.text.strip()
+            img_link = tag_a_img.find("img")["src"]
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {
                 news_md5: {
@@ -107,7 +118,7 @@ if __name__ == '__main__':
         ' %(levelname)s %(message)s'
     logging.basicConfig(level=logging.DEBUG, format=strFormat)
 
-    tech_news = TechOrange()
-    news_data = tech_news.get_news(page=1)
+    tech_news = BusinessNext()
+    news_data = tech_news.get_news(10)
     print(news_data)
     print("Get tech news data counts -> %s" % len(news_data["news_contents"]))

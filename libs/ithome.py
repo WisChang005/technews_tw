@@ -49,7 +49,6 @@ class ITHOME:
                 news_contents.update(others_pages_news_data)
 
         news_data["news_contents"] = news_contents
-        logging.debug("Get tech news data -> %s" % len(news_data["news_contents"]))
 
         # handle encoding
         news_data = json.dumps(news_data)
@@ -109,3 +108,4 @@ if __name__ == '__main__':
     tech_news = ITHOME()
     news_data = tech_news.get_news()
     print(news_data)
+    print("Get tech news data counts -> %s" % len(news_data["news_contents"]))
