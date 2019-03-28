@@ -22,21 +22,47 @@ class TechOrange:
         self.session = requests.Session()
 
     def get_news(self, page=1):
-        resp = self.session.get(self.url, headers=self.headers)
-        resp.encoding = 'utf-8'
-        logging.debug("Encoding - [%s]" % resp.encoding)
+        for _ in range(3):
+            try:
+                resp = self.session.get(self.url, headers=self.headers)
+                resp.encoding = 'utf-8'
+                logging.debug("Encoding - [%s]" % resp.encoding)
 
-        news_contents = dict()
+                news_contents = dict()
 
-        # get title text
-        soup = BeautifulSoup(resp.text, "lxml")
-        page_meta = soup.find("meta", {"name": "description"})
-        page_title = page_meta["content"].strip()
-        news_data = {
-            "timestamp": time.time(),
-            "news_page_title": page_title
-        }
-        logging.debug("Get tech news -> [%s]" % news_data)
+                # get title text
+                soup = BeautifulSoup(resp.text, "lxml")
+                page_meta = soup.find("meta", {"name": "description"})
+                page_title = page_meta["content"].strip()
+                news_data = {
+                    "timestamp": time.time(),
+                    "news_page_title": page_title
+                }
+                logging.debug("Get tech news -> [%s]" % news_data)
+
+                # get load page key
+                script_tags = soup.findAll("script", {"type": "text/javascript"})
+                for i, js_script in enumerate(script_tags):
+                    if "fmloadmore" in js_script.text:
+                        logging.debug(js_script.text)
+                        _split_dict = json.loads(str(js_script.text.split("fmloadmore = ")[1].split(";")[0]))
+                        logging.debug(_split_dict)
+                        load_more_key = _split_dict["nonce"]
+                        logging.debug("Load more key [%s]" % load_more_key)
+                        break
+
+                try:
+                    int(load_more_key)
+                except ValueError:
+                    logging.info("The key is correct!")
+                else:
+                    raise ValueError("The Key is wrong!")
+
+            except Exception as e:
+                logging.error(e)
+                logging.warn("The key is wrong, wait 5 sec do retry...")
+                time.sleep(5)
+                self.session = requests.Session()
 
         # get news data
         cur_news_data = self.__handle_page_contents(data_contents=resp.text)
@@ -45,7 +71,8 @@ class TechOrange:
         # get other pages
         if page >= 2:
             for page_i in range(2, page + 1):
-                others_pages_news_data = self.__load_pages(page_index=page_i)
+                others_pages_news_data = self.__load_pages(
+                    page_index=page_i, nonce_key=load_more_key)
                 news_contents.update(others_pages_news_data)
 
         news_data["news_contents"] = news_contents
@@ -56,11 +83,11 @@ class TechOrange:
 
         return news_data
 
-    def __load_pages(self, page_index):
+    def __load_pages(self, page_index, nonce_key):
         _load_page_api = "https://buzzorange.com/techorange/wp-admin/admin-ajax.php"
         _payload = {
             "action": "fm_ajax_load_more",
-            "nonce": "fc7e9eb0b5",
+            "nonce": nonce_key,
             "page": page_index
         }
 
@@ -108,6 +135,6 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG, format=strFormat)
 
     tech_news = TechOrange()
-    news_data = tech_news.get_news(page=1)
+    news_data = tech_news.get_news(page=3)
     print(news_data)
     print("Get tech news data counts -> %s" % len(news_data["news_contents"]))
