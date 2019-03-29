@@ -22,7 +22,7 @@ class TechNewTests:
         news_data = tech_orange.get_news(browser_page)
         self.__news_data_contents_assertion(news_data)
 
-    def test_tech_orange_page_load_verfication(self):
+    def test_tech_orange_page_load_verification(self):
         page1_data = tech_orange.get_news()
         page10_data = tech_orange.get_news(10)
         self.__page_load_assertion(page1_data, page10_data)
@@ -32,7 +32,7 @@ class TechNewTests:
         news_data = ithome.get_news(browser_page)
         self.__news_data_contents_assertion(news_data)
 
-    def test_ithome_page_load_verfication(self):
+    def test_ithome_page_load_verification(self):
         page1_data = ithome.get_news()
         page10_data = ithome.get_news(10)
         self.__page_load_assertion(page1_data, page10_data)
@@ -42,7 +42,7 @@ class TechNewTests:
         news_data = business_next.get_news(browser_page)
         self.__news_data_contents_assertion(news_data)
 
-    def test_business_next_page_load_verfication(self):
+    def test_business_next_page_load_verification(self):
         page1_data = business_next.get_news()
         page10_data = business_next.get_news(10)
         self.__page_load_assertion(page1_data, page10_data)
