@@ -7,5 +7,5 @@ install:
 
 # command to run tests
 script:
-  - $(shell export PYTHONPATH=$PYTHONPATH:$(pwd))
+  export PYTHONPATH=$PYTHONPATH:$(pwd)
   - pytest -v tests/unit_test.py
