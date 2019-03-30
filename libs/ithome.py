@@ -89,7 +89,7 @@ class ITHOME:
             try:
                 img_link = tag_a_img.find("img")["src"]
             except Exception as e:
-                logging.warn(e)
+                logging.warning(e)
                 img_link = None
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {

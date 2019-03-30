@@ -1,5 +1,5 @@
 # Taiwan 科技新聞爬蟲
-[![test stauts](https://travis-ci.org/WisChang005/technews_tw.svg?branch=master)](https://travis-ci.org/WisChang005/technews_tw)
+[![Build Status](https://travis-ci.org/WisChang005/technews_tw.svg?branch=master)](https://travis-ci.org/WisChang005/technews_tw)
 
 ##### 台灣科技新聞爬蟲，快速地爬取網站上的新聞網址、圖片連結、新聞標題。
 ```
@@ -7,7 +7,6 @@
     - iThome
     - INSIDE 硬塞的
     - Tech Orange 科技報橘
-    - Business Next 數位時代
 ```
 
 ##### Example for iThome:
@@ -46,7 +45,10 @@ news_data = tech_news.get_news(10)
 }
 ```
 
-##### Python Support:
-```
-Python 2.7 - 3.7
-```
+
+### To Do
+------------
+[Tech News - 科技新報](https://technews.tw/)
+
+[Business Next - 數位時代](https://www.bnext.com.tw/)
+
