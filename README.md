@@ -45,3 +45,8 @@ news_data = tech_news.get_news(10)
   ...
 }
 ```
+
+##### Python Support:
+```
+Python 2.7 - 3.7
+```
