@@ -79,13 +79,18 @@ class ITHOME:
         _base_url = "https://www.ithome.com.tw"
         _contents = dict()
         for tag_p in data_soup.findAll("div", {"class": "views-field views-field-created"}):
+            logging.debug("[ITEM]: %r" % tag_p)
             tag_p_title = tag_p.find("p", {"class": "title"})
             tag_p_img = tag_p.find("p", {"class", "photo"})
             tag_a_title = tag_p_title.find("a")
             tag_a_img = tag_p_img.find("a")
             news_link = tag_a_title["href"]
             news_title = tag_a_title.text
-            img_link = tag_a_img.find("img")["src"]
+            try:
+                img_link = tag_a_img.find("img")["src"]
+            except Exception as e:
+                logging.warn(e)
+                img_link = None
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {
                 news_md5: {
@@ -106,6 +111,6 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG, format=strFormat)
 
     tech_news = ITHOME()
-    news_data = tech_news.get_news()
+    news_data = tech_news.get_news(3)
     print(news_data)
     print("Get tech news data counts -> %s" % len(news_data["news_contents"]))
