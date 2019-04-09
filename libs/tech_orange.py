@@ -96,11 +96,21 @@ class TechOrange:
             data=_payload)
 
         logging.debug("Load page status [%s]" % load_resp.status_code)
-        if load_resp.status_code == 200:
+        retry_counts = 0
+        while load_resp.status_code != 200:
+            load_resp = self.session.post(
+                url=_load_page_api,
+                data=_payload)
+            logging.debug("[RETRY] Load page status [%s]" % load_resp.status_code)
+
+            if retry_counts > 3:
+                raise Exception("load page error")
+
+            retry_counts += 1
+            time.sleep(5)
+        else:
             resp_json = load_resp.json()
             resp_data = resp_json["data"]
-        else:
-            raise Exception("Load page error")
 
         resp_data_dict = self.__handle_page_contents(data_contents=resp_data)
         return resp_data_dict

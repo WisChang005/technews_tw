@@ -13,11 +13,11 @@
 ```
 from libs.ithome import ITHOME
 
-# get first page
+# get page 1 news
 tech_news = ITHOME()
 news_data = tech_news.get_news()
 
-# get page 10
+# get news from page 1 - 10
 tech_news = ITHOME()
 news_data = tech_news.get_news(10)
 ```
