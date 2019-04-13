@@ -13,4 +13,4 @@ before_script:
 
 # command to run tests
 script:
-  - pytest -v -nauto
+  - pytest -v
