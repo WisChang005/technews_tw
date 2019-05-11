@@ -14,7 +14,7 @@ before_script:
 
 # command to run tests
 script:
-  - py.test --cov=foo --cov-report=xml
+  - pytest -v
 
 after_success:
     coveralls
