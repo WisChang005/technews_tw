@@ -60,7 +60,7 @@ class BusinessNext:
         return news_data
 
     def __load_pages(self, page_index, token=None):
-        _load_page_api = "https://www.bnext.com.tw/articles"
+        _load_page_api = self.url
         logging.debug("Load page -> %s" % _load_page_api)
 
         payload = {
@@ -93,7 +93,7 @@ class BusinessNext:
 
         # generate data dict
         _contents = dict()
-        for tag_div in data_soup.findAll("div", {"class": "item_box item_sty01 div_tab"}):
+        for tag_div in data_soup.findAll("div", {"class": "item_box item_sty01 div_tab "}):
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
             tag_div_title = tag_div.find("div", {"class": "item_title font_sty02"})
             news_link = tag_a_img["href"]
@@ -119,6 +119,6 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG, format=strFormat)
 
     tech_news = BusinessNext()
-    news_data = tech_news.get_news(10)
+    news_data = tech_news.get_news(2)
     print(news_data)
     print("Get tech news data counts -> %s" % len(news_data["news_contents"]))
