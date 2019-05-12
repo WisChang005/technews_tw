@@ -91,9 +91,27 @@ class BusinessNext:
     def __handle_page_contents(self, data_contents):
         data_soup = BeautifulSoup(data_contents, "lxml")
 
+        # check class name
+        _class_name1 = "item_box item_sty01 div_tab "
+        _class_name2 = "item_box item_sty01 div_tab"
+
+        _class_list = [_class_name1, _class_name2]
+
+        tag_generator = None
+        for class_name in _class_list:
+            _tag_div = data_soup.findAll("div", {"class": class_name})
+            if len(_tag_div) > 0:
+                logging.info("Class name [%s] can be analysis" % class_name)
+                tag_generator = _tag_div
+                break
+            else:
+                logging.warn("Class name [%s] cannot be analysis" % class_name)
+        else:
+            raise Exception("All class name cannot be found")
+
         # generate data dict
         _contents = dict()
-        for tag_div in data_soup.findAll("div", {"class": "item_box item_sty01 div_tab "}):
+        for tag_div in tag_generator:
             logging.debug("[TAG DIV] tag_div=%r" % tag_div)
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
             tag_div_title = tag_div.find("div", {"class": "item_title font_sty02"})
