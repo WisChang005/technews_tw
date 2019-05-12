@@ -37,7 +37,7 @@ class TechNewTests:
         page10_data = ithome.get_news(10)
         self.__page_load_assertion(page1_data, page10_data)
 
-    @pytest.mark.parametrize("browser_page", [0, 1, 3, 5])
+    @pytest.mark.parametrize("browser_page", [1, 3, 5])
     def test_business_next_page_response(self, browser_page):
         news_data = business_next.get_news(browser_page)
         self.__news_data_contents_assertion(news_data)

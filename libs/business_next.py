@@ -94,6 +94,7 @@ class BusinessNext:
         # generate data dict
         _contents = dict()
         for tag_div in data_soup.findAll("div", {"class": "item_box item_sty01 div_tab "}):
+            logging.debug("[TAG DIV] tag_div=%r" % tag_div)
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
             tag_div_title = tag_div.find("div", {"class": "item_title font_sty02"})
             news_link = tag_a_img["href"]
@@ -108,6 +109,8 @@ class BusinessNext:
                 }
             }
             _contents.update(cur_news_data)
+        else:
+            logging.debug("Finish load page")
 
         return _contents
 
