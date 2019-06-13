@@ -1,6 +1,6 @@
 # Taiwan 科技新聞爬蟲
 [![Build Status](https://travis-ci.org/WisChang005/technews_tw.svg?branch=master)](https://travis-ci.org/WisChang005/technews_tw)
-[![Azure Status](https://dev.azure.com/wisdevops/pipe_test1/_apis/build/status/WisChang005.technews_tw?branchName=master)
+![Azure Status](https://dev.azure.com/wisdevops/pipe_test1/_apis/build/status/WisChang005.technews_tw?branchName=master)
 
 
 ##### 台灣科技新聞爬蟲，快速地爬取網站上的新聞網址、圖片連結、新聞標題。
