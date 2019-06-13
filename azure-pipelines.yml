@@ -35,7 +35,6 @@ steps:
   displayName: 'pytest'
 
 - task: PublishTestResults@2
-  condition: succeededOrFailed()
   inputs:
-    testResultsFiles: '**/test-*.xml'
-    testRunTitle: 'Publish test results for Python $(python.version)'
+    testResultsFormat: 'JUnit'
+    testResultsFiles: '**/TEST-*.xml'
