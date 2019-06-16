@@ -38,3 +38,7 @@ steps:
   inputs:
     testResultsFormat: 'JUnit'
     testResultsFiles: 'junit/test-results.xml'
+
+- task: PyLint@0
+  inputs:
+    modules: 'libs'
