@@ -7,8 +7,8 @@
 ```
 支援以下網站:
     - iThome
-    - INSIDE 硬塞的
     - Tech Orange 科技報橘
+    - Business Next - 數位時代
 ```
 
 ##### Example for iThome:
@@ -52,5 +52,5 @@ news_data = tech_news.get_news(10)
 ------------
 [Tech News - 科技新報](https://technews.tw/)
 
-[Business Next - 數位時代](https://www.bnext.com.tw/)
+[INSIDE 硬塞的](https://www.inside.com.tw/)
 
