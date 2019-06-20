@@ -60,7 +60,7 @@ class TechOrange:
 
             except Exception as e:
                 logging.error(e)
-                logging.warn("The key is wrong, wait 5 sec do retry...")
+                logging.warning("The key is wrong, wait 5 sec do retry...")
                 time.sleep(5)
                 self.session = requests.Session()
 
@@ -136,15 +136,3 @@ class TechOrange:
             _contents.update(cur_news_data)
 
         return _contents
-
-
-if __name__ == '__main__':
-
-    strFormat = '%(asctime)s [%(module)s.%(funcName)s]' \
-        ' %(levelname)s %(message)s'
-    logging.basicConfig(level=logging.DEBUG, format=strFormat)
-
-    tech_news = TechOrange()
-    news_data = tech_news.get_news(page=3)
-    print(news_data)
-    print("Get tech news data counts -> %s" % len(news_data["news_contents"]))

@@ -105,7 +105,7 @@ class BusinessNext:
                 tag_generator = _tag_div
                 break
             else:
-                logging.warn("Class name [%s] cannot be analysis" % class_name)
+                logging.warning("Class name [%s] cannot be analysis" % class_name)
         else:
             raise Exception("All class name cannot be found")
 
@@ -131,15 +131,3 @@ class BusinessNext:
             logging.debug("Finish load page")
 
         return _contents
-
-
-if __name__ == '__main__':
-
-    strFormat = '%(asctime)s [%(module)s.%(funcName)s]' \
-        ' %(levelname)s %(message)s'
-    logging.basicConfig(level=logging.DEBUG, format=strFormat)
-
-    tech_news = BusinessNext()
-    news_data = tech_news.get_news(2)
-    print(news_data)
-    print("Get tech news data counts -> %s" % len(news_data["news_contents"]))

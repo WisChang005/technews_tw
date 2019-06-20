@@ -102,15 +102,3 @@ class ITHOME:
             _contents.update(cur_news_data)
 
         return _contents
-
-
-if __name__ == '__main__':
-
-    strFormat = '%(asctime)s [%(module)s.%(funcName)s]' \
-        ' %(levelname)s %(message)s'
-    logging.basicConfig(level=logging.DEBUG, format=strFormat)
-
-    tech_news = ITHOME()
-    news_data = tech_news.get_news(3)
-    print(news_data)
-    print("Get tech news data counts -> %s" % len(news_data["news_contents"]))

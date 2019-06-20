@@ -13,4 +13,7 @@ before_script:
 
 # command to run tests
 script:
-  - pytest -v
+  - pytest --cov=libs -v --cov-report term-missing
+
+after_success:
+    - codecov
