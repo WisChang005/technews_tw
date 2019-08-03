@@ -40,10 +40,10 @@ jobs:
           command: |
             . venv/bin/activate
             export PYTHONPATH=$PYTHONPATH:$(pwd)
-            pytest -vv tests --junitxml=pytest_report.xml
+            pytest -vv tests --junitxml=test-report/pytest_report.xml
 
       - store_test_results:
-          path: pytest_report.xml
+          path: ~/repo/test-report
 
 
 
