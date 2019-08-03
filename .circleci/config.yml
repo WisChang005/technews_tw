@@ -39,6 +39,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
+            export PYTHONPATH=$PYTHONPATH:$(pwd)
             pytest -vv tests
 
 workflows:
