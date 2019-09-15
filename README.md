@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
 
 
-##### 台灣科技新聞API，爬取網站上的新聞網址、圖片連結、新聞標題。
+##### 台灣科技新聞
 ```
 支援以下網站:
     - iThome

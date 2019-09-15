@@ -114,7 +114,7 @@ class BusinessNext:
         for tag_div in tag_generator:
             logging.debug("[TAG DIV] tag_div=%r" % tag_div)
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
-            tag_div_title = tag_div.find("div", {"class": "item_title font_sty02"})
+            tag_div_title = tag_div.find("h2", {"class": "item_title font_sty02"})
             news_link = tag_a_img["href"]
             news_title = tag_div_title.text.strip()
             img_link = tag_a_img.find("img")["src"]
