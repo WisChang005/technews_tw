@@ -21,4 +21,4 @@ jobs:
       run: |
         pip install pytest
         export PYTHONPATH=$PYTHONPATH:$(pwd)
-        pytest --junitxml=junit/test-results.xml
+        pytest -v --junitxml=junit/test-results.xml
