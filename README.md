@@ -1,4 +1,4 @@
-# Taiwan Tech News API - 科技新聞API
+# Taiwan Tech News Parser - 科技新聞文章擷取
 [![Build Status](https://travis-ci.org/WisChang005/technews_tw.svg?branch=master)](https://travis-ci.org/WisChang005/technews_tw)
 [![Build Status](https://dev.azure.com/wisdevops/technews-tw/_apis/build/status/WisChang005.technews_tw?branchName=master)](https://dev.azure.com/wisdevops/technews-tw/_build/latest?definitionId=12&branchName=master)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
