@@ -3,6 +3,7 @@
 [![Build Status](https://dev.azure.com/wisdevops/technews-tw/_apis/build/status/WisChang005.technews_tw?branchName=master)](https://dev.azure.com/wisdevops/technews-tw/_build/latest?definitionId=12&branchName=master)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
 [![CircleCI](https://circleci.com/gh/WisChang005/technews_tw.svg?style=svg)](https://circleci.com/gh/WisChang005/technews_tw)
+[![GitHub Actions](https://github.com/WisChang005/technews_tw/workflows/Python%20application/badge.svg)](https://github.com/WisChang005/technews_tw/actions)
 
 
 ##### 台灣科技新聞
