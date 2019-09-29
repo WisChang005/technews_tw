@@ -1,12 +1,13 @@
-from bs4 import BeautifulSoup
 import time
 import json
-import requests
 import hashlib
 import logging
 
+import requests
+from bs4 import BeautifulSoup
 
-class TechOrange:
+
+class TechOrange(object):
 
     def __init__(self):
         self.url = "https://buzzorange.com/techorange/"
@@ -38,17 +39,13 @@ class TechOrange:
                     "timestamp": time.time(),
                     "news_page_title": page_title
                 }
-                logging.debug("Get tech news -> [%s]" % news_data)
 
                 # get load page key
                 script_tags = soup.findAll("script", {"type": "text/javascript"})
                 for i, js_script in enumerate(script_tags):
                     if "fmloadmore" in js_script.text:
-                        logging.debug(js_script.text)
                         _split_dict = json.loads(str(js_script.text.split("fmloadmore = ")[1].split(";")[0]))
-                        logging.debug(_split_dict)
                         load_more_key = _split_dict["nonce"]
-                        logging.debug("Load more key [%s]" % load_more_key)
                         break
 
                 try:

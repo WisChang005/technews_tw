@@ -6,7 +6,7 @@ import hashlib
 import logging
 
 
-class ITHOME:
+class ITHOME(object):
 
     def __init__(self):
         self.url = "http://www.ithome.com.tw/latest"
@@ -59,11 +59,8 @@ class ITHOME:
     def __load_pages(self, page_index):
         _load_page_api = "https://www.ithome.com.tw/latest?page={}"
         _load_page_api = _load_page_api.format(page_index)
-        logging.debug("Load page -> %s" % _load_page_api)
-
         load_resp = self.session.get(url=_load_page_api)
 
-        logging.debug("Load page status [%s]" % load_resp.status_code)
         if load_resp.status_code == 200:
             resp_data = load_resp.text
         else:
@@ -79,7 +76,6 @@ class ITHOME:
         _base_url = "https://www.ithome.com.tw"
         _contents = dict()
         for tag_p in data_soup.findAll("div", {"class": "views-field views-field-created"}):
-            logging.debug("[ITEM]: %r" % tag_p)
             tag_p_title = tag_p.find("p", {"class": "title"})
             tag_p_img = tag_p.find("p", {"class", "photo"})
             tag_a_title = tag_p_title.find("a")
@@ -88,8 +84,7 @@ class ITHOME:
             news_title = tag_a_title.text
             try:
                 img_link = tag_a_img.find("img")["src"]
-            except Exception as e:
-                logging.warning(e)
+            except Exception:
                 img_link = None
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {

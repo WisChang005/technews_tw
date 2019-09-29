@@ -1,9 +1,10 @@
-from bs4 import BeautifulSoup
 import time
 import json
-import requests
 import hashlib
 import logging
+
+import requests
+from bs4 import BeautifulSoup
 
 
 class BusinessNext:
@@ -37,7 +38,6 @@ class BusinessNext:
             "timestamp": time.time(),
             "news_page_title": page_title
         }
-        logging.debug("Get tech news -> [%s]" % news_data)
 
         # get news data
         cur_news_data = self.__handle_page_contents(data_contents=resp.text)
@@ -61,7 +61,6 @@ class BusinessNext:
 
     def __load_pages(self, page_index, token=None):
         _load_page_api = self.url
-        logging.debug("Load page -> %s" % _load_page_api)
 
         payload = {
             "ac": "get_page",
@@ -101,7 +100,6 @@ class BusinessNext:
         for class_name in _class_list:
             _tag_div = data_soup.findAll("div", {"class": class_name})
             if len(_tag_div) > 0:
-                logging.info("Class name [%s] can be analysis" % class_name)
                 tag_generator = _tag_div
                 break
             else:
@@ -112,7 +110,6 @@ class BusinessNext:
         # generate data dict
         _contents = dict()
         for tag_div in tag_generator:
-            logging.debug("[TAG DIV] tag_div=%r" % tag_div)
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
             tag_div_title = tag_div.find("h2", {"class": "item_title font_sty02"})
             news_link = tag_a_img["href"]
