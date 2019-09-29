@@ -18,5 +18,5 @@ soupsieve==1.8
 urllib3==1.24.2
 pytest==4.6.5
 pytest-forked==1.0.2
-pytest-xdist==1.29.0
+pytest-xdist==1.27.0
 delayed-assert==0.3.2
