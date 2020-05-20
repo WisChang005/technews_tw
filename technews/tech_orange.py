@@ -52,6 +52,7 @@ class TechOrange:
                     int(load_more_key)
                 except ValueError:
                     logging.info("The key is correct!")
+                    break
                 else:
                     raise ValueError(f"The Key is wrong! {load_more_key}")
 
@@ -60,6 +61,8 @@ class TechOrange:
                 logging.warning("The key is wrong, wait 5 sec do retry...")
                 time.sleep(5)
                 self.session = requests.Session()
+        else:
+            raise ValueError(f"Loading key error {load_more_key}")
 
         # get news data
         cur_news_data = self.__handle_page_contents(data_contents=resp.text)
@@ -74,11 +77,7 @@ class TechOrange:
 
         news_data["news_contents"] = news_contents
 
-        # handle encoding
-        news_data = json.dumps(news_data)
-        news_data = json.loads(news_data)
-
-        return news_data
+        return json.loads(json.dumps(news_data))
 
     def __load_pages(self, page_index, nonce_key):
         _load_page_api = "https://buzzorange.com/techorange/wp-admin/admin-ajax.php"
