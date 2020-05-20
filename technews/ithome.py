@@ -1,21 +1,22 @@
-from bs4 import BeautifulSoup
 import time
 import json
-import requests
 import hashlib
 import logging
 
+import requests
+from bs4 import BeautifulSoup
 
-class ITHOME(object):
+
+class ITHOME:
 
     def __init__(self):
         self.url = "http://www.ithome.com.tw/latest"
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/58.0.3029.81 Safari/537.36",
-            "accept": "ttext/html,application/xhtml+xml,application/xml;"
-            "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+            "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/58.0.3029.81 Safari/537.36"),
+            "accept": ("ttext/html,application/xhtml+xml,application/xml;"
+                       "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"),
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
         }
@@ -24,7 +25,7 @@ class ITHOME(object):
     def get_news(self, page=0):
         resp = self.session.get(self.url, headers=self.headers)
         resp.encoding = 'utf-8'
-        logging.debug("Encoding - [%s]" % resp.encoding)
+        logging.debug("Encoding - [%s]", resp.encoding)
 
         news_contents = dict()
 
@@ -36,7 +37,7 @@ class ITHOME(object):
             "timestamp": time.time(),
             "news_page_title": page_title
         }
-        logging.debug("Get tech news -> [%s]" % news_data)
+        logging.debug("Get tech news -> [%s]", news_data)
 
         # get news data
         cur_news_data = self.__handle_page_contents(data_contents=resp.text)

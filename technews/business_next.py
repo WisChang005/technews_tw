@@ -12,11 +12,11 @@ class BusinessNext:
     def __init__(self):
         self.url = "https://www.bnext.com.tw/articles"
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/58.0.3029.81 Safari/537.36",
-            "accept": "ttext/html,application/xhtml+xml,application/xml;"
-            "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+            "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/58.0.3029.81 Safari/537.36"),
+            "accept": ("ttext/html,application/xhtml+xml,application/xml;"
+                       "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"),
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
         }
@@ -25,7 +25,7 @@ class BusinessNext:
     def get_news(self, page=1):
         resp = self.session.get(self.url, headers=self.headers)
         resp.encoding = 'utf-8'
-        logging.debug("Encoding - [%s]" % resp.encoding)
+        logging.debug("Encoding - [%s]", resp.encoding)
 
         news_contents = dict()
 
@@ -76,7 +76,7 @@ class BusinessNext:
             url=_load_page_api,
             data=payload)
 
-        logging.debug("Load page status [%s]" % load_resp.status_code)
+        logging.debug("Load page status [%s]", load_resp.status_code)
         if load_resp.status_code == 200:
             resp_data = load_resp.text
             raw_data = BeautifulSoup(resp_data, "lxml")
@@ -102,8 +102,7 @@ class BusinessNext:
             if len(_tag_div) > 0:
                 tag_generator = _tag_div
                 break
-            else:
-                logging.warning("Class name [%s] cannot be analysis" % class_name)
+            logging.warning("Class name [%s] cannot be analysis", class_name)
         else:
             raise Exception("All class name cannot be found")
 
@@ -124,7 +123,5 @@ class BusinessNext:
                 }
             }
             _contents.update(cur_news_data)
-        else:
-            logging.debug("Finish load page")
 
         return _contents

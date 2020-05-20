@@ -7,16 +7,16 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class TechOrange(object):
+class TechOrange:
 
     def __init__(self):
         self.url = "https://buzzorange.com/techorange/"
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/58.0.3029.81 Safari/537.36",
-            "accept": "text/html,application/xhtml+xml,"
-            "application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/58.0.3029.81 Safari/537.36"),
+            "accept": ("ttext/html,application/xhtml+xml,application/xml;"
+                       "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"),
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
         }
@@ -27,7 +27,7 @@ class TechOrange(object):
             try:
                 resp = self.session.get(self.url, headers=self.headers)
                 resp.encoding = 'utf-8'
-                logging.debug("Encoding - [%s]" % resp.encoding)
+                logging.debug("Encoding - [%s]", resp.encoding)
 
                 news_contents = dict()
 
@@ -42,7 +42,7 @@ class TechOrange(object):
 
                 # get load page key
                 script_tags = soup.findAll("script", {"type": "text/javascript"})
-                for i, js_script in enumerate(script_tags):
+                for js_script in script_tags:
                     if "fmloadmore" in js_script.text:
                         _split_dict = json.loads(str(js_script.text.split("fmloadmore = ")[1].split(";")[0]))
                         load_more_key = _split_dict["nonce"]
@@ -92,22 +92,22 @@ class TechOrange(object):
             url=_load_page_api,
             data=_payload)
 
-        logging.debug("Load page status [%s]" % load_resp.status_code)
+        logging.debug("Load page status [%s]", load_resp.status_code)
         retry_counts = 0
         while load_resp.status_code != 200:
             load_resp = self.session.post(
                 url=_load_page_api,
                 data=_payload)
-            logging.debug("[RETRY] Load page status [%s]" % load_resp.status_code)
+            logging.debug("[RETRY] Load page status [%s]", load_resp.status_code)
 
             if retry_counts > 3:
                 raise Exception("load page error")
 
             retry_counts += 1
             time.sleep(5)
-        else:
-            resp_json = load_resp.json()
-            resp_data = resp_json["data"]
+
+        resp_json = load_resp.json()
+        resp_data = resp_json["data"]
 
         resp_data_dict = self.__handle_page_contents(data_contents=resp_data)
         return resp_data_dict
@@ -119,7 +119,7 @@ class TechOrange(object):
         _contents = dict()
         for tag_a in data_soup.findAll("a", {"class": "post-thumbnail"}):
             news_link = tag_a["href"]
-            img_link = tag_a["style"].split(":url(")[1].strip(")")
+            img_link = tag_a["data-src"].strip()
             news_title1 = tag_a["onclick"].split("'Click', '")[1]
             news_title = news_title1.split("', {'nonInteraction'")[0]
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
