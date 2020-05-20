@@ -90,11 +90,7 @@ class BusinessNext:
     def __handle_page_contents(self, data_contents):
         data_soup = BeautifulSoup(data_contents, "lxml")
 
-        # check class name
-        _class_name1 = "item_box item_sty01 div_tab "
-        _class_name2 = "item_box item_sty01 div_tab"
-
-        _class_list = [_class_name1, _class_name2]
+        _class_list = ["item_box item_sty01 div_tab ", "item_box item_sty01 div_tab"]
 
         tag_generator = None
         for class_name in _class_list:

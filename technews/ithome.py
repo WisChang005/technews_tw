@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 class ITHOME:
 
     def __init__(self):
-        self.url = "http://www.ithome.com.tw/latest"
+        self.url = "https://www.ithome.com.tw/latest"
         self.headers = {
             "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
