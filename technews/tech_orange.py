@@ -53,7 +53,7 @@ class TechOrange:
                 except ValueError:
                     logging.info("The key is correct!")
                 else:
-                    raise ValueError("The Key is wrong!")
+                    raise ValueError(f"The Key is wrong! {load_more_key}")
 
             except Exception as e:
                 logging.error(e)
