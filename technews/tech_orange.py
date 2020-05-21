@@ -15,10 +15,15 @@ class TechOrange:
             "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
                            "Chrome/58.0.3029.81 Safari/537.36"),
-            "accept": ("ttext/html,application/xhtml+xml,application/xml;"
-                       "q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"),
+            "accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+                       "image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"),
             "accept-encoding": "gzip, deflate, br",
-            "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+            "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+            "cache-control": "max-age=0",
+            "sec-fetch-dest": "document",
+            "sec-fetch-mode": "navigate",
+            "sec-fetch-site": "none",
+            "upgrade-insecure-requests": "1"
         }
         self.session = requests.Session()
 
