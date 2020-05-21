@@ -41,6 +41,7 @@ class TechOrange:
                 }
 
                 # get load page key
+                load_more_key = None
                 script_tags = soup.findAll("script", {"type": "text/javascript"})
                 for js_script in script_tags:
                     if "fmloadmore" in js_script.text:
@@ -48,13 +49,11 @@ class TechOrange:
                         load_more_key = _split_dict["nonce"]
                         break
 
-                try:
-                    int(load_more_key)
-                except ValueError:
-                    logging.info("The key is correct!")
-                    break
-                else:
-                    raise ValueError(f"The Key is wrong! {load_more_key}")
+                if not load_more_key:
+                    raise Exception(f"Get load page key error {load_more_key}")
+
+                logging.info("Load page key -> [%s]", load_more_key)
+                break
 
             except Exception as e:
                 logging.error(e)
