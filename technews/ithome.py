@@ -30,7 +30,7 @@ class ITHOME:
         news_contents = dict()
 
         # get title text
-        soup = BeautifulSoup(resp.text, "lxml")
+        soup = BeautifulSoup(resp.text, "html5lib")
         page_meta = soup.find('meta', {'property': "og:site_name"})
         page_title = page_meta["content"].strip()
         news_data = {

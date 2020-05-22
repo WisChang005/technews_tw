@@ -30,7 +30,7 @@ class BusinessNext:
         news_contents = dict()
 
         # get title text
-        soup = BeautifulSoup(resp.text, "lxml")
+        soup = BeautifulSoup(resp.text, "html5lib")
         page_meta = soup.find('meta', {'property': "og:site_name"})
         csrf_token = soup.find('meta', {'name': "csrf-token"})["content"]
         page_title = page_meta["content"].strip()
