@@ -21,7 +21,7 @@ jobs:
       run: |
         pip install pytest
         export PYTHONPATH=$PYTHONPATH:$(pwd)
-        pytest --cov=technews -v --cov-report term-missing tests --junitxml=junit/test-results.xml
+        pytest --cov=technews -v --cov-report=xml tests
     - name: Update Code Coverage
       run: |
         codecov
