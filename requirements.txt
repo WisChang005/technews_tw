@@ -16,3 +16,4 @@ pytest
 pytest-forked
 pytest-xdist
 delayed-assert
+html5lib
