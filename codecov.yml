@@ -18,3 +18,6 @@ comment:
   layout: "reach,diff,flags,tree"
   behavior: default
   require_changes: no
+
+codecov:
+  token: 59bafcc3-7bd7-4033-93f3-858101967324
