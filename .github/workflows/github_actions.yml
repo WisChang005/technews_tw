@@ -1,4 +1,4 @@
-name: Python application
+name: Tech News Watcher
 
 on: [push]
 
@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Set up Python 3.7
+    - name: Setup Python 3.7
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
@@ -21,4 +21,7 @@ jobs:
       run: |
         pip install pytest
         export PYTHONPATH=$PYTHONPATH:$(pwd)
-        pytest -v --junitxml=junit/test-results.xml
+        pytest --cov=technews -v --cov-report term-missing tests --junitxml=junit/test-results.xml
+    - name: Update Code Coverage
+      run: |
+        codecov
