@@ -51,8 +51,10 @@ class TechOrange:
                 for i, js_script in enumerate(script_tags):
                     logging.debug("%s) - %s", i, js_script)
                     if "fmloadmore" in js_script.text:
-                        _split_dict = json.loads(str(js_script.text.split("fmloadmore = ")[1].split(";")[0]))
-                        logging.debug("_split_dict = %s", _split_dict)
+                        split_string = str(js_script.text.split("fmloadmore = ")[1].split(";")[0])
+                        logging.debug("@@@ split_string = %s", split_string)
+                        _split_dict = json.loads(split_string)
+                        logging.debug("@@@ _split_dict = %s", _split_dict)
                         load_more_key = _split_dict["nonce"]
                         break
 
