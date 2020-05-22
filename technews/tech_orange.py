@@ -49,9 +49,10 @@ class TechOrange:
                 load_more_key = None
                 script_tags = soup.findAll("script", {"type": "text/javascript"})
                 for i, js_script in enumerate(script_tags):
-                    logging.debug("%s) - %s", i,  js_script)
+                    logging.debug("%s) - %s", i, js_script)
                     if "fmloadmore" in js_script.text:
                         _split_dict = json.loads(str(js_script.text.split("fmloadmore = ")[1].split(";")[0]))
+                        logging.debug("_split_dict = %s", _split_dict)
                         load_more_key = _split_dict["nonce"]
                         break
 
