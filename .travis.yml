@@ -1,20 +1,19 @@
 language: python
 python:
-  - "3.4"
   - "3.5"
   - "3.6"
+  - "3.7"
 
 # command to install dependencies
 install:
   - pip install -r requirements.txt
-  - pip install codecov pytest-cov
 
 before_script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
 
 # command to run tests
 script:
-  - pytest --cov . -v --cov-report term-missing tests
+  - pytest --cov=technews -v --cov-report term-missing tests
 
 after_success:
     - codecov
