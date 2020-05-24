@@ -38,11 +38,9 @@ class TechOrange:
 
                 # get title text
                 soup = BeautifulSoup(resp.text, "html5lib")
-                page_meta = soup.find("meta", {"name": "description"})
-                page_title = page_meta["content"].strip()
                 news_data = {
                     "timestamp": time.time(),
-                    "news_page_title": page_title
+                    "news_page_title": soup.find("title").text.strip()
                 }
 
                 # get load page key
@@ -64,8 +62,7 @@ class TechOrange:
                 break
 
             except Exception as e:
-                logging.error(e)
-                logging.warning("The key is wrong, wait 5 sec do retry...")
+                logging.warning("The key is wrong, wait 5 sec do retry...%s", e)
                 time.sleep(5)
                 self.session = requests.Session()
         else:

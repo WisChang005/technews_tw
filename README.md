@@ -1,7 +1,7 @@
 # Taiwan Tech News Parser - 科技新聞文章擷取
 
+![Tech News Watcher](https://github.com/WisChang005/technews_tw/workflows/Tech%20News%20Watcher/badge.svg)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
-[![GitHub Actions](https://github.com/WisChang005/technews_tw/workflows/Python%20application/badge.svg)](https://github.com/WisChang005/technews_tw/actions)
 
 
 ##### 台灣科技新聞

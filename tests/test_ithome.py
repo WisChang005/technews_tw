@@ -1,3 +1,4 @@
+import json
 import logging
 
 import pytest
@@ -27,3 +28,9 @@ def _print_first_news_data(news_data):
     for news_i in news_data["news_contents"]:
         logging.debug(news_data["news_contents"][news_i])
         break
+
+
+def test_news_content_to_json_file():
+    news_data = ithome.get_news(3)
+    with open("tests/samples/ithome_samples.json", "w") as f:
+        json.dump(news_data, f, indent=2)
