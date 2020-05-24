@@ -105,22 +105,19 @@ class BusinessNext:
         # generate data dict
         _contents = dict()
         for tag_div in tag_generator:
-            try:
-                tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
-                tag_div_title = tag_div.find("h2", {"class": "item_title font_sty02"})
-                news_link = tag_a_img["href"]
-                news_title = tag_div_title.text.strip()
-                img_link = tag_a_img["style"].split("url('")[1].strip("');")
-                news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
-                cur_news_data = {
-                    news_md5: {
-                        "link": news_link,
-                        "image": img_link,
-                        "title": news_title
-                    }
+            tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
+            tag_div_title = tag_div.find("h2", {"class": "item_title font_sty02"})
+            news_link = tag_a_img["href"]
+            news_title = tag_div_title.text.strip()
+            img_link = tag_a_img["style"].split("url('")[1].strip("');")
+            news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
+            cur_news_data = {
+                news_md5: {
+                    "link": news_link,
+                    "image": img_link,
+                    "title": news_title
                 }
-                _contents.update(cur_news_data)
-            except Exception as e:
-                logging.debug(e)
+            }
+            _contents.update(cur_news_data)
 
         return _contents
