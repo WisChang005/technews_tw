@@ -2,6 +2,7 @@ import time
 import json
 import hashlib
 import logging
+import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -26,6 +27,21 @@ class TechOrange:
             "upgrade-insecure-requests": "1"
         }
         self.session = requests.Session()
+
+    def get_today_news(self):
+        date = datetime.date.today().strftime("%Y-%m-%d")
+        all_news = self.get_news(3)
+        today_news = {}
+        for k, v in all_news["news_contents"].items():
+            if date in v["date"]:
+                today_news[k] = v
+
+        news_tpl = {
+            "timestamp": time.time(),
+            "news_page_title": all_news["news_page_title"],
+            "news_contents": today_news
+        }
+        return news_tpl
 
     def get_news(self, page=1):
         for _ in range(3):
@@ -120,17 +136,21 @@ class TechOrange:
 
         # generate data dict
         _contents = dict()
-        for tag_a in data_soup.findAll("a", {"class": "post-thumbnail"}):
+
+        for article_i in data_soup.find_all("article"):
+            tag_a = article_i.find("a", {"class": "post-thumbnail"})
             news_link = tag_a["href"]
             img_link = tag_a["data-src"].strip()
             news_title1 = tag_a["onclick"].split("'Click', '")[1]
             news_title = news_title1.split("', {'nonInteraction'")[0]
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
+            date = article_i.find("time").text.replace("/", "-")
             cur_news_data = {
                 news_md5: {
                     "link": news_link,
                     "image": img_link,
-                    "title": news_title
+                    "title": news_title,
+                    "date": date
                 }
             }
             _contents.update(cur_news_data)

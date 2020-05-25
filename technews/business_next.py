@@ -94,7 +94,7 @@ class BusinessNext:
 
         tag_generator = None
         for class_name in _class_list:
-            _tag_div = data_soup.findAll("div", {"class": class_name})
+            _tag_div = data_soup.find_all("div", {"class": class_name})
             if len(_tag_div) > 0:
                 tag_generator = _tag_div
                 break
@@ -107,6 +107,7 @@ class BusinessNext:
         for tag_div in tag_generator:
             tag_a_img = tag_div.find("a", {"class": "item_img bg_img_sty01"})
             tag_div_title = tag_div.find("h2", {"class": "item_title font_sty02"})
+            date_tag = tag_div.find("div", {"class": "div_td td1"}).text.strip()
             news_link = tag_a_img["href"]
             news_title = tag_div_title.text.strip()
             img_link = tag_a_img["style"].split("url('")[1].strip("');")
@@ -115,8 +116,8 @@ class BusinessNext:
                 news_md5: {
                     "link": news_link,
                     "image": img_link,
-                    "title": news_title
-                }
+                    "title": news_title,
+                    "date": date_tag}
             }
             _contents.update(cur_news_data)
 

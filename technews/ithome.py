@@ -76,13 +76,14 @@ class ITHOME:
         # generate data dict
         _base_url = "https://www.ithome.com.tw"
         _contents = dict()
-        for tag_p in data_soup.findAll("div", {"class": "views-field views-field-created"}):
+        for tag_p in data_soup.find_all("div", {"class": "views-field views-field-created"}):
             tag_p_title = tag_p.find("p", {"class": "title"})
             tag_p_img = tag_p.find("p", {"class", "photo"})
             tag_a_title = tag_p_title.find("a")
             tag_a_img = tag_p_img.find("a")
             news_link = tag_a_title["href"]
             news_title = tag_a_title.text
+            date = tag_p.find("p", {"class": "post-at"}).text.strip()
             try:
                 img_link = tag_a_img.find("img")["src"]
             except Exception:
@@ -92,7 +93,8 @@ class ITHOME:
                 news_md5: {
                     "link": _base_url + news_link,
                     "image": img_link,
-                    "title": news_title
+                    "title": news_title,
+                    "date": date
                 }
             }
             _contents.update(cur_news_data)
