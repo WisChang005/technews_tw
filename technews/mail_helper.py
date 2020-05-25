@@ -166,7 +166,7 @@ class EmailHelper:
             news_html += news_frame
         return news_html
 
-    def get_email_outline(self, title: str, news_rows: str):
+    def get_email_html(self, title: str, news_rows: str):
         return self.NEWS_OUTLINE.format(email_title=title, news_rows=news_rows)
 
     def _get_news_provider_frame(self, news_provider: str):

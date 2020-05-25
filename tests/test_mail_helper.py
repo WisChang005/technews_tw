@@ -23,6 +23,6 @@ def test_orange_email_helper():
         samples = _load_samples(f"tests/samples/{sp_name}")
         news_rows += mh.get_news_html_contents(samples, samples["news_page_title"])
 
-    email_html = mh.get_email_outline("2020-科技新聞", news_rows)
+    email_html = mh.get_email_html("2020-科技新聞", news_rows)
     with open("news_email.html", "w") as f:
         f.write(email_html)
