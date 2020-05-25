@@ -1,5 +1,6 @@
 import json
 import logging
+import datetime
 
 import pytest
 
@@ -34,3 +35,10 @@ def test_news_content_to_json_file():
     news_data = business.get_news(3)
     with open("tests/samples/business_samples.json", "w") as f:
         json.dump(news_data, f, indent=2)
+
+
+def test_get_today_news():
+    date = datetime.date.today().strftime("%Y-%m-%d")
+    today_news = business.get_today_news()
+    for _, v in today_news["news_contents"].items():
+        assert date in v["date"]
