@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=python
 
 *.html
-samples/*
+tests/samples/*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
