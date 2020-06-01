@@ -1,4 +1,3 @@
-import datetime
 import json
 import logging
 
@@ -35,10 +34,3 @@ def test_news_content_to_json_file():
     news_data = orange.get_news(3)
     with open("tests/samples/orange_samples.json", "w") as f:
         json.dump(news_data, f, indent=2)
-
-
-def test_get_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
-    today_news = orange.get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]

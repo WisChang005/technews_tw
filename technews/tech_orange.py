@@ -2,7 +2,6 @@ import time
 import json
 import hashlib
 import logging
-import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,21 +26,6 @@ class TechOrange:
             "upgrade-insecure-requests": "1"
         }
         self.session = requests.Session()
-
-    def get_today_news(self):
-        date = datetime.date.today().strftime("%Y-%m-%d")
-        all_news = self.get_news(3)
-        today_news = {}
-        for k, v in all_news["news_contents"].items():
-            if date in v["date"]:
-                today_news[k] = v
-
-        news_tpl = {
-            "timestamp": time.time(),
-            "news_page_title": all_news["news_page_title"],
-            "news_contents": today_news
-        }
-        return news_tpl
 
     def get_news(self, page=1):
         for _ in range(3):

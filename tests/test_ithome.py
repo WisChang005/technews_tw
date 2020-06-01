@@ -1,13 +1,12 @@
 import json
 import logging
-import datetime
 
 import pytest
 
 from technews import ithome
 
 
-ithome = ithome.ITHOME()
+ithome = ithome.iThome()
 
 
 @pytest.mark.parametrize("browser_page", [0, 1, 3, 5])
@@ -35,10 +34,3 @@ def test_news_content_to_json_file():
     news_data = ithome.get_news(3)
     with open("tests/samples/ithome_samples.json", "w") as f:
         json.dump(news_data, f, indent=2)
-
-
-def test_get_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
-    today_news = ithome.get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]

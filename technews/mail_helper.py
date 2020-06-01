@@ -104,7 +104,7 @@ class EmailHelper:
         <tr>
             <td align="center" colspan="3">
                 <h3 style="text-align:center; letter-spacing: 0.2px; color:#e65c00; text-transform: uppercase;
-                    font-weight: 750; line-height: 20px; font-size: 20px;margin:37px 0;">{provider}
+                    font-weight: 750; line-height: 20px; font-size: 26px;margin:37px 0;">{provider}
                 </h3>
             </td>
         </tr>
