@@ -19,12 +19,12 @@ pip install -r requirements.txt
 
 ## Get Today's News:
 ```
-from technews.news_factory import NewsFactory
+from technews import TechNews
 
 
-NewsFactory.get_today_news("business")
-NewsFactory.get_today_news("orange")
-NewsFactory.get_today_news("ithome")
+TechNews("business").get_today_news()
+TechNews("orange").get_today_news()
+TechNews("ithome").get_today_news()
 ```
 
 

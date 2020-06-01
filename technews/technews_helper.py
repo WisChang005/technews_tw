@@ -6,10 +6,26 @@ from technews.tech_orange import TechOrange
 from technews.ithome import iThome
 
 
-class NewsFactory:
+class TechNews:
 
-    @classmethod
-    def get_today_news(cls, news_name: str):
+    def __init__(self, news_name: str):
+        self.news_name = news_name
+        self.news_obj = self._init_news_object()
+
+    def _init_news_object(self):
+        news_obj = {
+            "business": BusinessNext,
+            "orange": TechOrange,
+            "ithome": iThome
+        }
+        if self.news_name not in news_obj:
+            raise ValueError(f"No supported news name [{self.news_name}]")
+        return news_obj[self.news_name]()
+
+    def get_news_by_page(self, page):
+        return self.news_obj.get_news(page)
+
+    def get_today_news(self):
         """
         Returns:
             "timestamp": "1231231255",
@@ -17,8 +33,7 @@ class NewsFactory:
             "news_contents": "111111",
         """
         date = datetime.date.today().strftime("%Y-%m-%d")
-        news_obj = cls._init_news_object(news_name)
-        all_news = news_obj.get_news(3)
+        all_news = self.news_obj.get_news(3)
         today_news = {}
         for k, v in all_news["news_contents"].items():
             if date in v["date"]:
@@ -30,14 +45,3 @@ class NewsFactory:
             "news_contents": today_news
         }
         return news_tpl
-
-    @classmethod
-    def _init_news_object(cls, news_name: str):
-        news_obj = {
-            "business": BusinessNext,
-            "orange": TechOrange,
-            "ithome": iThome
-        }
-        if news_name not in news_obj:
-            raise ValueError(f"No supported news name [{news_name}]")
-        return news_obj[news_name]()
