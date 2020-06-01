@@ -1,15 +1,15 @@
-# Taiwan Tech News - 看科技新聞吧!
+# 科技新聞 8拉888!
 
 ![Tech News Watcher](https://github.com/WisChang005/technews_tw/workflows/Tech%20News%20Watcher/badge.svg)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
 
+![news intor](imgs/intor.png)
 
 ## Supported News
 ```
-Support sites:
-    - iThome
-    - Tech Orange 科技報橘
-    - Business Next - 數位時代
+- iThome
+- Tech Orange 科技報橘
+- Business Next - 數位時代
 ```
 
 ## Package Requirements

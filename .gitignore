@@ -4,7 +4,6 @@
 
 *.html
 env_test.sh
-tests/samples/*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
