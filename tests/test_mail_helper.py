@@ -1,6 +1,6 @@
 import json
 
-from technews.mail_helper import EmailHelper
+from technews.mail_helper import EmailContentHelper
 
 
 def _load_samples(filename):
@@ -10,7 +10,7 @@ def _load_samples(filename):
 
 
 def test_orange_email_helper():
-    mh = EmailHelper()
+    mh = EmailContentHelper()
 
     samples_list = [
         "orange_samples.json",

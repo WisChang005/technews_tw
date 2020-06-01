@@ -2,7 +2,7 @@ import copy
 import random
 
 
-class EmailHelper:
+class EmailContentHelper:
 
     NEWS_OUTLINE = """
       <!doctype html>
