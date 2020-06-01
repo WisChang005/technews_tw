@@ -14,7 +14,13 @@ Support sites:
 
 ## Package Requirements
 ```
+# Install requirements only
 pip install -r requirements.txt
+
+or
+
+# Install to site-package
+pip install -e technews_tw
 ```
 
 ## Get Today's News:
