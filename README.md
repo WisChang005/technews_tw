@@ -35,8 +35,9 @@ TechNews("ithome").get_today_news()
 
 ## Send Today's News by Email
 
-In Linux
+#### Linux
 ```bash
+# set environment variables
 # sender only support "gmail" and "hotmail"
 export MAIL_SENDER="sender@gmail.com"
 export MAIL_SENDER_PWD="iampassword"
@@ -44,7 +45,6 @@ export MAIL_RECV="user01@gmail.com,user02@hotmail.com"
 
 python -m technews.daily_news
 ```
-
 
 ### To Do
 ------------
