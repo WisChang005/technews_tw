@@ -20,6 +20,8 @@ pip install -r requirements.txt
 or
 
 # Install to site-packages
+git clone https://github.com/WisChang005/technews_tw.git
+
 pip install -e technews_tw
 ```
 
@@ -51,4 +53,3 @@ python -m technews.daily_news
 [Tech News - 科技新報](https://technews.tw/)
 
 [INSIDE 硬塞的](https://www.inside.com.tw/)
-
