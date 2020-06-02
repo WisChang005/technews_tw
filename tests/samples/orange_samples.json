@@ -1,24 +1,66 @@
 {
-  "timestamp": 1591030154.8480525,
+  "timestamp": 1591116479.3160653,
   "news_page_title": "TechOrange",
   "news_contents": {
-    "9a5b194583772f5378dd26a84bc4820b": {
-      "link": "https://buzzorange.com/techorange/2020/05/26/hairstyle-live/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/\u87a2\u5e55\u5feb\u7167-2020-05-26-\u4e0b\u53486.04.58.webp?png",
-      "title": "\u30105/27 \u76f4\u64ad\u3011\u96f2\u7aef\u5275\u65b0\u670d\u52d9+\u884c\u52d5\u652f\u4ed8\uff0c\u5982\u4f55\u7ffb\u8f49\u300c\u7f8e\u9e97\u7522\u696d\u300d",
-      "date": "2020-05-26"
-    },
-    "cc19e14e400065d9b9e47afcd0415d78": {
-      "link": "https://buzzorange.com/techorange/2020/05/21/cloudmile-ai/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/Ainotam-5146.webp?jpg",
-      "title": "\u3010\u884c\u92b7\u4eba\u5225\u518d\u50bb\u50bb\u52a0\u73ed\u3011\u5ee3\u544a\u696d AI \u8f49\u578b\u5be6\u6230\u7d93\u9a57\uff1a\u6bcf\u4eba\u4e00\u5929\u7701\u4e0b 1.5 \u5c0f\u6642\uff01",
-      "date": "2020-05-21"
+    "0dea1ba7dc766fd3b7aa2c8eba7d688d": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/delta-green-energy-starts-from-otit/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/\u5716\u7247-1.webp?png",
+      "title": "\u5347\u7d1a\u80fd\u6e90\u7ba1\u7406\u9ad8\u6548\u7387\uff01\u53f0\u9054\u667a\u6167\u7da0\u80fd\u89e3\u6c7a\u65b9\u6848\u70ba\u4f55\u5f9e OT\u3001IT \u6574\u5408\u4e0b\u624b\uff1f",
+      "date": "2020-06-02"
     },
     "453c8142144c6475a2f37010f77cffb6": {
       "link": "https://buzzorange.com/techorange/2020/01/20/hiring-2019/",
       "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/01/article.webp?jpg",
       "title": "\u3010\u79d1\u6280\u5831\u6a58 2020 \u64f4\u5927\u5fb5\u624d\u3011\u548c\u6211\u5011\u4e00\u8d77\u63a2\u7d22\u53f0\u7063\u8a72\u5982\u4f55\u7a81\u7834\u4fb7\u9650\u3001\u8e8d\u5c45\u570b\u969b\u7522\u696d\u8981\u89d2\u7684\u53ef\u80fd\u65b9\u6848",
       "date": "2020-01-20"
+    },
+    "f4db0cbb19a7436e8ac6af1cb0c821a1": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/waterr-on-the-moon/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/\u6708\u4eae.webp?jpg",
+      "title": "\u6708\u7403\u7684\u6c34\u8cc7\u6e90\uff0c\u70ba\u4f55\u662f\u592a\u7a7a\u767c\u5c55\u91cd\u8981\u5546\u6a5f\uff1f",
+      "date": "2020-06-02"
+    },
+    "ff8db7fadf30ccb3955ab932a12435bc": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/smic-ipo-in-china/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/\u87a2\u5e55\u5feb\u7167-2020-06-02-\u4e0b\u53481.12.47.webp?png",
+      "title": "\u6436\u4e0b\u83ef\u70ba\u8a02\u55ae\u4e4b\u5f8c\uff0c\u4e2d\u82af\u64ec\u52df\u8cc7 800 \u5104\u7533\u8acb\u56de\u6b78\u4e0a\u6d77 A \u80a1",
+      "date": "2020-06-02"
+    },
+    "98e0552bfb21b11a757c69d1dd1e579a": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/carrefour-acquire-wellcome/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/1024px-\u5bb6\u6a02\u798f\u6587\u5fc3\u5e97.webp?jpg",
+      "title": "\u3010\u9802\u597d\u8d70\u5165\u6b77\u53f2\u3011\u5bb6\u6a02\u798f\u7838 32 \u5104\u6536\u8cfc\u9802\u597d\uff0c\u76ee\u6a19\uff1a\u6210\u70ba\u5168\u53f0\u898f\u6a21\u7b2c\u4e8c\u5927\u8d85\u5e02",
+      "date": "2020-06-02"
+    },
+    "d77c8a920a5f50e100056a69d61294d4": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/beam-fundraising/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/Beam.webp?jpg",
+      "title": "\u7528\u300c\u512a\u60e0\u6a5f\u5236\u300d\u89e3\u6c7a\u4e82\u505c\u554f\u984c\uff0c\u5171\u4eab\u6ed1\u677f\u8eca\u65b0\u5275 Beam \u7372\u5f97 2600 \u842c\u7f8e\u5143\u878d\u8cc7",
+      "date": "2020-06-02"
+    },
+    "4ad4552784fa0c43f02dc593f94269c0": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/ic-engineer-salary-ranking/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/800x490_187432569998.webp?jpg",
+      "title": "\u3010\u534a\u5c0e\u9ad4\u696d\u4eca\u5e74\u6700\u592f\u3011\u53f0\u7a4d\u96fb\u5de5\u7a0b\u5e2b\u5e74\u85aa\u7d04 200 \u842c\u53ea\u6392 14 \uff0cIC \u8a2d\u8a08\u5747\u85aa\u903c\u8fd1 300 \u842c",
+      "date": "2020-06-02"
+    },
+    "e20ba8f77129cabd7d961017881da636": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/5g-cant-replace-wifi/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/\u87a2\u5e55\u5feb\u7167-2020-06-02-\u4e0a\u534810.52.32.webp?png",
+      "title": "\u30105G \u70ba\u4ec0\u9ebc\u4e0d\u53ef\u80fd\u53d6\u4ee3 WiFi\u3011\u5efa\u7f6e\u6210\u672c\u8b93\u8cc7\u8cbb\u8abf\u964d\u56f0\u96e3\uff0c\u7db2\u901f\u9650\u5236\u4e4b\u4e0b\u4e5f\u53ef\u80fd\u6bd4 WiFi 6 \u6162",
+      "date": "2020-06-02"
+    },
+    "e36f0b2f3768c508f58a0729c2e56720": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/remove-china-app/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/remove.webp?jpg",
+      "title": "\u3010\u958b\u5927\u7d55\u4fdd\u8b77\u8cc7\u5b89\u3011\u5370\u5ea6\u4eba\u958b\u767c\u300c\u79fb\u9664\u4e2d\u570b\u7a0b\u5f0f\u300d\uff0c\u80fd\u6293\u51fa\u4e2d\u570b App \u8b93\u7528\u6236\u522a\u9664",
+      "date": "2020-06-02"
+    },
+    "35d53e7f555f04ed25c01bc65d88e217": {
+      "link": "https://buzzorange.com/techorange/2020/06/02/anti-covid-19-opensource/",
+      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/06/101084493_3241533585908899_7768614661775163392_o.webp?jpg",
+      "title": "\u53f0\u7063\u958b\u653e\u9632\u75ab APP \u7a0b\u5f0f\u78bc\uff0c\u7528\u300cTaiwan can help\u300d\u7cbe\u795e\u5354\u52a9\u4ed6\u570b\u6297\u75ab\uff01",
+      "date": "2020-06-02"
     },
     "4785cb64eee959a6ce4acfa56d63f479": {
       "link": "https://buzzorange.com/techorange/2020/06/01/taiwanese-citizens-database-leaked-in-darkweb/",
@@ -109,60 +151,6 @@
       "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/gogoro-bike.webp?jpg",
       "title": "\u3010\u6bd4\u6a5f\u8eca\u9084\u8cb4\uff1f\u3011Gogoro \u81ea\u63a8\u300c\u667a\u6167\u55ae\u8eca\u300d\u8981\u50f9 11.7 \u842c\uff0c\u5176\u5be6\u6377\u5b89\u7279\u66f4\u8cb4",
       "date": "2020-05-29"
-    },
-    "68675c4b872f663ba312e7bb51c5b0c3": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/google-offer-1000-to-workers-for-telecommuting-expense/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/rajeshwar-bachu-K4txLik7pnY-unsplash.webp?jpg",
-      "title": "Google \u7d66\u5728\u5bb6\u5de5\u4f5c\u7684\u54e1\u5de5\u6bcf\u4eba 1000 \u7f8e\u91d1\uff0c\u4f5c\u70ba\u9060\u8ddd\u8fa6\u516c\u88dc\u8cbc",
-      "date": "2020-05-28"
-    },
-    "7ac0fa604d993657ebdeacc2e8d825c7": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/taichung-city-face-recognition/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/face.webp?jpeg",
-      "title": "\u3010\u5237\u81c9\u9818\u53d6\u865f\u78bc\u55ae\u3011\u53f0\u4e2d\u5e02\u63a8\u4eba\u81c9\u8fa8\u8b58\u53d6\u865f\uff0c\u4e00\u689d\u9f8d\u5716\u50cf\u5316\u7b49\u5f85\u6d41\u7a0b",
-      "date": "2020-05-28"
-    },
-    "8bc8c464471a15cca78c43e9258ee372": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/rare-earth-and-us-air-force/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/160713-F-ZZ999-666.webp?jpg",
-      "title": "\u3010\u4e2d\u7f8e\u7a00\u571f\u6230\u3011F35 \u7684\u96f7\u9054\u78c1\u9435\u4f86\u81ea\u65bc\u4e2d\u570b\uff0c\u6709\u88ab\u690d\u5165\u9593\u8adc\u8edf\u9ad4\u7684\u7591\u616e",
-      "date": "2020-05-28"
-    },
-    "3ac86562423afe2e461b059cd84281c9": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/asteroid-makes-dinosaurs-extinct/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/\u9695\u77f3.webp?jpg",
-      "title": "\u9695\u77f3\u4ee5\u300c60 \u5ea6\u89d2\u300d\u649e\u64ca\u5730\u7403\uff0c\u662f\u5c0e\u81f4\u6050\u9f8d\u6ec5\u7d55\u7684\u95dc\u9375\u56e0\u7d20\uff01",
-      "date": "2020-05-28"
-    },
-    "e83b42c1d11c2e79aa816d56a8da94c7": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/voucher-and-e-commerce/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/money-sale-shopping-retail.webp?jpg",
-      "title": "\u632f\u8208\u5238\u64ec\u6392\u9664\u65bc\u96fb\u5546\u4f7f\u7528\uff0cTiEA \u547c\u7c72\uff1a\u52ff\u8b93\u632f\u8208\u5238\u6210\u53f0\u7063\u6578\u4f4d\u767c\u5c55\u7684\u7d46\u8173\u77f3",
-      "date": "2020-05-28"
-    },
-    "3bd6deaa8d2551b70fb91f446e9bb656": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/gladys-west-build-gps/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/Dr_Gladys_West_Hall_of_Fame.webp?jpg",
-      "title": "\u3010\u767c\u660e GPS \u7684\u96b1\u85cf\u4eba\u7269\u3011\u7f8e\u570b\u6578\u5b78\u5bb6\u5728\u96f7\u9054\u5c08\u6848\u4e2d\uff0c\u5efa\u69cb\u51fa\u5730\u7403\u5f62\u72c0\u7684\u6578\u5b78\u6a21\u578b",
-      "date": "2020-05-28"
-    },
-    "dca7518500da1155401708d17d6d8785": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/china-online-game-ban/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/image1.webp?jpg",
-      "title": "\u3010\u7e7c\u9650\u5236\u6bcf\u5929\u53ef\u73a9\u7684\u6642\u6578\u4e4b\u5f8c\u3011\u4e2d\u570b\u64ec\u7528\u300c\u4eba\u81c9\u8fa8\u8b58\u300d\u9650\u5236\u7db2\u8def\u904a\u6232\u73a9\u5bb6\u767b\u5165\u3001\u4ed8\u8cbb\u7b49\u529f\u80fd",
-      "date": "2020-05-28"
-    },
-    "8667a31009a496fe6fb411c76cfe9749": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/why-pc-ship-phone-chip-fail/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/Nvidia-tegra-3-computer-on-module.webp?jpg",
-      "title": "\u6676\u7247\u7522\u696d\u7684\u300c\u695a\u6cb3\u6f22\u754c\u300d\uff1a\u70ba\u4f55\u7a31\u9738 PC \u7684\u6676\u7247\u88fd\u9020\u5546\uff0c\u8dd1\u53bb\u505a\u624b\u6a5f\u6676\u7247\u5c31\u6703\u5931\u6557\uff1f",
-      "date": "2020-05-28"
-    },
-    "486c8f0a0589023b58449625cb23e901": {
-      "link": "https://buzzorange.com/techorange/2020/05/28/eu-bailout-7500/",
-      "image": "https://buzzorange.com/techorange/wp-content/uploads/sites/2/2020/05/eu.webp?jpg",
-      "title": "\u3010\u5c0f\u4f01\u696d\u975e\u6551\u4e0d\u53ef\u3011\u6b50\u76df\u516c\u5e03 7500 \u5104\u6b50\u5143\u632f\u8208\u65b9\u6848\uff0c\u898f\u6a21\u524d\u6240\u672a\u898b\uff01",
-      "date": "2020-05-28"
     }
   }
 }

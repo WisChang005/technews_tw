@@ -1,9 +1,9 @@
 import time
 import datetime
 
-from technews.business_next import BusinessNext
-from technews.tech_orange import TechOrange
-from technews.ithome import iThome
+from technews.scrapers.business_next import BusinessNext
+from technews.scrapers.tech_orange import TechOrange
+from technews.scrapers.ithome import iThome
 
 
 class TechNews:
@@ -30,7 +30,8 @@ class TechNews:
         Returns:
             "timestamp": "1231231255",
             "news_page_title": "222222",
-            "news_contents": "111111",
+            "news_contents": {"111111"},
+            "news_counts": 111
         """
         date = datetime.date.today().strftime("%Y-%m-%d")
         all_news = self.news_obj.get_news(3)
@@ -42,6 +43,7 @@ class TechNews:
         news_tpl = {
             "timestamp": time.time(),
             "news_page_title": all_news["news_page_title"],
-            "news_contents": today_news
+            "news_contents": today_news,
+            "news_counts": len(today_news)
         }
         return news_tpl

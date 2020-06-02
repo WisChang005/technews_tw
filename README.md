@@ -34,25 +34,15 @@ TechNews("ithome").get_today_news()
 ```
 
 ## Send Today's News by Email
-```python
 
-from technews import mail_util
-from technews import TechNews
-from technews import EmailContentHelper
+In Linux
+```bash
+# sender only support "gmail" and "hotmail"
+export MAIL_SENDER="sender@gmail.com"
+export MAIL_SENDER_PWD="iampassword"
+export MAIL_RECV="user01@gmail.com,user02@hotmail.com"
 
-
-# get news from page 1 to 3
-news = TechNews("orange").get_news_by_page(3)
-
-# create email html 
-mh = EmailContentHelper()
-news_contents = mh.get_news_html_contents(news, news["news_page_title"])
-news_html = mh.get_email_html("Test-科技新聞", news_rows)
-
-# send mail
-mail_util.mail_sender(
-        mail_sender, mail_sender_pwd,
-        recv_mails, news_html, "Test-科技新聞", "html")
+python -m technews.daily_news
 ```
 
 

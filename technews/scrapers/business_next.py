@@ -95,10 +95,10 @@ class BusinessNext:
         tag_generator = None
         for class_name in _class_list:
             _tag_div = data_soup.find_all("div", {"class": class_name})
-            if len(_tag_div) > 0:
+            if _tag_div:
                 tag_generator = _tag_div
                 break
-            logging.warning("Class name [%s] cannot be analysis", class_name)
+            logging.debug("Class name [%s] cannot be analysis", class_name)
         else:
             raise Exception("All class name cannot be found")
 
