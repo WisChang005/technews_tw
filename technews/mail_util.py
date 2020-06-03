@@ -39,7 +39,7 @@ def get_smtp_server(sender):
     else:
         raise ValueError(f"Invalid Email Address [{sender}]")
 
-    logging.debug("[ DEBUG ] Used SMTP server -> %s", smtp_srv)
+    logging.debug("Used SMTP server -> %s", smtp_srv)
     return smtp_srv
 
 
@@ -54,6 +54,7 @@ def mail_sender(sender, sender_pwd, recv_email, mesg_contents, subject, msg_type
         subject: subject title.
         subtype: subtype can be plain, html...etc.
     """
+    logging.debug("Send Mail by -> %s", sender)
     logging.debug("Send Email to -> %s", recv_email)
 
     smtp_srv = get_smtp_server(sender)
@@ -61,7 +62,7 @@ def mail_sender(sender, sender_pwd, recv_email, mesg_contents, subject, msg_type
     message["From"] = Header(sender)
     message["Subject"] = Header(subject)
 
-    server = smtplib.SMTP(smtp_srv, 587)
+    server = smtplib.SMTP(smtp_srv, 587, timeout=30)
     server.ehlo()
     server.starttls()
     server.ehlo()

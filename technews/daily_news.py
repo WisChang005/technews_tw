@@ -1,4 +1,5 @@
 import os
+import logging
 import datetime
 
 from technews import mail_util
@@ -19,15 +20,15 @@ def main():
     skip_counts = 0
     for news_getter in news_list:
         news_data = news_getter()
-        news_contents = news_data["news_page_title"]
-        print(news_data)
+        news_title = news_data["news_page_title"]
+        logging.info("[%s] - [%s]", news_title, news_data["news_counts"])
         if news_data["news_counts"] == 0:
             skip_counts += 1
             continue
-        news_rows += mh.get_news_html_contents(news_data, news_contents)
+        news_rows += mh.get_news_html_contents(news_data, news_title)
 
     if skip_counts == len(news_list):
-        print("No any tech news today.")
+        logging.info("No any tech news today.")
         return
 
     date = datetime.date.today().strftime("%Y/%m/%d")
@@ -41,8 +42,12 @@ def main():
         email_html,
         mail_subject,
         "html")
-    print("Send Today's Tech News Completed!")
+    logging.info("Send Today's Tech News Completed!")
 
 
 if __name__ == "__main__":
+    log_format = ("%(asctime)s  [ %(levelname)s ] %(message)s "
+                  "(%(filename)s:%(lineno)s)-[%(module)s.%(funcName)s]")
+    date_format = "%Y-%m-%d %H:%M:%S"
+    logging.basicConfig(format=log_format, level=logging.INFO, datefmt=date_format)
     main()
