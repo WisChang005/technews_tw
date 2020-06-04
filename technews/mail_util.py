@@ -17,7 +17,7 @@ def error_retry(func):
                 rlt = func(*args, **kwargs)
             except Exception as e:
                 logging.exception(e)
-                logging.debug("Retry Func.%s, [%s]", func.__name__, i)
+                logging.warning("Retry Func.%s, [%s]", func.__name__, i)
             else:
                 break
         else:

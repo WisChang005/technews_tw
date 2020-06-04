@@ -58,7 +58,7 @@ class TechOrange:
                 if not load_more_key:
                     raise Exception(f"Get load page key error {load_more_key}")
 
-                logging.info("Load page key -> [%s]", load_more_key)
+                logging.debug("Load page key -> [%s]", load_more_key)
                 break
 
             except Exception as e:
