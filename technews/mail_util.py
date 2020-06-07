@@ -70,4 +70,4 @@ def mail_sender(sender, sender_pwd, recv_email, mesg_contents, subject, msg_type
 
     server.sendmail(sender, recv_email, message.as_string())
     server.quit()
-    logging.debug("Send mail successful!")
+    logging.info("Send mail successful!")

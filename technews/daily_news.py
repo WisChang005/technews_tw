@@ -46,8 +46,14 @@ def main():
 
 
 if __name__ == "__main__":
+
+    try:
+        LOG_LEVEL = os.environ["LOG_LEVEL"]
+    except Exception:
+        LOG_LEVEL = logging.INFO
+
     log_format = ("%(asctime)s  [ %(levelname)s ] %(message)s "
                   "(%(filename)s:%(lineno)s)-[%(module)s.%(funcName)s]")
     date_format = "%Y-%m-%d %H:%M:%S"
-    logging.basicConfig(format=log_format, level=logging.INFO, datefmt=date_format)
+    logging.basicConfig(format=log_format, level=LOG_LEVEL, datefmt=date_format)
     main()
