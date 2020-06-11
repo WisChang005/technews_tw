@@ -1,228 +1,210 @@
 {
-  "timestamp": 1591116466.043803,
+  "timestamp": 1591866456.704066,
   "news_page_title": "\u6578\u4f4d\u6642\u4ee3",
   "news_contents": {
-    "066889d757f2510a385bd0def676c567": {
-      "link": "https://www.bnext.com.tw/article/57941/huawei-mtk-tsmc-trade-war-america-china-chip",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-02/img-1581561425-18610@400.jpg",
-      "title": "\u83ef\u70ba\u627e\u4eba\u300c\u4ee3\u8cfc\u300d\u53f0\u7a4d\u6676\u7247\u907f\u7981\u4ee4\uff1f\u806f\u767c\u79d1\u88ab\u9ede\u540d\uff0c\u6025\u767c\u91cd\u8a0a\u99c1\u65a5",
+    "41906a9488b804e47564c3800754a31d": {
+      "link": "https://www.bnext.com.tw/article/57668/efoood",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1589354025-21512@400.jpg",
+      "title": "\u98df\u7269\u5206\u4eab\u5730\u5716\u767c\u63ee\u5269\u98df\u6700\u9ad8\u50f9\u503c\uff0ceFOOOD\u8b93\u300c\u5f85\u7528\u9910\u300d\u8cc7\u8a0a\u66f4\u6e05\u6670\u3001\u900f\u660e",
+      "date": "2 hours ago"
+    },
+    "5715dddae7421cfc019c980c776a4a42": {
+      "link": "https://www.bnext.com.tw/article/58055/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias",
+      "image": "https://media.bnextmedia.com.tw/image/album/2016-10/img-1477632656-27863@400.jpg",
+      "title": "\u9ed1\u4eba\u8aa4\u5224\u7387\u904e\u9ad8\u60f9\u8b70\uff0c\u4e9e\u99ac\u905c\u66ab\u7de9\u8b66\u65b9\u4f7f\u7528\u4eba\u81c9\u8fa8\u8b58\u670d\u52d9\u4e00\u5e74",
+      "date": "4 hours ago"
+    },
+    "058082cd1dfd0f1935e5f5c044e724b0": {
+      "link": "https://www.bnext.com.tw/article/58054/taiwan-taxi-points-strategy",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-05/img-1559026512-30171@400.jpg",
+      "title": "\u975e\u73fe\u91d1\u652f\u4ed8\u90543\u6210\uff01\u53f0\u7063\u5927\u8eca\u968a\u9810\u544a\u7d05\u5229\u9ede\u6578\u62b5\u8eca\u8cc7\uff0c\u514d\u73fe\u91d1\u642d\u8eca\u6642\u4ee3\u4f86\u4e86\uff1f",
+      "date": "5 hours ago"
+    },
+    "1e2f5f2061de95f4929563aa0e316d6c": {
+      "link": "https://www.bnext.com.tw/article/58049/qisda-with--tainan-city-government",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591785584-11365@400.jpg",
+      "title": "\u4f73\u4e16\u9054\u806f\u624b\u53f0\u5357\u5e02\u3001\u8017\u66422\u5e74\u63a8\u52d5\u667a\u6167\u9577\u7167\uff0c\u52a9\u5c45\u5bb6\u670d\u52d9\u6a5f\u69cb\u7701\u4e0b75%\u4eba\u529b",
       "date": "6 hours ago"
     },
-    "2c6f3451ac10b28f9fa1fa208f2875e5": {
-      "link": "https://www.bnext.com.tw/article/57936/bn313-world-next",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-07/img-1564127197-56979@400.jpg",
-      "title": "\u5168\u7403\u6383\u63cf\uff1a\u5047\u8a0a\u606f\u6bd4\u75c5\u6bd2\u66f4\u4ee4\u5370\u5ea6\u982d\u75db\uff0f\u7372\u9078\u6700\u4f73\u9818\u8896\uff0c\u674e\u6587\u4eae\u5fae\u535a\u537b\u6210\u4e86\u4e00\u9053\u54ed\u7246",
+    "4bef0897bcb8aff07c7ade08b25c5e22": {
+      "link": "https://www.bnext.com.tw/article/58052/nichia-optotech-2020-management-right",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591806418-34313@400.jpg",
+      "title": "\u8001\u724cLED\u5ee0\u5149\u78ca\u8fa6\u79c1\u52df\u6380\u7d93\u71df\u6b0a\u9b25\u722d\uff0c\u5e02\u5834\u6d3e\u4e09\u5f97\u96fb\u5b50\u9ad8\u547c\u53cd\u5c0d",
       "date": "6 hours ago"
     },
-    "1caa8bee392c245c7ed16e292e4e174c": {
-      "link": "https://www.bnext.com.tw/article/57940/kol-internet-celebrity",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-11/img-1573784654-29621@400.jpg",
-      "title": "\u7db2\u7d05\u662f\u771f\u6b63\u7684KOL\u55ce\uff1f",
+    "c78180ce721a6bb175064d2b6135f9e5": {
+      "link": "https://www.bnext.com.tw/article/58044/uniqlo-tokyo",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591776757-49161@400.jpg",
+      "title": "UNIQLO\u8d85\u79d1\u5e7b\u62db\u724c\uff01\u6700\u65b0\u5168\u7403\u65d7\u8266\u5e97\u4eae\u76f8\uff0c\u7531\u745e\u58eb\u5efa\u7bc9\u5927\u5e2b\u64cd\u5200",
+      "date": "6 hours ago"
+    },
+    "d024d67ced0a74ab0e9172a7eec35774": {
+      "link": "https://www.bnext.com.tw/article/58048/most-2020-june-meeting",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591786235-82400@400.jpg",
+      "title": "\u53f0\u7a4d\u96fb\u8d74\u7f8e\u627e\u9802\u5c16\u4eba\u624d\uff0c\u79d1\u6280\u90e8\u9577\u5433\u653f\u5fe0\uff1a\u91cd\u9ede\u8981\u516c\u79c1\u5354\u4f5c\uff0c\u4f48\u5c40\u66f4\u5b8c\u6574",
+      "date": "6 hours ago"
+    },
+    "85aa28b65b7146bddf3ac329a66683d0": {
+      "link": "https://www.bnext.com.tw/article/57530/telecom-5g-national-teams",
+      "image": "https://media.bnextmedia.com.tw/image/album/2018-12/img-1544096569-90309@400.jpg",
+      "title": "\u96fb\u4fe1\u696d\u9632\u75ab\u570b\u5bb6\u968a\uff0c\u75288\u842c\u5ea7\u57fa\u5730\u53f0\u6293\u51fa\u300c\u8ab0\u4f86\u904e\u300d",
       "date": "7 hours ago"
     },
-    "ea2379bfe4bf9ef1abef8b4212f22da2": {
-      "link": "https://www.bnext.com.tw/article/57938/george-floyd-death-coparation-action",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591081566-35516@400.jpg",
-      "title": "\u4e00\u500b\u901d\u53bb\u7684\u9748\u9b42\uff0c\u8b93Spotify\u64ad8\u520646\u79d2\u7121\u8072\u97f3\u8a0a\u3001Nike\u91d1\u53e5\u63db\u6210\u300cDon\u2019t do it\u300d\u3001Google\u63db\u4e0a\u9ed1\u7d72\u5e36",
-      "date": "9 hours ago"
+    "6b588465429a330285843d6d2fa05366": {
+      "link": "https://www.bnext.com.tw/article/57976/taiwan-tech-fight-covid-19",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591254845-46104@400.jpg",
+      "title": "\u53e3\u7f69\u3001\u547c\u5438\u5668\u4e4b\u5916\uff01\u64f4\u5927\u9632\u75ab\u6280\u8853\u6253\u64ca\u9762\uff0c\u79d1\u6280\u90e8\u5b75\u5316\u54ea7\u985e\u53f0\u7063\u7814\u7a76\uff1f",
+      "date": "14 hours ago"
     },
-    "35d2b34d11d551689097832b1843d2d0": {
-      "link": "https://www.bnext.com.tw/article/57710/meet-startup-aiwin",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-05/img-1558069169-54770@400.jpg",
-      "title": "\u4e00\u65e5\u6aa2\u9a5710\u842c\u9846\u9ad8\u723e\u592b\u7403\uff01 \u6167\u7a69\u79d1\u6280\u5c07AI\u6df1\u5ea6\u5b78\u7fd2\u5165\u9580\u53f0\u7063\u5de5\u696d4.0",
-      "date": "9 hours ago"
-    },
-    "f87bb67fa098f2d8a0e8e6530c4dbc17": {
-      "link": "https://www.bnext.com.tw/article/57068/coronavirus-latest-news-index",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590041858-26261@400.jpg",
-      "title": "+0\u53c8\u4f86\u4e86\uff01\u6307\u63ee\u4e2d\u5fc3\u518d\u516c\u5e03\u9632\u75ab\u7269\u8cc7\u6578\u91cf\uff0c\u53e3\u7f69\u7d2f\u8a08\u8ca9\u552e7\u5104\u7247",
-      "date": "9 hours ago"
-    },
-    "8110b686b1772167830757da106c2c51": {
-      "link": "https://www.bnext.com.tw/article/57933/uber-lyft-doordash-usa",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591067808-82912@400.jpg",
-      "title": "\u5ddd\u666e\u5a01\u8105\u8ecd\u4e8b\u93ae\u58d3\uff01Uber\u3001Lyft\u3001DoorDash\u914d\u5408\u5bb5\u7981\u66ab\u505c\u71df\u904b",
-      "date": "10 hours ago"
-    },
-    "73f537dc7492311ba9e3dbbc6b9e7a17": {
-      "link": "https://www.bnext.com.tw/article/57935/new-ar-app-will-let-you-model-a-virtual-companion-on-anyone-you-want",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-02/img-1580791038-81086@400.jpg",
-      "title": "\u53e6\u4e00\u534a\u4e5f\u80fd\u5ba2\u88fd\u5316\uff1f\u65b0\u5275Hybri\u958b\u653e\u52df\u8cc7\uff0c\u6253\u9020\u865b\u64ec\u60c5\u4eba\u670d\u52d9",
-      "date": "11 hours ago"
-    },
-    "d36194819ab53a20d54c97f9ee9748c6": {
-      "link": "https://www.bnext.com.tw/article/57934/musk-spacex-tesla-7-percent",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-04/img-1587636836-13198@400.jpg",
-      "title": "SpaceX\u8f09\u4eba\u4e0a\u592a\u7a7a\uff0c\u99ac\u65af\u514b\u9818\u5c0e\u529b\u53d7\u80af\u5b9a\uff01\u7279\u65af\u62c9\u98c67%\u3001\u592a\u7a7a\u76f8\u95dc\u8d70\u5f37",
-      "date": "13 hours ago"
-    },
-    "104e53ea6b0cec83043da2f1f109b579": {
-      "link": "https://www.bnext.com.tw/article/57915/2020-the-best-retail-channel",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591004721-26035@400.jpg",
-      "title": "2020\u6700\u5f37\u96f6\u552e\u901a\u8def\uff01\u8d85\u5546\u53ef\u4ee5\u8ce3\u53e3\u7f69\u3001\u5831\u7a05\uff0c\u9084\u6709\u4ec0\u9ebc\u505a\u4e0d\u5230\uff1f",
+    "b3aebc75c778b6d0873149bdb3d22a6d": {
+      "link": "https://www.bnext.com.tw/article/58001/msi-slam-robot-focus-agv-hospital",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591547438-35039@400.jpg",
+      "title": "\u7df4\u517518\u5e74\uff01\u5fae\u661f\u9632\u75ab\u6a5f\u5668\u4eba\u6253\u5165\u842c\u576a\u9577\u7167\u4e2d\u5fc3",
       "date": "16 hours ago"
     },
-    "ea7450ee3b8f275b354cfeccb8e3e1f0": {
-      "link": "https://www.bnext.com.tw/article/57925/foxconn-adlink-join-venture-slam-robot",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-11/img-1573647731-51406@400.jpg",
-      "title": "\u5289\u63da\u5049\u65b0\u5e03\u5c40\uff01\u9d3b\u6d77\u8207\u51cc\u83ef\u5408\u8cc7\u6a5f\u5668\u4eba\u516c\u53f8\uff0c\u62cd\u677f\u95dc\u9375\u57285\u5e74\u524d\u7684\u4e00\u5834\u4f75\u8cfc",
-      "date": "2020-06-01"
+    "6baf012f15c15bf52cdaf0fba7aa12b2": {
+      "link": "https://www.bnext.com.tw/article/58051/alpha-dlink",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1588594702-53888@400.jpg",
+      "title": "\u53cb\u8a0a\u7d93\u71df\u6b0a\u6230\u96d6\u9054\u6210\u5354\u8b70\uff01\u674e\u4e2d\u65fa\u518d\u958b\u526f\u672c\uff0c\u6230\u706b\u71d2\u5411\u4f73\u4e16\u9054",
+      "date": "16 hours ago"
     },
-    "a3b3712b5afc78a4867b19607e7d6855": {
-      "link": "https://www.bnext.com.tw/article/57890/softbank-8-2017",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590721892-81717@400.jpg",
-      "title": "\u7a7a\u524d\u7d55\u5f8c\u7684\u8edf\u9280\u9858\u666f\u57fa\u91d1\uff0c\u6b7b\u65bc\u9322\u591a\uff1f",
-      "date": "2020-06-01"
+    "a109a237f723055475c181d4a3001fe2": {
+      "link": "https://www.bnext.com.tw/article/57996/taiwan-beacon-company-leader-thl-light",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591351327-50189@400.jpg",
+      "title": "\u8b93\u6c88\u632f\u4f86\u6295\u8cc7\u3001\u6d77\u5167\u5916\u7206\u55ae\uff01\u592a\u548c\u5149\u5982\u4f55\u9760\u300c\u9019\u4e00\u9846\u300d\u63ea\u51fa\u9ad8\u98a8\u96aa\u80ba\u708e\u63a5\u89f8\u8005\uff1f",
+      "date": "21 hours ago"
     },
-    "7c8f9d7698808caa89a32e737c566b1d": {
-      "link": "https://www.bnext.com.tw/article/57924/aama-9th",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590982227-16752@400.jpg",
-      "title": "AAMA\u6b63\u5f0f\u7db2\u7f85200\u4f4d\u6210\u9577\u671f\u5275\u696d\u8005\uff01\u4eca\u5e74AI\u61c9\u7528\u3001IOT\u3001MarTech\u3001\u6587\u5275\u8a2d\u8a08\u9818\u57df\u7a81\u570d\u5165\u9078",
-      "date": "2020-06-01"
+    "e2fd58e62f786b7e447115eb882db19c": {
+      "link": "https://www.bnext.com.tw/article/58045/familymart-famishop",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591778028-76609@400.jpg",
+      "title": "3\u5206\u9418\u5feb\u901f\u4e0a\u7dda\uff01\u5168\u5bb6\u63a8\u300c\u597d\u958b\u5e97\u300d\u5e73\u53f0\u62c9\u650f\u5c0f\u8ce3\u5bb6\uff0c\u627f\u8afe3\u5e74\u50c5\u6536\u904b\u8cbb",
+      "date": "22 hours ago"
     },
-    "2c2ca8d5c3133a4f3cd59a7a13f80d40": {
-      "link": "https://www.bnext.com.tw/article/57909/transformation-covid19",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590984557-77794@400.jpg",
-      "title": "\u4e00\u5834\u56de\u4e0d\u4e86\u982d\u7684\u7522\u696d\u8f49\u578b\u5be6\u9a57",
-      "date": "2020-06-01"
+    "f13e1c11553342d39557e438abcf4702": {
+      "link": "https://www.bnext.com.tw/article/58046/marketing-brand",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-11/img-1572844088-77236@400.jpg",
+      "title": "\u75ab\u60c5\u4e0b\u884c\u92b7\u6295\u8cc7\u7e2e\u6c34\uff1f\u54c1\u724c\u6216\u8a31\u61c9\u8a72\u9006\u5411\u601d\u8003",
+      "date": "22 hours ago"
     },
-    "3b861d95df1756268453757e99a69a24": {
-      "link": "https://www.bnext.com.tw/article/57922/shopline-711-internationallogistics",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-01/img-1547116363-84132-737220191101160634@400.jpg",
-      "title": "SHOPLINE\u958b\u901a\u6d77\u59163,000\u5bb6\u5c0f\u4e03\u53d6\u8ca8\uff0c\u52a9\u53f0\u7063\u96fb\u5546\u6436\u7058\u6771\u5357\u4e9e\u5927\u9905",
-      "date": "2020-06-01"
+    "fa66a4397f642dc4f43f3c3963ba2fe0": {
+      "link": "https://www.bnext.com.tw/article/58041/apple-mac-chip-wwdc",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591769045-18291@400.jpg",
+      "title": "\u8207Intel\u5206\u624b\u6210\u771f\uff1f\u860b\u679c\u8ca8\u5c07\u5168\u63a1\u7528\u81ea\u88fd\u6676\u7247\uff0cMac\u9019\u6b21\u70ba\u4f55\u64c1\u62b1ARM\u67b6\u69cb\uff1f",
+      "date": "23 hours ago"
     },
-    "fbffa22e237ebd4630a45a54dc0a7e1b": {
-      "link": "https://www.bnext.com.tw/article/57918/restaurant-raise-salary",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590998152-42548@400.jpg",
-      "title": "\u738b\u54c1\u5fb5\u624d500\u4eba\u3001\u7e7c\u5149\u9999\u9999\u96de\u52a0\u85aa5%\uff0c\u9910\u98f2\u696d\u8d70\u51fa\u75ab\u60c5\u8c37\u5e95\u4e86\uff1f",
-      "date": "2020-06-01"
+    "2f20afaa2bb120dd3063f6970275b036": {
+      "link": "https://www.bnext.com.tw/article/58037/facebook-news-launches-to-all-in-u-s-with-addition-of-local-news-and-video",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591763860-90386@400.jpg",
+      "title": "Facebook News\u65b0\u805e\u5206\u9801\u670d\u52d9\u6b63\u5f0f\u4e0a\u7dda\uff0c\u8981\u5e6b\u5a92\u9ad4\u5c0e\u6d41\u3001\u8cfa\u5ee3\u544a\u8cbb",
+      "date": "23 hours ago"
     },
-    "e546ca855d17a804a5587ee00729b8b5": {
-      "link": "https://www.bnext.com.tw/article/57921/covid-19-foxconn-qisda-teema",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591000500-69303@400.jpg",
-      "title": "\u5289\u63da\u5049\u3001\u9673\u5176\u5b8f\u7522\u696d\u5927\u5496\u540c\u6846\uff01\u8ac7\u5f8c\u75ab\u60c5\u6642\u4ee3\u76843\u500b\u95dc\u9375\u6311\u6230",
-      "date": "2020-06-01"
+    "c07074195905e4df7aeb24e8c886c6bb": {
+      "link": "https://www.bnext.com.tw/article/58038/deltaww-shareholders-meeting-2020-decentralized-manufacture",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591766009-18486@400.jpg",
+      "title": "\u53f0\u9054\u96fb\u71df\u6536\u3001\u6bdb\u5229\u3001\u6de8\u5229\u5168\u90fd\u6210\u9577\uff01\u6d77\u82f1\u4fca\u6e96\u5099\u5927\u6253\u300c\u5206\u6563\u5f0f\u88fd\u9020\u300d\u7b56\u7565\uff0c\u600e\u9ebc\u505a\uff1f",
+      "date": "2020-06-10"
     },
-    "d392890cab98c0db687ef543f7ce8183": {
-      "link": "https://www.bnext.com.tw/article/57621/johnson-health-2020-fujiiryoki",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1589124242-79824@400.jpg",
-      "title": "\u300a\u7522\u696d\u9818\u8896\u89c0\u9ede\u300b\u75ab\u60c5\u524d\u5915\u525b\u541e\u4e0bFujiiryoki\u54c1\u724c\uff0c\u55ac\u5c71\u8de8\u904e300\u5104\u5143\u71df\u6536\u5f8c\u5982\u4f55\u6311\u6230\u5065\u8eab\u5668\u6750\u9f8d\u982d\uff1f",
-      "date": "2020-06-01"
+    "811f659be549b4cc3e17ab1bdc037975": {
+      "link": "https://www.bnext.com.tw/article/58032/pinkoi-p-coins",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591700377-30337@400.jpg",
+      "title": "Pinkoi\u5168\u65b0\u65b0\u6703\u54e1\u5236\u5ea6\u8207\u300cP Coins\u300d\u6b63\u5f0f\u4e0a\u7dda\uff0c\u73cd\u716e\u4e39\u3001Booking.com\u7b49\u90fd\u53ef\u6298\u62b5",
+      "date": "2020-06-10"
     },
-    "c56304199369ba5186bb172b62ce9ced": {
-      "link": "https://www.bnext.com.tw/article/57709/meet-startup-kiipo-smart-health",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-04/img-1587636979-88141@400.jpg",
-      "title": "\u8207\u54c8\u4f5b\u91ab\u5b78\u9662\u5408\u4f5c\u904e\uff01\u6700\u61c2\u91ab\u7642\u7814\u7a76\u8005\u7684Kiipo\u8fd4\u53f0\u5275\u696d\uff0c\u8b93\u6578\u64da\u641c\u96c6\u4e0d\u518d\u96e3",
-      "date": "2020-06-01"
+    "e79cf323ee6dda33cc93b95f92de144e": {
+      "link": "https://www.bnext.com.tw/article/58036/tse-bearish-order-",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-03/img-1584932449-82827@400.jpg",
+      "title": "\u53f0\u80a183\u5929\u5167\u6307\u6578\u72c2\u59542956\u9ede\uff01\u53f2\u4e0a\u7b2c\uff14\u6b21\u5be6\u65bd\u7684\u300c\u7981\u7a7a\u4ee4\u300d\u662f\u4ec0\u9ebc\uff1f\u6210\u6548\u597d\u55ce\uff1f",
+      "date": "2020-06-10"
     },
-    "e697300898aba086c7075298782dced3": {
-      "link": "https://www.bnext.com.tw/article/57919/usa-minneapolis-retail",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591002995-88383@400.jpg",
-      "title": "\u7f8e\u570b\u66b4\u52d5\u5f15\u767c\u96f6\u552e\u696d\u65b0\u5a01\u8105\uff01Nike\u3001\u611b\u8fea\u9054\u3001Walmart\u7b49\u6578\u767e\u9580\u5e02\u95dc\u9589\u4e2d",
-      "date": "2020-06-01"
+    "c216542544b9622cada21729b3bdaa61": {
+      "link": "https://www.bnext.com.tw/article/58035/asus-cash-buy-starup-for-aiot-domain",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591726734-25587@400.jpg",
+      "title": "\u83ef\u78a9\u624b\u63e1617\u5104\u5143\u73fe\u91d1\uff0c\u65bd\u5d07\u68e0\u80ba\u708e\u75ab\u60c5\u4e2d\u89ba\u609f\uff1a\u5c07\u52d9\u5be6\u8cfc\u4f75\u65b0\u5275",
+      "date": "2020-06-10"
     },
-    "53f805703b9ded0237799d13b6265126": {
-      "link": "https://www.bnext.com.tw/article/55040/htc-5g-vr-timing",
-      "image": "https://media.bnextmedia.com.tw/image/album/2019-09/img-1568715249-32163@400.jpg",
-      "title": "\u5f9e1,300\u5143\u8dcc\u523040\u584a\u4e0d\u5230\uff01HTC\u65b0\u57f7\u884c\u9577\u66fe\u5927\u8ac7\u300c\u6642\u6a5f\u8ad6\u300d\uff0c\u4e0a\u4efb\u4e0d\u6eff\u4e00\u5e74\u5c31\u88c1\u54e1\u5169\u6b21",
-      "date": "2020-06-01"
+    "d7a76bdee536fe6242caccd037873195": {
+      "link": "https://www.bnext.com.tw/article/58033/tsmc-arizona-foundry-lab-5nm-america",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-09/img-1568189051-94130@400.jpg",
+      "title": "\u53f0\u7a4d\u96fb\u5c07\u7d44\u570b\u5bb6\u968a\u8d74\u7f8e\u8a2d\u5ee0\uff0c\u5289\u5fb7\u97f3\u66dd\u9078\u5740\u4e9e\u5229\u6851\u90a3\u5dde\u7684\u5169\u5927\u95dc\u9375",
+      "date": "2020-06-09"
     },
-    "2f80ba688fee227c3488cec919e51624": {
-      "link": "https://www.bnext.com.tw/article/57920/funnow-innovation-entrepreneurship-lesson",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590997104-90402@400.jpg",
-      "title": "\u51fa\u6d77\u4e5f\u6709\u8d85\u9ad8\u300c\u5bb9\u932f\u6027\u300d\uff01\u5728\u5730\u5718\u968a\u6210\u719f\u524d\uff0cFunNow\u9760\u9019\u62db\u8fc5\u901f\u8abf\u6574\u6c7a\u7b56\u65b9\u5411",
-      "date": "2020-06-01"
+    "cee2052cfc393ee5e2fc68585656dce5": {
+      "link": "https://www.bnext.com.tw/article/58030/ndc-policy-share",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591696279-90494@400.jpg",
+      "title": "\u53f0\u7063\u65b0\u5275\u6295\u8cc7\u74b0\u5883\u5347\u7d1a\uff01\u570b\u767c\u57fa\u91d1\u64ec\u653e\u5bec\u9650\u5236\uff0c\u5f15\u9032\u570b\u969b\u5275\u6295\u52df\u8cc7",
+      "date": "2020-06-09"
     },
-    "f920442d6ae94258bc0d450f2d991124": {
-      "link": "https://www.bnext.com.tw/article/57917/nasa-spacex-falcon9-crew-dragon",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590994041-53438@400.jpg",
-      "title": "SpaceX\u70ba\u592a\u7a7a\u6642\u4ee3\u7ffb\u65b0\u9801\uff01\u9f8d\u98db\u8239\u6210\u529f\u8f09\u4eba\u5347\u7a7a\uff0c\u300c\u5b87\u5b99\u65c5\u884c\u300d\u660e\u5e74\u767b\u5834",
-      "date": "2020-06-01"
+    "9507e125d5cc199f006039a8edac80ed": {
+      "link": "https://www.bnext.com.tw/article/58031/zoom-financial-report",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-03/img-1585643293-93516@400.jpg",
+      "title": "ZOOM\u4ea4\u51fa\u9a5a\u4eba\u7684\u7b2c\u4e00\u5b63\u8ca1\u5831\uff0c\u7576\u7d05\u7368\u89d2\u7378\u7684\u4e0b\u500b\u5c0d\u624b\u662f\u5fae\u8edf\u9084\u662f\u81c9\u66f8\uff1f",
+      "date": "2020-06-09"
     },
-    "de86af7990bcbc520a8288269ec61bd5": {
-      "link": "https://www.bnext.com.tw/article/57910/dlink-shareholder-temp-meeting",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590997100-15255@400.jpg",
-      "title": "\u53cb\u8a0a\u674e\u4e2d\u65fa\u7576\u90782\u5468\u8463\u4e8b\u9577\uff0c\u537b\u9032\u4e0d\u53bb\u7e3d\u90e8\uff0c\u7368\u8463\u7f75\uff1a\u300c\u6b7b\u7684\u9d28\u5b50\u5634\u9084\u662f\u786c\u7684\uff01\u300d",
-      "date": "2020-06-01"
+    "0ce5a0b00b875568a9c28195e29f0271": {
+      "link": "https://www.bnext.com.tw/article/58028/covid19-tradewar-tsmc-semiconductor-strategy-",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591690468-72827@400.jpg",
+      "title": "\u70ba\u4f55\u53f0\u7a4d\u96fb\u4e0d\u64d4\u5fc3\u83ef\u70ba\u6389\u55ae\uff1f\u5289\u5fb7\u97f3\u8ac7\u300c\u9700\u6c42\u8ad6\u300d\uff0c\u63ed\u5148\u9032\u88fd\u7a0b\u65b0\u9032\u5ea6",
+      "date": "2020-06-09"
     },
-    "19288c5b6564f4c1b03d4ddddca0165d": {
-      "link": "https://www.bnext.com.tw/article/57913/mlytics-cdn",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590984995-68097@400.jpg",
-      "title": "\u4e00\u7ad9\u4e32\u8d77\u6700\u4f73\u8def\u5f91\uff01\u4ed6\u5275\u8fa6\u7db2\u8def\u754cGoogle Maps\uff0c\u8b93\u9023\u7dda\u52a0\u901f\u4e0d\u4e2d\u65b7",
-      "date": "2020-06-01"
+    "c58bdfee554edd103536313a4db1e0b0": {
+      "link": "https://www.bnext.com.tw/article/58025/audrey-tang-lecture-taiwan-model",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591679991-90553@400.jpg",
+      "title": "\u7c89\u7d05\u53e3\u7f69\u3001\u4e00\u7c92\u5361\u81e3\u6897\u5716\u7206\u7d05...\u5510\u9cf3\u5f9e3\u500b\u9632\u75ab\u6545\u4e8b\uff0c\u770b\u300c\u53f0\u7063\u6a21\u5f0f\u300d\u5982\u4f55\u51fa\u5947\u5236\u52dd\uff1f",
+      "date": "2020-06-09"
     },
-    "affb4558cc8cbbb99d6008440e7f0040": {
-      "link": "https://www.bnext.com.tw/article/57911/rony-abovitz-stepping-down-as-magic-leap-ceo",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590978663-35084@400.jpg",
-      "title": "100\u5104\u6551\u547d\u8cc7\u91d1\u5230\u4f4d\u5f8c\uff0c\u6700\u795e\u79d8AR\u516c\u53f8Magic Leap\u57f7\u884c\u9577\u5c07\u96e2\u8077",
-      "date": "2020-06-01"
+    "e1043d927545cb5ecd52130f76106f4b": {
+      "link": "https://www.bnext.com.tw/article/58026/covid-19-usa-2",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-02/img-1582532471-85170@400.jpg",
+      "title": "\u6700\u9577\u7d93\u6fdf\u64f4\u5f35\u7d42\u7d50\uff01\u7f8e\u570b\u5ba3\u5e03\u5df2\u6b65\u5165\u7d93\u6fdf\u8870\u9000",
+      "date": "2020-06-09"
     },
-    "9c81bb93a7a564795f03efc0a9504e77": {
-      "link": "https://www.bnext.com.tw/article/57897/hollywood-standard-guide-to-script-format-and-style",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590980167-77463@400.jpg",
-      "title": "\u8ddf\u6253\u5b57\u6a5f\u8aaa\u518d\u898b\uff01\u7576\u5287\u4f5c\u5bb6\u90fd\u5728\u7528\u96fb\u8166\u5beb\u6545\u4e8b\uff0c\u7528\u7de8\u5287\u8edf\u9ad4\u8a72\u6ce8\u610f\u4ec0\u9ebc\uff1f",
-      "date": "2020-06-01"
+    "20f5b97feb27ae623cae2e859906df25": {
+      "link": "https://www.bnext.com.tw/article/58022/luckin-coffee-charles-lu-25",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591677405-25012@400.jpg",
+      "title": "\u745e\u5e78\u5496\u5561\u300c\u9020\u5047\u9580\u300d\u5347\u7d1a\uff0c\u8463\u4e8b\u9577\u9678\u6b63\u8000\u8981\u627f\u64d4\u4ec0\u9ebc\u5211\u8cac\uff1f",
+      "date": "2020-06-09"
     },
-    "e299ac2c4874f0ef8a5dabd37dfe3171": {
-      "link": "https://www.bnext.com.tw/article/57908/compal-5g-agriculture",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1590946020-69304@400.jpg",
-      "title": "\u4ec1\u5bf6\u75285G\u5be6\u9a57\u5ba4\u64cd\u5175\uff0c\u70ba\u4f55\u8aaa\u667a\u6167\u8fb2\u696d\u3001\u667a\u6167\u88fd\u9020\u61c9\u7528\u5c07\u8dd1\u6700\u524d\u982d\uff1f",
-      "date": "2020-06-01"
+    "2759e73559fe6fda17a88a14b2c7f109": {
+      "link": "https://www.bnext.com.tw/article/58024/ibm-facial-recognition-george-floyd",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-06/img-1560131598-28584@400.jpg",
+      "title": "IBM\u9000\u51fa\u4eba\u81c9\u8fa8\u8b58\u696d\u52d9\uff01CEO\u5beb\u4fe1\u75be\u547c\uff1a\u53cd\u5c0d\u6280\u8853\u6dea\u7a2e\u65cf\u6b67\u8996\u5e6b\u5147",
+      "date": "2020-06-09"
     },
-    "80b530e0ae8474443729420b35ec4d95": {
-      "link": "https://www.bnext.com.tw/article/57825/486-onlineshop-facebook",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590391839-54092@400.jpg",
-      "title": "\u6012\u55c6\u300cFB\u641e\u6211\uff01\u300d486\u5148\u751f\u3001\u5433\u5ff5\u771f\u7c89\u5c08\u7121\u9810\u8b66\u88ab\u6d88\u5931\uff0cFacebook\u51fa\u4ec0\u9ebc\u554f\u984c\uff1f",
-      "date": "2020-06-01"
+    "eb8271077c925f9fdb552465c226a4b0": {
+      "link": "https://www.bnext.com.tw/article/58023/sunfun-2020",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591674026-33195@400.jpg",
+      "title": "\u5f9e\u4ea4\u53cb\u8edf\u9ad4\u8de8\u5165\u4fdd\u5065\u54c1\uff0c\u5c1a\u51e1\u71df\u6536\u3001\u7372\u5229\u5237\u65b0\u9ad8\uff012020\u5e74\u5169\u7b56\u7565\u6dfb\u52d5\u80fd",
+      "date": "2020-06-09"
     },
-    "7da77c133a00b4ad235e7f9807380157": {
-      "link": "https://www.bnext.com.tw/article/57892/subscription-system-4",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590734318-81063@400.jpg",
-      "title": "\u8a02\u95b1\u5236\u8d77\u98db\uff01Spotify\u3001Netflix\u4e4b\u5916\uff0c\u90194\u7a2e\u670d\u52d9\u4e5f\u7528\u300c\u6708\u8cbb\u300d\u65b9\u5f0f\u6539\u8b8a\u5e02\u5834",
-      "date": "2020-06-01"
+    "f0c71b7812fd5b6cf8f9638c76f9dd89": {
+      "link": "https://www.bnext.com.tw/article/58006/taiwan-fujitsu-2020",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591587009-16443@400.jpg",
+      "title": "\u8d85\u5546\u672a\u4f86\u6703\u6709\u300c\u865b\u64ec2\u6a13\u300d\u55ce\uff1f\u5bcc\u58eb\u901a\u70ba\u4f55\u8aaa\u53f0\u7063\u8ffd\u6c42\u79d1\u6280\u7684\u901f\u5ea6\uff0c\u6bd4\u65e5\u672c\u9084\u5feb\uff1f",
+      "date": "2020-06-09"
     },
-    "c5aba7704fa4695d7bd0aa1c759bcd72": {
-      "link": "https://www.bnext.com.tw/article/57901/what-is-compal-going-to-do-on-5g",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590746452-27011@400.jpg",
-      "title": "\u76f4\u64ca\uff01\u4ec1\u5bf6\u9996\u6b21\u516c\u958b\u76845G\u5be6\u9a57\u5ba4\uff0c\u7a76\u7adf\u6709\u4ec0\u9ebc\u770b\u982d\uff1f",
-      "date": "2020-05-31"
+    "72f53694afd80e4ce61ef5988eb3f7c3": {
+      "link": "https://www.bnext.com.tw/article/58012/expedia-group-for-travel-industry",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-11/img-1574077700-51894@400.jpg",
+      "title": "\u65c5\u904a\u5de8\u64d8Expedia Group\u8c6a\u783882.5\u5104\u633a\u65c5\u5bbf\u696d\uff01\u9664\u4e86\u8abf\u964d\u62bd\u6210\uff0c\u9084\u63d0\u4f9b\u54ea\u4e9b\u6709\u611f\u65b9\u6848\uff1f",
+      "date": "2020-06-09"
     },
-    "f74189ca02fa8501a371a0eeab466e83": {
-      "link": "https://www.bnext.com.tw/article/57865/dlink-tse-shareholder-two-dates",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590409743-28966@400.jpg",
-      "title": "\u53cb\u8a0a\u80a1\u6771\u5e38\u67036\u670815\u65e5\u8209\u884c\uff0c\u81e8\u6642\u67036\u67081\u65e5\u5408\u6cd5\u53ec\u958b\u7372\u5730\u9662\u3001\u9ad8\u9662\u96d9\u8a8d\u8b49",
-      "date": "2020-05-31"
+    "3dd114162b950c0a7f56ad7a8816b2a9": {
+      "link": "https://www.bnext.com.tw/article/58004/safe-travel-2020-july",
+      "image": "https://media.bnextmedia.com.tw/image/album/2018-11/img-1542338280-76740@400.jpg",
+      "title": "\u6ce8\u610f\uff01\u5b89\u5fc3\u65c5\u904a\u88dc\u52a9Booking.com\u3001Agoda\u4e0d\u80fd\u7533\u8acb\uff0c5\u5927\u95dc\u9375QA\u4e00\u6b21\u770b",
+      "date": "2020-06-09"
     },
-    "2c68542ce04ac287ef291b234639333a": {
-      "link": "https://www.bnext.com.tw/article/57907/the-last-day-of-elite-dunnan",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590871099-37278@400.jpg",
-      "title": "\u53f0\u5317\u4eba\u591c\u672a\u7720\u5730\u6a19\u300c\u8aa0\u54c1\u6566\u5357\u300d\u5c07\u7184\u71c8\uff01\u5433\u65fb\u6f54\uff1a\u67d0\u7a2e\u7a0b\u5ea6\u5c31\u50cf\u5433\u6e05\u53cb\u7684\u96e2\u958b\u4e00\u6a23",
-      "date": "2020-05-31"
+    "ce0324a876ce8415a6514e2bdb5e9d3f": {
+      "link": "https://www.bnext.com.tw/article/58021/google-maps-updates-help-travel-in-era-of-post-covid-19",
+      "image": "https://media.bnextmedia.com.tw/image/album/2019-01/img-1548236790-74185@400.jpg",
+      "title": "\u5927\u89e3\u5c01\u5fc5\u5099\uff01Google Maps\u65b0\u589e\u9632\u75ab\u63d0\u793a\u529f\u80fd\uff0c\u5b88\u8b77\u7528\u6236\u5916\u51fa\u5b89\u5168",
+      "date": "2020-06-09"
     },
-    "d897bcc3c304688895d7fdc75aebd22b": {
-      "link": "https://www.bnext.com.tw/article/57905/social-innovation-covid-19-",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590812370-27722@400.jpg",
-      "title": "\u8a79\u5b8f\u5fd7\u3001\u5510\u9cf3\u5c0d\u8ac7\uff1a\u6578\u4f4d\u65b0\u570b\u969b\u79e9\u5e8f\u6b63\u5728\u6210\u5f62\uff0c\u767c\u73fe\u53f0\u7063\u65b0\u5916\u4ea4\u6a19\u8a8c\uff01",
-      "date": "2020-05-30"
-    },
-    "e203ca947998aa7076eaf6f05a0c14f6": {
-      "link": "https://www.bnext.com.tw/article/57842/hbl-nike-covid-19",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590478849-68152@400.jpg",
-      "title": "\u4e09\u5929\u5167\u589e4\u842c\u597d\u53cb\uff01HBL\u53f2\u4e0a\u7b2c\u4e00\u6b21\u5c0f\u5de8\u86cb\u5c01\u9928\u958b\u6253\uff0cNIKE\u5982\u4f55\u505a\u5230\u96f6\u4eba\u5165\u5834\u3001\u842c\u4eba\u61c9\u63f4\uff1f",
-      "date": "2020-05-30"
-    },
-    "dedcb9351d3beac631241e92cc7431b7": {
-      "link": "https://www.bnext.com.tw/article/57904/chunghwa-telecom-shareholder-meeting-2020",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590758460-64544@400.jpg",
-      "title": "5G\u62da\u6e96\u6642\u958b\u53f0\uff01\u5168\u5e74\u64f4\u5927\u62db\u52df1,600\u4eba\uff0c\u4e2d\u83ef\u96fb\u4fe1\u5982\u4f55\u7784\u6e96\u71df\u6536\u300c\u65b0\u300d\u52d5\u80fd\uff1f",
-      "date": "2020-05-29"
-    },
-    "05172bfd2aa75ad04c2f6764e5703f0f": {
-      "link": "https://www.bnext.com.tw/article/57894/smartphone-arm-ip-computing-experience",
-      "image": "https://media.bnextmedia.com.tw/image/album/2020-05/img-1590741267-40308@400.jpg",
-      "title": "5G\u61c9\u7528\u5982\u4f55\u4e0d\u5361\u5361\uff1fArm\u63a8\u65b0\u89e3\u6c7a\u65b9\u6848\uff0c\u9760\u904b\u7b97\u529b\u63a8\u4e00\u628a",
-      "date": "2020-05-29"
+    "7571b3ae066932ed4d2a5d2cd3c40105": {
+      "link": "https://www.bnext.com.tw/article/58019/taiwan-ai-labs-create-first-ai-album-covid-19",
+      "image": "https://media.bnextmedia.com.tw/image/album/2020-06/img-1591614399-59587@400.jpg",
+      "title": "\u5feb\u807d\uff01\u300c\u96c5\u5a77\u300d\u795e\u5275\u4f5c9\u9996\u6b66\u6f22\u80ba\u708e\u6b4c\u66f2\uff0c\u53f0\u7063\u7b2c\u4e00\u5f35AI\u5c08\u8f2f\u600e\u9ebc\u8a95\u751f\u7684\uff1f",
+      "date": "2020-06-08"
     }
   }
 }

@@ -3,7 +3,7 @@ import logging
 
 import pytest
 
-from technews.scrapers import tech_orange
+from technews.crawlers import tech_orange
 
 
 orange = tech_orange.TechOrange()

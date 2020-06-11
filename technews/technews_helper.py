@@ -1,9 +1,9 @@
 import time
 import datetime
 
-from technews.scrapers.business_next import BusinessNext
-from technews.scrapers.tech_orange import TechOrange
-from technews.scrapers.ithome import iThome
+from technews.crawlers.business_next import BusinessNext
+from technews.crawlers.tech_orange import TechOrange
+from technews.crawlers.ithome import iThome
 
 
 class TechNews:

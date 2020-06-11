@@ -3,7 +3,7 @@ import logging
 
 import pytest
 
-from technews.scrapers import ithome
+from technews.crawlers import ithome
 
 
 ithome = ithome.iThome()

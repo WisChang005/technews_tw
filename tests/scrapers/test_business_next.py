@@ -3,7 +3,7 @@ import logging
 
 import pytest
 
-from technews.scrapers import business_next
+from technews.crawlers import business_next
 
 
 business = business_next.BusinessNext()
