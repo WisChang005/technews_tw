@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-with open("requirements.txt", "r", encoding="utf-8") as f:
+with open("requirements.txt", "r") as f:
     required = f.read().splitlines()
 
 
@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="technews-tw",
-    version="1.1.0",
+    version="1.1.6",
     description="Taiwan tech news crawlers.",
     author="Wis Chang",
     author_email="wistw.chang@gmail.com",

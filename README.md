@@ -3,7 +3,6 @@
 ![Tech News Watcher](https://github.com/WisChang005/technews_tw/workflows/Tech%20News%20Watcher/badge.svg)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
 
-![news intor](imgs/page_intor.jpg)
 
 ## Why?
 為了解決，需要訂閱許多科技新聞網站而生，整理每日科技新聞，定時派送e-mail給自己。
