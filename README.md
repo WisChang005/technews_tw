@@ -8,7 +8,7 @@
 為了解決，需要訂閱許多科技新聞網站而生，整理每日科技新聞，定時派送e-mail給自己。
 
 
-## Supported News
+## Tech News Providers
 ```text
 - iThome
 - Tech Orange 科技報橘
@@ -21,11 +21,11 @@
 pip install technews-tw
 ```
 
-## Get Today's News:
+## Get Today's News
 
+取得今日新聞
 ```python
 from technews import TechNews
-
 
 TechNews("business").get_today_news()
 TechNews("orange").get_today_news()
@@ -33,8 +33,21 @@ TechNews("ithome").get_today_news()
 TechNews("inside").get_today_news()
 ```
 
+## Get news by page
+
+取得第1頁至第3頁所有科技新聞
+```python
+from technews import TechNews
+
+TechNews("business").get_news_by_page(3)
+TechNews("orange").get_news_by_page(3)
+TechNews("ithome").get_news_by_page(3)
+TechNews("inside").get_news_by_page(3)
+```
+
 ## Send Today's News by Email
 
+將今天的科技新聞傳送給接收者
 ```bash
 # set environment variables
 # sender only support "gmail" and "hotmail"
