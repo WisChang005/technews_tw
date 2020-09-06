@@ -23,7 +23,7 @@ or
 # Install to site-packages
 git clone https://github.com/WisChang005/technews_tw.git
 
-pip install -e technews_tw
+pip install -e technews-tw
 ```
 
 ## Get Today's News:

@@ -13,7 +13,8 @@ def main():
     news_list = [
         TechNews("orange").get_today_news,
         TechNews("ithome").get_today_news,
-        TechNews("business").get_today_news
+        TechNews("business").get_today_news,
+        TechNews("inside").get_today_news,
     ]
 
     news_rows = ""
