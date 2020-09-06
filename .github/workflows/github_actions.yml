@@ -20,6 +20,7 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
+        pip install codecov
         export PYTHONPATH=$PYTHONPATH:$(pwd)
         pytest --cov=technews -v --cov-report=xml tests
     - name: Update Code Coverage
