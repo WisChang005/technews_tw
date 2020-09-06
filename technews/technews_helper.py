@@ -4,6 +4,7 @@ import datetime
 from technews.crawlers.business_next import BusinessNext
 from technews.crawlers.tech_orange import TechOrange
 from technews.crawlers.ithome import iThome
+from technews.crawlers.inside import Inside
 
 
 class TechNews:
@@ -16,7 +17,8 @@ class TechNews:
         news_obj = {
             "business": BusinessNext,
             "orange": TechOrange,
-            "ithome": iThome
+            "ithome": iThome,
+            "inside": Inside
         }
         if self.news_name not in news_obj:
             raise ValueError(f"No supported news name [{self.news_name}]")

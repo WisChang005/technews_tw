@@ -10,6 +10,7 @@
 - iThome
 - Tech Orange 科技報橘
 - Business Next - 數位時代
+- INSIDE 硬塞的
 ```
 
 ## Package Requirements
@@ -33,6 +34,7 @@ from technews import TechNews
 TechNews("business").get_today_news()
 TechNews("orange").get_today_news()
 TechNews("ithome").get_today_news()
+TechNews("inside").get_today_news()
 ```
 
 ## Send Today's News by Email
@@ -51,5 +53,3 @@ python -m technews.daily_news
 ### To Do
 ------------
 [Tech News - 科技新報](https://technews.tw/)
-
-[INSIDE 硬塞的](https://www.inside.com.tw/)

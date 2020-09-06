@@ -14,7 +14,8 @@ def test_send_email_function():
     samples_list = [
         TechNews("orange").get_news_by_page,
         TechNews("ithome").get_news_by_page,
-        TechNews("business").get_news_by_page
+        TechNews("business").get_news_by_page,
+        TechNews("inside").get_news_by_page
     ]
 
     news_rows = ""

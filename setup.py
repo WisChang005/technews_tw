@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as f:
 
 setup(
     name="technews",
-    version="1.0.1",
+    version="1.1.0",
     description="Taiwan tech news scraper",
     author="Wis Chang",
     author_email="wistw.chang@gmail.com",

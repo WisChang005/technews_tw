@@ -15,7 +15,8 @@ def test_orange_email_helper():
     samples_list = [
         "orange_samples.json",
         "ithome_samples.json",
-        "business_samples.json"
+        "business_samples.json",
+        "inside_samples.json"
     ]
 
     news_rows = ""

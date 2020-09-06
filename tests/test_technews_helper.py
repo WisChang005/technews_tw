@@ -24,6 +24,13 @@ def test_get_ithome_today_news():
         assert date in v["date"]
 
 
+def test_get_inside_today_news():
+    date = datetime.date.today().strftime("%Y-%m-%d")
+    today_news = TechNews("inside").get_today_news()
+    for _, v in today_news["news_contents"].items():
+        assert date in v["date"]
+
+
 def test_get_news_by_page():
     news = TechNews("ithome").get_news_by_page(3)
     assert news["timestamp"]
