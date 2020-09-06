@@ -4,6 +4,7 @@
 
 *.html
 env_test.sh
+*.DS_Store
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

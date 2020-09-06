@@ -3,10 +3,10 @@
 ![Tech News Watcher](https://github.com/WisChang005/technews_tw/workflows/Tech%20News%20Watcher/badge.svg)
 [![codecov](https://codecov.io/gh/WisChang005/technews_tw/branch/master/graph/badge.svg)](https://codecov.io/gh/WisChang005/technews_tw)
 
-![news intor](imgs/intor.png)
+![news intor](imgs/page_intor.jpg)
 
 ## Supported News
-```
+```text
 - iThome
 - Tech Orange 科技報橘
 - Business Next - 數位時代
@@ -14,7 +14,7 @@
 ```
 
 ## Package Requirements
-```
+```bash
 # Install requirements only
 pip install -r requirements.txt
 
@@ -27,6 +27,7 @@ pip install -e technews-tw
 ```
 
 ## Get Today's News:
+
 ```python
 from technews import TechNews
 
