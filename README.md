@@ -55,7 +55,7 @@ export MAIL_SENDER="sender@gmail.com"
 export MAIL_SENDER_PWD="iampassword"
 export MAIL_RECV="user01@gmail.com,user02@hotmail.com"
 
-python -m technews-tw.daily_news
+python -m technews.daily_news
 ```
 
 ## Integrate with Crontab
@@ -69,5 +69,5 @@ MAIL_RECV="receiver@gmail.com"
 LOG_LEVEL="DEBUG"
 
 # 每天晚上七點發送
-0 19 * * 1-7 python3 -m technews-tw.daily_news > technews_log.log 2>&1
+0 19 * * 1-7 python3 -m technews.daily_news > technews_log.log 2>&1
 ```
