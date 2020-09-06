@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 
-with open("requirements.txt", "r") as f:
+with open("requirements.txt", "r", encoding="utf-8") as f:
     required = f.read().splitlines()
 
 
-with open("README.md", "r") as fh:
+with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 
@@ -20,6 +20,7 @@ setup(
     packages=find_packages(where='.', exclude=(), include=('*',)),
     install_requires=required,
     long_description=long_description,
+    long_description_content_type="text/markdown",
     zip_safe=False,
     python_requires='>=3.6',
     classifiers=[
