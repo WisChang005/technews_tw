@@ -3,32 +3,27 @@ import datetime
 from technews import TechNews
 
 
+date = datetime.date.today().strftime("%Y-%m-%d")
+
+
 def test_get_business_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
     today_news = TechNews("business").get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]
+    verify_date_format(today_news)
 
 
 def test_get_orange_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
     today_news = TechNews("orange").get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]
+    verify_date_format(today_news)
 
 
 def test_get_ithome_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
     today_news = TechNews("ithome").get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]
+    verify_date_format(today_news)
 
 
 def test_get_inside_today_news():
-    date = datetime.date.today().strftime("%Y-%m-%d")
     today_news = TechNews("inside").get_today_news()
-    for _, v in today_news["news_contents"].items():
-        assert date in v["date"]
+    verify_date_format(today_news)
 
 
 def test_get_news_by_page():
@@ -36,3 +31,8 @@ def test_get_news_by_page():
     assert news["timestamp"]
     assert news["news_page_title"]
     assert news["news_contents"]
+
+
+def verify_date_format(news):
+    for _, v in news["news_contents"].items():
+        assert date in v["date"] or "hours" in v["date"]
