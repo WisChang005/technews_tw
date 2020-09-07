@@ -39,7 +39,7 @@ class TechNews:
         all_news = self.news_obj.get_news(3)
         today_news = {}
         for k, v in all_news["news_contents"].items():
-            if date in v["date"]:
+            if date in v["date"] or "hours" in v["date"]:
                 today_news[k] = v
 
         news_tpl = {

@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="technews-tw",
-    version="1.2.0",
+    version="1.2.1",
     description="Taiwan tech news crawlers.",
     author="Wis Chang",
     author_email="wistw.chang@gmail.com",

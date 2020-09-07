@@ -80,7 +80,7 @@ class Inside:
             news_title = tag_p_title.text
             date_tag = tag_p.find("li", {"class": "post_date"})
             if date_tag:
-                date = date_tag.span.text.strip()
+                date = date_tag.span.text.strip().replace("/", "-")
             else:
                 continue
 
