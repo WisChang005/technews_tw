@@ -87,7 +87,7 @@ class Inside:
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             cur_news_data = {
                 news_md5: {
-                    "link": _base_url + news_link,
+                    "link": news_link,
                     "image": img_link,
                     "title": news_title,
                     "date": date
