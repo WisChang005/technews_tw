@@ -2,8 +2,8 @@ rm -r dist
 rm -r build
 
 # build
-python setup.py sdist
-python setup.py sdist bdist_wheel
+python3 setup.py sdist
+python3 setup.py sdist bdist_wheel
 
 # deploy
-python -m twine upload dist/*
+python3 -m twine upload dist/*
