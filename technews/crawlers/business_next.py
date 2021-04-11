@@ -62,7 +62,7 @@ class BusinessNext:
         # generate data dict
         _contents = dict()
         for d in data_contents["data"]["data"]:
-            date_tag = d["shortDate2"].replace(".", "/")
+            post_date = d["shortDate2"].replace(".", "/")
             news_link = d["amp_link"]
             news_title = d["title"]
             img_link = d["medium"]
