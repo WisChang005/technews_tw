@@ -2,7 +2,6 @@ import time
 import json
 import hashlib
 import logging
-import xmljson
 
 import requests
 from bs4 import BeautifulSoup
