@@ -2,6 +2,7 @@ import time
 import json
 import hashlib
 import logging
+import xmljson
 
 import requests
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ from bs4 import BeautifulSoup
 class TechOrange:
 
     def __init__(self):
-        self.url = "https://buzzorange.com/techorange/"
+        self.url = "https://buzzorange.com/techorange/latest/"
         self.headers = {
             "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -20,14 +21,15 @@ class TechOrange:
             "accept-encoding": "gzip, deflate, br",
             "accept-language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
             "cache-control": "max-age=0",
-            "sec-fetch-dest": "document",
+            "sec-fetch-dest": "empty",
             "sec-fetch-mode": "navigate",
-            "sec-fetch-site": "none",
+            "sec-fetch-site": "same-origin",
             "upgrade-insecure-requests": "1"
         }
         self.session = requests.Session()
 
     def get_news(self, page=1):
+        load_more_key = None
         for _ in range(3):
             try:
                 resp = self.session.get(self.url, headers=self.headers)
@@ -40,25 +42,9 @@ class TechOrange:
                 soup = BeautifulSoup(resp.text, "html5lib")
                 news_data = {
                     "timestamp": time.time(),
-                    "news_page_title": soup.find("title").text.strip()
+                    "news_page_title": soup.find("title").text.split("|")[1].strip()
                 }
-
-                # get load page key
-                load_more_key = None
-                script_tags = soup.findAll("script", {"type": "text/javascript"})
-                for _, js_script in enumerate(script_tags):
-                    if "fmloadmore" in js_script.text:
-                        split_string = str(js_script.text.split("fmloadmore = ")[1].split(";")[0])
-                        logging.debug("@@@ split_string = %s", split_string)
-                        _split_dict = json.loads(split_string)
-                        logging.debug("@@@ _split_dict = %s", _split_dict)
-                        load_more_key = _split_dict["nonce"]
-                        break
-
-                if not load_more_key:
-                    raise Exception(f"Get load page key error {load_more_key}")
-
-                logging.debug("Load page key -> [%s]", load_more_key)
+                data_soup = BeautifulSoup(resp.text, "lxml")
                 break
 
             except Exception as e:
@@ -69,66 +55,52 @@ class TechOrange:
             raise ValueError(f"Loading key error {load_more_key}")
 
         # get news data
-        cur_news_data = self.__handle_page_contents(data_contents=resp.text)
+        cur_news_data = self.__handle_page_contents(data_soup)
         news_contents.update(cur_news_data)
-
-        # get other pages
-        if page >= 2:
-            for page_i in range(2, page + 1):
-                others_pages_news_data = self.__load_pages(
-                    page_index=page_i, nonce_key=load_more_key)
-                news_contents.update(others_pages_news_data)
 
         news_data["news_contents"] = news_contents
 
         return json.loads(json.dumps(news_data))
 
     def __load_pages(self, page_index, nonce_key):
-        _load_page_api = "https://buzzorange.com/techorange/wp-admin/admin-ajax.php"
+        _load_page_api = "https://buzzorange.com/techorange/wp/wp-admin/admin-ajax.php"
         _payload = {
-            "action": "fm_ajax_load_more",
-            "nonce": nonce_key,
-            "page": page_index
+            "postOffset": (page_index * 8),
+            "type": "loadmore"
         }
+        _payload.update(nonce_key)
 
+        logging.debug(_payload)
+        self.session.headers.update({
+            "x-requested-with": "XMLHttpRequest",
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+        })
         load_resp = self.session.post(
             url=_load_page_api,
-            data=_payload)
+            data=json.dumps(_payload))
 
         logging.debug("Load page status [%s]", load_resp.status_code)
-        retry_counts = 0
-        while load_resp.status_code != 200:
-            load_resp = self.session.post(
-                url=_load_page_api,
-                data=_payload)
-            logging.debug("[RETRY] Load page status [%s]", load_resp.status_code)
+        logging.debug("content: [%s]", load_resp.content)
 
-            if retry_counts > 3:
-                raise Exception("load page error")
+        resp_data = load_resp.text
+        print(resp_data)
 
-            retry_counts += 1
-            time.sleep(5)
-
-        resp_json = load_resp.json()
-        resp_data = resp_json["data"]
-
-        resp_data_dict = self.__handle_page_contents(data_contents=resp_data)
+        resp_data_dict = self.__handle_page_contents(resp_data)
         return resp_data_dict
 
-    def __handle_page_contents(self, data_contents):
-        data_soup = BeautifulSoup(data_contents, "lxml")
+    def __handle_page_contents(self, data_soup):
 
         # generate data dict
         _contents = dict()
 
-        for article_i in data_soup.find_all("article"):
-            tag_a = article_i.find("a", {"class": "post-thumbnail"})
+        for article_i in data_soup.find_all("div", {"class": "col-md-6 col-sm-6 list-item"}):
+            tag_a = article_i.find("a")
             news_link = tag_a["href"]
-            img_link = tag_a["data-src"].strip()
-            news_title1 = tag_a["onclick"].split("'Click', '")[1]
-            news_title = news_title1.split("', {'nonInteraction'")[0]
+            img_link = tag_a.find("img")["src"]
+            news_title = article_i.find("h3", {"class": "post__title typescale-2"}).a.text
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
             date = article_i.find("time").text.replace("/", "-")
+            logging.debug(f"news_link={news_link}, img_link={img_link}, news_title={news_title}, date={date}")
             cur_news_data = {
                 news_md5: {
                     "link": news_link,
@@ -140,3 +112,16 @@ class TechOrange:
             _contents.update(cur_news_data)
 
         return _contents
+
+    def _get_load_page_args(self, data_soup):
+        scripts = data_soup.find("script", {"id": "ceris-scripts-js-extra"})
+        args_json = json.loads(scripts.string.split('ajax_buff = ')[1].split(';')[0])
+        logging.debug(f"scripts -> {json.dumps(args_json, indent=2)}")
+        args_data = args_json["query"]["ceris_posts_listing_grid-613c1cb3a98c1"]
+        security_code = args_json["ceris_security"]["ceris_security_code"]["content"]
+        data = {}
+        data.update(args_data)
+        data.update({"action": "ceris_posts_listing_grid"})
+        data.update({"securityCheck": security_code})
+        logging.debug(f"data -> {data}")
+        return data
