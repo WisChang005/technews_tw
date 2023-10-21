@@ -1,366 +1,366 @@
 {
-  "timestamp": 1631438658.536261,
+  "timestamp": 1697932361.896826,
   "news_page_title": "iThome",
   "news_contents": {
-    "f6d5f8e372bc60c526dbd44992605eab": {
-      "link": "https://www.ithome.com.tw/news/146650",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-office365_word_by_wei_ruan_-960.png?itok=-5jw_Fze",
-      "title": "\u7814\u7a76\u4eba\u54e1\uff1aWindows\u6700\u65b0MSHTML\u6f0f\u6d1e\u6bd4\u60f3\u50cf\u4e2d\u5371\u96aa",
-      "date": "2021-09-11"
+    "72106957633071bcffeaec7d7eb4a37e": {
+      "link": "https://www.ithome.com.tw/news/159417",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/cover_58.jpg?itok=nq9pBdGX",
+      "title": "\u53f0\u65b0\u91d1\u63a7\u63ed\u751f\u6210\u5f0fAI\u5be6\u9a57\u65b0\u9032\u5c55\uff0c\u6db5\u84cbChatbot\u3001\u77e5\u8b58\u7ba1\u7406\u3001\u7a0b\u5f0f\u52a9\u7406\u548c\u865b\u64ec\u5ba2\u670d",
+      "date": "2023-10-20"
     },
-    "da2d375d7881ea12cf7261d67cd4a806": {
-      "link": "https://www.ithome.com.tw/news/146668",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1_52.jpg?itok=71JX0Wr-",
-      "title": "Cloud\u5468\u5831\u7b2c120\u671f\uff1a\u591a\u6708\u524d\u90e8\u7f72\u5de5\u4f5c\u51fa\u5305\u8b93AWS\u6771\u4eac\u5340\u57df\u8fd1\u671f\u65b7\u7db26\u5c0f\u6642\uff0c\u6ce2\u53caSBI\u8b49\u5238\u3001NTT Docomo\u7b49\u591a\u5bb6\u5927\u578b\u4f01\u696d\u7db2\u8def\u670d\u52d9",
-      "date": "2021-09-11"
+    "e6f95a233e2b468d8cd64465d5ba15da": {
+      "link": "https://www.ithome.com.tw/news/159416",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/gadm.png?itok=EnAfS71W",
+      "title": "Martech\u96d9\u5468\u5831\u7b2c43\u671f\uff1aGoogle Ads\u5c07\u63a8\u51faNo-code\u7b2c\u4e00\u65b9\u6578\u64da\u6574\u5408\u529f\u80fd\uff0c\u6574\u5408\u5f8c\u6578\u64da\u53ef\u76f4\u63a5\u61c9\u7528\u65bcGoogle\u6578\u4f4d\u884c\u92b7\u7522\u54c1\u7dda",
+      "date": "2023-10-20"
     },
-    "8b69b9039c8bbd04c3f93ed9335111f8": {
-      "link": "https://www.ithome.com.tw/news/146667",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/zhu_tu_jin_rong_ye_she_zhi_zi_an_chang_cheng_fa_gui_ming_ding_tiao_wen_960x420.jpg?itok=l30GbybK",
-      "title": "\u4eca\u5e749\u6708\u91d1\u878d\u696d\u8a2d\u7f6e\u8cc7\u5b89\u9577\u6210\u70ba\u6cd5\u5f8b\u660e\u6587\u898f\u5b9a\uff0c\u64f4\u53ca38\u5bb6\u672c\u571f\u9280\u884c\u4e4b\u9918\uff0c\u7b26\u5408\u689d\u4ef6\u7684\u4fdd\u96aa\u8207\u8b49\u671f\u696d\u4e5f\u9808\u9075\u5faa",
-      "date": "2021-09-11"
+    "9b884293a52bc48fbd28031c644bfccb": {
+      "link": "https://www.ithome.com.tw/news/159415",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/20231020.png?itok=GcuckO_k",
+      "title": "\u3010\u8cc7\u5b89\u65e5\u5831\u301110\u670820\u65e5\uff0c\u99ed\u5ba2\u5229\u7528\u5f8c\u9580\u7a0b\u5f0f\u6846\u67b6Meta\u653b\u64ca\u6771\u6b50\u570b\u5bb6\u7684\u77f3\u6cb9\u7522\u696d\u3001\u5929\u7136\u6c23\u516c\u53f8\u3001\u570b\u9632\u5de5\u696d",
+      "date": "2023-10-20"
     },
-    "edf31419cb169fa1875cc9ad40a69c7c": {
-      "link": "https://www.ithome.com.tw/news/146666",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/zhu_tu_wei_fu_bu_diao_yu_you_jian_.jpg?itok=wdeVPIR4",
-      "title": "\u885b\u798f\u90e8\u8fd1\u65e5\u793a\u8b66\uff0c\u7576\u5fc3\u5047\u5192\u5176\u540d\u7fa9\u7684\u91e3\u9b5a\u90f5\u4ef6",
-      "date": "2021-09-11"
+    "067028be3a1c5f8254125a45810f1b5b": {
+      "link": "https://www.ithome.com.tw/news/159409",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1020-tech_support_scams-tech_support_fraud-by_microsoft.png?itok=QCxnJPy5",
+      "title": "\u5370\u5ea6\u3001\u5fae\u8edf\u53caAmazon\u651c\u624b\u7834\u7372\u6280\u8853\u652f\u63f4\u8a50\u9a19\u6d3b\u52d5",
+      "date": "2023-10-20"
     },
-    "d7c4ec219349aa4edbb0a63e1100aa4c": {
-      "link": "https://www.ithome.com.tw/news/146654",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/sidwalk-figure-1.-w.png?itok=1-N5ZTvt",
-      "title": "\u4e2d\u570b\u99ed\u5ba2APT41\u9644\u5c6c\u7d44\u7e54\u5229\u7528Sidewalk\u5f8c\u9580\u767c\u52d5\u653b\u64ca\uff0c\u81fa\u7063\u4e5f\u6709\u707d\u60c5",
-      "date": "2021-09-10"
+    "ad93930b3e9a5c0c19a06fa8f359bf56": {
+      "link": "https://www.ithome.com.tw/news/159403",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1020-keepass_by_malwarebytes-960.jpg?itok=G1ERLv5H",
+      "title": "\u99ed\u5ba2\u520a\u767b\u5047\u5192\u70baKeePass\u7684Google\u641c\u5c0b\u5ee3\u544a",
+      "date": "2023-10-20"
     },
-    "edb8803c7bf5edba84f5b5715635a1cf": {
-      "link": "https://www.ithome.com.tw/news/146653",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-apple_photo_by_laurenz_heymann_on_unsplash.jpg?itok=3IBOKdtD",
-      "title": "\u860b\u679c\u6293\u6f0f\u5c08\u6848\u98a8\u8a55\u5dee\uff1a\u5c01\u9589\u3001\u4ed8\u6b3e\u6162\u3001\u4fee\u88dc\u4e5f\u6162",
-      "date": "2021-09-10"
+    "b39bc926173a7c57cf9dbcb71ceac028": {
+      "link": "https://www.ithome.com.tw/article/159394",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/1152-feng_mian_p1-open-960x420_gong_zuo_qu_yu_1_0.jpg?itok=JkT9nvkL",
+      "title": "\u91d1\u878d\u4e0a\u96f2\u5927\u9b06\u7d81",
+      "date": "2023-10-20"
     },
-    "04c4bfcc1ce9d35cfbbf7619c8abb6b7": {
-      "link": "https://www.ithome.com.tw/news/146652",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-amazon_fire_tv_omni_series-960.jpg?itok=h_sKB91u",
-      "title": "Amazon\u9032\u5165\u96fb\u8996\u6a5f\u9818\u57df\uff0c\u63a8\u51faFire TV\u7cfb\u5217\u667a\u6167\u96fb\u8996",
-      "date": "2021-09-10"
-    },
-    "5397223f8372108cc439dbe091ff157b": {
-      "link": "https://www.ithome.com.tw/news/146644",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_766_-_openssl_3.0_has_been_released_-_openssl_blog_-_www.openssl.org_.jpg?itok=AwEAFZkU",
-      "title": "OpenSSL 3.0\u52a0\u5165\u65b0\u7684FIPS\u6a21\u7d44\uff0c\u4e26\u68c4\u7528\u5927\u91cfAPI",
-      "date": "2021-09-10"
-    },
-    "3093b7528920a691dcf5317557918554": {
-      "link": "https://www.ithome.com.tw/news/146641",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-ray-ban_facebook_first-generation_smart_glasses.jpg?itok=RnVb1qGj",
-      "title": "\u81c9\u66f8\u767c\u8868Ray-Ban Stories\u667a\u6167\u773c\u93e1",
-      "date": "2021-09-10"
-    },
-    "a901df1c28601a0491dca67e9b362413": {
-      "link": "https://www.ithome.com.tw/news/146640",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-dod_photo_by_air_force_tech._sgt._luke_r_sturm.png?itok=0esRk3j0",
-      "title": "\u5fae\u8edf\u3001AWS\u63a5\u624bGoogle\u653e\u68c4\u7684\u7f8e\u570b\u9632\u90e8\u5f71\u50cf\u76e3\u63a7\u6a19\u6848",
-      "date": "2021-09-10"
-    },
-    "2b8490456cd695f9a906674f50db16d0": {
-      "link": "https://www.ithome.com.tw/news/146639",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-container_photo_by_chuttersnap_on_unsplash.png?itok=OnAVdll7",
-      "title": "\u5fae\u8edf\u4fee\u88dc\u53ef\u5728Azure\u4e0a\u63a5\u7ba1\u4ed6\u4eba\u5bb9\u5668\u7684Azurescape\u6f0f\u6d1e",
-      "date": "2021-09-10"
-    },
-    "09cf99ebb86943dd08a880c8ce0427aa": {
-      "link": "https://www.ithome.com.tw/news/146638",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/remote_work-windows_virtual_desktop-wei_ruan_-microsoft.png?itok=ei3DRILr",
-      "title": "\u5fae\u8edf\u7a31\u65b0\u5e38\u614b\uff0c\u7121\u9650\u671f\u5ef6\u5f8c\u54e1\u5de5\u8fd4\u56de\u516c\u53f8\u4e0a\u73ed\u6642\u7a0b",
-      "date": "2021-09-10"
-    },
-    "eb6dd48e35d150095279f68ad37b6a7a": {
-      "link": "https://www.ithome.com.tw/news/146635",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0910-apple_wwdc_kevin_lynch_watch_os-960.png?itok=KwLfhvbh",
-      "title": "\u860b\u679cApple Watch\u4e3b\u7ba1\u63a5\u624b\u81ea\u99d5\u8eca\u958b\u767c\u5c08\u6848\u90e8\u9580",
-      "date": "2021-09-10"
-    },
-    "125e10dba03b5dcb9ca8f0239bf17d79": {
-      "link": "https://www.ithome.com.tw/news/146626",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/jie_tu_2021-09-10_shang_wu_2.06.14.png?itok=VaJzep86",
-      "title": "\u63a8\u7279\u958b\u59cb\u6e2c\u8a66\u793e\u7fa4\u529f\u80fd\uff0c\u96c6\u7d50\u5c0d\u76f8\u540c\u4e3b\u984c\u611f\u8208\u8da3\u7684\u7528\u6236",
-      "date": "2021-09-10"
-    },
-    "856fd66d99f3e4054c36f40b90d2fd51": {
-      "link": "https://www.ithome.com.tw/news/146625",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_765_-_guarantee_capacity_access_with_on-demand_capacity_reservations-now_in_-_azure.microsoft.com_.jpg?itok=RnXyTm9a",
-      "title": "Azure\u63a8\u6309\u9700\u5bb9\u91cf\u9810\u7559\u529f\u80fd\uff0c\u53ef\u4fdd\u8b49\u9810\u7559\u865b\u64ec\u6a5f\u5668\u904b\u7b97\u80fd\u529b",
-      "date": "2021-09-10"
-    },
-    "fc93ba12878b8c150b513f8195389e97": {
-      "link": "https://www.ithome.com.tw/news/146624",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_763_-_announcing_the_amazon_s3_plugin_for_pytorch_-_aws_machine_learning_bl_-_aws.amazon.com_.jpg?itok=6chMnur4",
-      "title": "AWS\u767c\u5e03PyTorch\u7528S3\u64f4\u5145\u5957\u4ef6\uff0c\u8b93\u7528\u6236\u76f4\u63a5\u4e32\u6d41S3\u8cc7\u6599\u8a13\u7df4\u6a21\u578b",
-      "date": "2021-09-10"
-    },
-    "59d82cc1a5b0939039704331862b9c0d": {
-      "link": "https://www.ithome.com.tw/news/146622",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/pedalboard_header.gif?itok=IIqGs9wV",
-      "title": "Spotify\u958b\u6e90Python\u97f3\u6548\u51fd\u5f0f\u5eabPedalboard\uff0c\u4f9b\u7a0b\u5f0f\u958b\u767c\u65b9\u6cd5\u9ad8\u901f\u5f8c\u88fd\u97f3\u8a0a",
-      "date": "2021-09-10"
-    },
-    "d353f5b0015e88e0256f33acedb246b3": {
-      "link": "https://www.ithome.com.tw/news/146623",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/960_6.jpg?itok=o-y_5Lb1",
-      "title": "\u8aa0\u54c1\u65b0\u96fb\u5546\u5e73\u81fa\u958b\u7ad9\u5f8c\u9996\u5ea6\u52a0\u5165\u5468\u5e74\u6176\uff0c\u6253\u9020\u7dda\u4e0b\u5feb\u9583\u5e97\u5be6\u73fe\u865b\u5be6\u878d\u5408\u8cfc\u7269\u9ad4\u9a57",
-      "date": "2021-09-09"
-    },
-    "ac456e7fbb2622d4aef7022b93848464": {
-      "link": "https://www.ithome.com.tw/news/146621",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-german_bka.jpg?itok=o268S-Ny",
-      "title": "\u5831\u5c0e\uff1a\u5fb7\u570b\u653f\u5e9c\u66fe\u5411NSO\u8cfc\u8cb7Pegasus\u9593\u8adc\u8edf\u9ad4",
-      "date": "2021-09-09"
-    },
-    "4bc34d8709bd63c64de22bdbb2829425": {
-      "link": "https://www.ithome.com.tw/news/146620",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-fortinet_hack_cyber_attack.jpg?itok=214kSz_t",
-      "title": "\u99ed\u5ba2\u516c\u5e0350\u842c\u7d44Fortinet VPN\u7528\u6236\u5e33\u865f\u8207\u5bc6\u78bc\uff0c74\u500b\u570b\u5bb6\u53d7\u5f71\u97ff\uff0c\u81fa\u7063\u7b2c\u4e8c\u56b4\u91cd",
-      "date": "2021-09-09"
-    },
-    "161b8900a756ef692fa893c3e0ec1975": {
-      "link": "https://www.ithome.com.tw/news/146613",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-coinbase-960.jpg?itok=BvNE5Fkr",
-      "title": "Coinbase\u7684\u52a0\u5bc6\u8ca8\u5e63\u501f\u8cb8\u670d\u52d9\u6536\u5230SEC\u7684\u63d0\u544a\u901a\u77e5",
-      "date": "2021-09-09"
-    },
-    "a463c183f59201bb30e1b1e7cbcf63ec": {
-      "link": "https://www.ithome.com.tw/news/146617",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/5x.jpg?itok=d6Z8PBq3",
-      "title": "\u4e94\u500d\u523810/8\u8d77\u958b\u653e\u4f7f\u7528\uff0c\u56e0\u61c9\u9632\u75ab\u3001\u8f49\u578b\u9700\u8981\uff0c\u653f\u5e9c\u529b\u63a8\u6578\u4f4d\u5238",
-      "date": "2021-09-09"
-    },
-    "d98ce6706fae5690170b5b4445768a44": {
-      "link": "https://www.ithome.com.tw/news/146618",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-revil_reopen.jpg?itok=CpkW73RC",
-      "title": "\u52d2\u7d22\u8edf\u9ad4REvil\u65bc\u6697\u7db2\u4e2d\u518d\u73fe\u8e64\u8de1",
-      "date": "2021-09-09"
-    },
-    "d9da903614b8f038998c3b404b5ec57f": {
-      "link": "https://www.ithome.com.tw/news/146616",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/screen_shot_2021-09-09_at_2.34.49_pm.png?itok=Z5k0CKTs",
-      "title": "AI\u8da8\u52e2\u5468\u5831\u7b2c176\u671f\uff1aUber\u6578\u767ePB\u8cc7\u6599\u5206\u6790\u5168\u9760\u958b\u6e90\u5e73\u81fa\uff0c\u5982\u4f55\u601d\u8003\u7701\u9322\u6230\u7565\uff1f",
-      "date": "2021-09-09"
-    },
-    "3c64485594cb57f525102a1cc8193b72": {
-      "link": "https://www.ithome.com.tw/news/146614",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-new_zealand_kiwibank_by_kiwibank-960.png?itok=y3gHy7JD",
-      "title": "\u7d10\u897f\u862d\u90f5\u653f\u7e3d\u5c40\u3001\u9280\u884c\u906dDDoS\u653b\u64ca",
-      "date": "2021-09-09"
-    },
-    "7a18823e3ee103ecc4569b72414b8230": {
-      "link": "https://www.ithome.com.tw/news/146612",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-amazon_just_walk_out-960.png?itok=0bzg25K9",
-      "title": "Amazon \u7121\u4eba\u5546\u5e97\u7cfb\u7d71Just Walk Out\u5c07\u5728Whole Foods\u8d85\u5e02\u6e2c\u8a66",
-      "date": "2021-09-09"
-    },
-    "20485ec3593b1aa35b78d9c8ab9694fd": {
-      "link": "https://www.ithome.com.tw/news/146611",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/jenkins-hp-w.png?itok=B7ArjwGo",
-      "title": "Jenkins\u5df2\u68c4\u7528\u7684Confluence\u4f3a\u670d\u5668\u906d\u99ed\uff0cJenkins\u4e3b\u7a0b\u5f0f\u3001\u5916\u639b\u8edf\u9ad4\u3001\u7a0b\u5f0f\u78bc\u7686\u4e0d\u53d7\u5f71\u97ff",
-      "date": "2021-09-09"
-    },
-    "6a013c01cd177c00ddefc29a81bc4f7a": {
-      "link": "https://www.ithome.com.tw/news/146610",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0909-google_meet_series_one_desk_27-960.png?itok=oXyGDgvj",
-      "title": "Google\u63a8\u51fa2\u6b3eMeet\u5546\u7528\u88dd\u7f6e",
-      "date": "2021-09-09"
-    },
-    "15a98fee869d2a5897091af15b33631d": {
-      "link": "https://www.ithome.com.tw/news/146609",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/tu_4-iotshuang_zhou_bao_.jpeg?itok=UUtTtrH4",
-      "title": "IoT\u96d9\u5468\u5831\u7b2c99\u671f\uff1a\u7121\u4eba\u53eb\u8eca\u670d\u52d9\u5c07\u5c46\u6eff\u4e00\u5e74\uff0cWaymo\u81ea\u99d5\u8eca\u7d42\u65bc\u99db\u5165\u820a\u91d1\u5c71\u5e02\u5340",
-      "date": "2021-09-09"
-    },
-    "c19b4af84b2405b67fd18a80a255e7d3": {
-      "link": "https://www.ithome.com.tw/voice/146527",
+    "c42d4f36a222ecb02621a6f7841a21fe": {
+      "link": "https://www.ithome.com.tw/voice/159393",
       "image": null,
-      "title": "\u5f9e\u611f\u77e5\u5668\u5230\u795e\u7d93\u7db2\u8def",
-      "date": "2021-09-09"
+      "title": "\u65b0\u91d1\u878d\u4e0a\u96f2\u6f6e",
+      "date": "2023-10-20"
     },
-    "9a5bdd417579d11a2e6dccfa28684c38": {
-      "link": "https://www.ithome.com.tw/people/146519",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/wen_bin_-wen_hua_bu_-tu_1.png?itok=Yard4Jx4",
-      "title": "IT\u626e\u6f14\u85dd\u6587\u7522\u696d\u7d13\u56f0\u65b9\u6848\u63a8\u624b\uff0c\u6587\u5316\u90e8\u529b\u63a8\u6587\u5316\u79d1\u6280\u52a0\u901f\u8f49\u578b",
-      "date": "2021-09-09"
+    "829757a2a2086c22308ca5975f0154e7": {
+      "link": "https://www.ithome.com.tw/people/159392",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/1152-cio-960.jpg?itok=xiBH5eJR",
+      "title": "\u65b0\u5149\u91ab\u9662HIS\u4e00\u6b21\u5168\u9762\u5927\u63db\u65b0\uff0c\u5927\u529b\u767c\u5c55\u5c0d\u5916\u61c9\u7528\u7784\u6e96\u5fae\u670d\u52d9",
+      "date": "2023-10-20"
     },
-    "ab5893e43052b70b08d71e5dcb389469": {
-      "link": "https://www.ithome.com.tw/news/146602",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_762_-_installing_the_anbox_cloud_appliance_-_anbox_documentation_-_anbox-cloud.io_.jpg?itok=WlMD9_7t",
-      "title": "Canonical\u63a8\u8f15\u91cfAnbox Cloud\uff0c\u53ef\u5b89\u88dd\u81f3\u55ae\u500bAWS\u57f7\u884c\u500b\u9ad4",
-      "date": "2021-09-08"
+    "f93e2a91749fbc70f54ff562f933eea1": {
+      "link": "https://www.ithome.com.tw/news/159391",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/guo_tai_jin_kong_guan_fang_zhao_pian_-960.jpg?itok=BPTk7gbb",
+      "title": "\u3010\u91d1\u878d\u4e0a\u96f2\u5be6\u4f8b\uff1a\u570b\u6cf0\u91d1\u63a7\u3011\u4ee5\u96f2\u539f\u751f\u767c\u5c55\u591a\u96f2\u6df7\u5408\u96f2\uff0c\u570b\u6cf0\u91d1\u81ea\u5efa\u8f49\u578b\u5e73\u81fa\u52a0\u901f\u5927\u898f\u6a21\u4e0a\u96f2",
+      "date": "2023-10-20"
     },
-    "9c3d9fb6de95ded32e78688d0e3d6248": {
-      "link": "https://www.ithome.com.tw/news/146600",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_761_-_all_your_video_needs_in_one_place_-_clipchamp_-_clipchamp.com_.jpg?itok=UzRVIqv7",
-      "title": "\u5fae\u8edf\u4f75\u8cfc\u7db2\u9801\u5f71\u7247\u7de8\u8f2f\u5668Clipchamp\uff0c\u88dc\u5145Microsoft 365\u7522\u54c1\u7d44\u5408",
-      "date": "2021-09-08"
+    "53dc361fbc2907abef87c269f4bd00a8": {
+      "link": "https://www.ithome.com.tw/news/159389",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1152-cover-fu_bang_-tu_pian_lai_yuan_fu_bang_jin_kong_-960.jpg?itok=P4o6Pocs",
+      "title": "\u3010\u91d1\u878d\u4e0a\u96f2\u5be6\u4f8b\uff1a\u5bcc\u90a6\u91d1\u63a7\u3011\u4ee5O365\u5148\u5f37\u5316\u5168\u9ad4\u54e1\u5de5\u4e0a\u96f2\u610f\u8b58\uff0c\u5bcc\u90a6\u91d1\u8981\u9760\u591a\u96f2\u52a0\u901f\u5be6\u8e10\u91d1\u878d\u767e\u8ca8\u9858\u666f",
+      "date": "2023-10-20"
     },
-    "bc30448bd350b70e5e1668f015ac89d4": {
-      "link": "https://www.ithome.com.tw/news/146604",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-microsoft_start.jpg?itok=3z00E0Ku",
-      "title": "\u5fae\u8edf\u767c\u8868\u5168\u65b0\u500b\u4eba\u5316\u65b0\u805e\u670d\u52d9Microsoft Start",
-      "date": "2021-09-08"
+    "3746fca68700a98a5b096a419b8fe337": {
+      "link": "https://www.ithome.com.tw/news/159359",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1_11.png?itok=PO8H6D_L",
+      "title": "\u5982\u4f55\u5728\u624b\u6a5f\u7b49\u884c\u52d5\u88dd\u7f6e\u4e0a\u57f7\u884cLLM\u6a21\u578b\u63a8\u8ad6\uff1f\u806f\u767c\u79d1AI\u8ca0\u8cac\u4eba\uff1a\u5f97\u5148\u514b\u670d\u4e09\u5927\u6311\u6230",
+      "date": "2023-10-20"
     },
-    "002ea5d32210bae99c6835669a6ef921": {
-      "link": "https://www.ithome.com.tw/news/146603",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-ford_self-driving_test_vehicle.png?itok=FwbPe_pS",
-      "title": "\u798f\u7279\u6c7d\u8eca\u6316\u8d70\u4e86\u860b\u679c\u7684\u6c7d\u8eca\u4e3b\u7ba1Doug Field",
-      "date": "2021-09-08"
+    "b812d6563417b3a110316c4ada84085a": {
+      "link": "https://www.ithome.com.tw/review/159364",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/micron_7500_main.jpg?itok=GuD9IIG8",
+      "title": "\u63a1\u7528232\u5c64NAND\u5feb\u9583\u8a18\u61b6\u9ad4\uff0c\u7f8e\u5149\u63a8\u65b0\u4e00\u4ee3\u4e3b\u6d41NVMe SSD",
+      "date": "2023-10-20"
     },
-    "3d5ae20e5f54e50764f43ef5946d03a9": {
-      "link": "https://www.ithome.com.tw/news/146601",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/nzcbj6url5-w.png?itok=gj5Et6AC",
-      "title": "\u570b\u5b89\u5c40\u4eca\u5e74\u4e0a\u534a\u906d\u5230\u903e3\u842c\u6b21\u653b\u64ca\uff0c\u76f4\u903c\u53bb\u5e74\u7e3d\u548c",
-      "date": "2021-09-08"
+    "6144befe61c0ff83311e912de7a2d3ed": {
+      "link": "https://www.ithome.com.tw/news/159388",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1020-claude_chat-by_anthropic-960.jpg?itok=Xeibir9J",
+      "title": "Anthropic AI\u52a9\u7406\u64f7\u53d6\u7db2\u8def\u6b4c\u8a5e\uff0c\u906d\u74b0\u7403\u97f3\u6a02\u7b49\u5531\u7247\u696d\u8005\u63a7\u544a\u4fb5\u6b0a",
+      "date": "2023-10-20"
     },
-    "7887b12a2edd06a823c79dd2407a4dd2": {
-      "link": "https://www.ithome.com.tw/news/146598",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-pizza_hut_bitcoin_el_salvador-960.jpg?itok=GoY_5sd6",
-      "title": "\u85a9\u723e\u74e6\u591a\u6210\u70ba\u5168\u7403\u7b2c\u4e00\u500b\u63a5\u7d0d\u6bd4\u7279\u5e63\u70ba\u6cd5\u5b9a\u8ca8\u5e63\u7684\u570b\u5bb6",
-      "date": "2021-09-08"
+    "b8db2bdaaa56da23fa6bc557ef33c589": {
+      "link": "https://www.ithome.com.tw/news/159371",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1152-feng_mian_-qa-960.jpg?itok=KGlvgQv8",
+      "title": "\u5feb\u901f\u4e86\u89e3\u91d1\u878d\u4e0a\u96f2\u9b06\u7d81\u91cd\u9edeQA",
+      "date": "2023-10-20"
     },
-    "66af5a1063393eaa378a2a1c53d442ca": {
-      "link": "https://www.ithome.com.tw/news/146597",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/162-executive-yuan.jpg?itok=mob--GZs",
-      "title": "\u8cc7\u5b89\u4e00\u5468\u7b2c162\u671f\uff1a\u70ba\u843d\u5be6\u500b\u8cc7\u4fdd\u8b77\u76e3\u7ba1\u8cac\u4efb\u53ca\u8de8\u6a5f\u95dc\u5354\u8abf\uff0c\u884c\u653f\u9662\u5efa\u7acb\u500b\u8cc7\u4fdd\u8b77\u57f7\u884c\u806f\u7e6b\u6a5f\u5236",
-      "date": "2021-09-08"
+    "e98a23018d183b74540881773df21a31": {
+      "link": "https://www.ithome.com.tw/news/159370",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1152-feng_mian_-zhu_wen_-960.jpg?itok=4JdqaBRG",
+      "title": "\u91d1\u878d\u4e0a\u96f2\u518d\u6b21\u5927\u9b06\u7d81\uff0c\u5c07\u6380\u8d77\u91d1\u878d\u696d\u65b0\u4e00\u6ce2\u52a0\u901f\u4e0a\u96f2\u6f6e",
+      "date": "2023-10-20"
     },
-    "4ec09b42190a86e2dbab95dddec90161": {
-      "link": "https://www.ithome.com.tw/news/146596",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-hiring_photo_by_creditdebitpro-960.jpg?itok=BKUcYuDI",
-      "title": "\u5831\u544a\uff1a\u4f01\u696d\u4e0d\u7576\u4f7f\u7528\u81ea\u52d5\u5316\u8058\u50f1\u7cfb\u7d71\uff0c\u53cd\u8aa4\u64cb\u4e86\u5927\u91cf\u53ef\u80fd\u4eba\u624d",
-      "date": "2021-09-08"
+    "a4100486e02404f36553de628b4ab521": {
+      "link": "https://www.ithome.com.tw/news/159363",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/yu_shan_tu_pian_lai_yuan_ithome-2.jpg?itok=kFKYBNJK",
+      "title": "\u3010\u91d1\u878d\u4e0a\u96f2\u5be6\u4f8b\uff1a\u7389\u5c71\u91d1\u63a7\u3011\u5584\u7528\u96f2\u539f\u751f\u57fa\u790e\u767c\u5c55\u6df7\u5408\u96f2\uff0c\u7389\u5c71\u91d1\u4e0a\u96f2\u512a\u5148\u8003\u91cf\u654f\u6377\u548c\u97cc\u6027",
+      "date": "2023-10-20"
     },
-    "9c81dae725f02bf2d77667fbdda16333": {
-      "link": "https://www.ithome.com.tw/news/146592",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-0914pin_guo_xu_ni_fa_biao_hui_.jpg?itok=RRztAvB8",
-      "title": "\u860b\u679c\u5ba3\u5e03\u8981\u57289\u670814\u65e5\u8209\u884c\u865b\u64ec\u767c\u8868\u6703",
-      "date": "2021-09-08"
+    "4d1520fd2f654669b7870e6164977924": {
+      "link": "https://www.ithome.com.tw/news/159362",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1152-feng_mian_-zhong_xin_-960.jpg?itok=qLg9FrwU",
+      "title": "\u3010\u91d1\u878d\u4e0a\u96f2\u5be6\u4f8b\uff1a\u4e2d\u570b\u4fe1\u8a17\u91d1\u63a7\u3011\u4ee5\u6df7\u5408\u96f2\u767c\u5c55\u6574\u9ad4\u6230\u7565\uff0c\u4e2d\u4fe1\u91d1\u5148\u9760\u79c1\u96f2\u7df4\u5175\u518d\u805a\u7126\u591a\u96f2\u548c\u79c1\u96f2\u6574\u5408",
+      "date": "2023-10-20"
     },
-    "8f6a1437c8db311c75af4974ae04b178": {
-      "link": "https://www.ithome.com.tw/news/146590",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-microsoft.jpg?itok=SqVu6CP0",
-      "title": "\u5fae\u8edf\u52a0\u5165\u958b\u6e90\u96f2\u5e73\u81fa\u7d44\u7e54OpenInfra\u57fa\u91d1\u6703",
-      "date": "2021-09-08"
+    "b6c795514c8bc17a5940e3791c69bd94": {
+      "link": "https://www.ithome.com.tw/news/159343",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/960-zhi_hao_-yun_duan_-tu_1_-tu_pian_lai_yuan_-google_cloud.jpg?itok=MCaE-y0m",
+      "title": "\u91d1\u878d\u4e0a\u96f2\u6709\u54ea\u4e9b\u9078\u64c7\uff1f\u76e4\u9ede4\u5927\u516c\u96f2\u767c\u5c55\u91cd\u9ede",
+      "date": "2023-10-20"
     },
-    "e1ae124c9f9c849a0781613832af2ea6": {
-      "link": "https://www.ithome.com.tw/news/146584",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0908-microsoft_defender_antivirus.jpg?itok=J5Fs-ZSj",
-      "title": "Windows RCE\u6f0f\u6d1e\u5df2\u6709\u9396\u5b9aOffice\u7528\u6236\u7684\u653b\u64ca\uff0c\u5fae\u8edf\u7dca\u6025\u63d0\u4f9b\u7de9\u89e3\u6307\u793a",
-      "date": "2021-09-08"
+    "ab16cc0b1ae7ab7b9c77dfcf35a0501a": {
+      "link": "https://www.ithome.com.tw/news/159387",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1219-meta_vr-960_0.jpg?itok=Lu3CJrKD",
+      "title": "FCC\u6279\u51c6AR\u8207VR\u88dd\u7f6e\u4f7f\u75286GHz\u983b\u6bb5",
+      "date": "2023-10-20"
     },
-    "1224ee83a18d5f5b25c475d5a20c40c6": {
-      "link": "https://www.ithome.com.tw/news/146579",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/tu_pian_lai_yuan_aws.png?itok=cmXDezJe",
-      "title": "\u56e0\u61c9\u6a6b\u8de825\u570b\u696d\u52d9\u62d3\u5c55\u9700\u6c42\uff0c\u5b8f\u7881\u6b50\u6d32\u7e3d\u90e8\u642c\u90773\u5927\u6838\u5fc3\u7cfb\u7d71\u4e0a\u516c\u6709\u96f2\uff0c\u76ee\u6a19\u53d6\u4ee3\u5169\u5ea7\u6b50\u6d32\u81ea\u6709\u8cc7\u6599\u4e2d\u5fc3",
-      "date": "2021-09-08"
+    "2a7ece1735bbe806d1e258bf2d6d1e14": {
+      "link": "https://www.ithome.com.tw/news/159382",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1019-the_foundation_model_transparency_index-image_by_stanford_center_for_research_on_foundation_models-960.jpg?itok=8TlLT614",
+      "title": "\u53f2\u4e39\u4f5b\u5927\u5b78\u767c\u8868\u57fa\u790e\u6a21\u578b\u900f\u660e\u5ea6\u6307\u6a19\uff0cLlama 2\u4ee554%\u5c45\u51a0",
+      "date": "2023-10-20"
     },
-    "ed6c1e037909e51e3082d5f3d44018a5": {
-      "link": "https://www.ithome.com.tw/article/146528",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/1041-feng_mian_gu_shi_-open-zong_han_-960x420_kao_bei_.png?itok=0JV3xUxl",
-      "title": "2022 Intel\u904b\u7b97\u67b6\u69cb\u5927\u516c\u958b\uff01",
-      "date": "2021-09-08"
+    "ec4853f463249ef32c7b520729a24f9b": {
+      "link": "https://www.ithome.com.tw/article/159331",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/huan_ying_jin_ru_guan_li_jie_ceng_-960.jpg?itok=sj2anPj1",
+      "title": "\u9818\u5c0e\u8005\u5982\u4f55\u8015\u8018\u5718\u968a\u6587\u5316",
+      "date": "2023-10-20"
     },
-    "f669ecc7d7cbbf63604208e491cdb449": {
-      "link": "https://www.ithome.com.tw/tech/146525",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/ipu-1-intel-architecture-day-2021-4-sundar.jpg?itok=tOzBeTiw",
-      "title": "2022\u82f1\u7279\u723e\u57fa\u790e\u8a2d\u65bd\u8655\u7406\u5668\uff1aMount Evans",
-      "date": "2021-09-08"
+    "ce8a2ce4725b5dfe1f55232805a9087d": {
+      "link": "https://www.ithome.com.tw/news/159381",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/kilhqvgmtr-156.png?itok=d3YF8MAs",
+      "title": "\u91dd\u5c0d10\u6708\u521d\u767c\u751f\u7684\u8cc7\u6599\u5916\u6d29\u4e8b\u6545\uff0c\u53cb\u8a0a\u79d1\u6280\u63d0\u51fa\u9032\u4e00\u6b65\u8aaa\u660e",
+      "date": "2023-10-19"
     },
-    "d59252565871fe87ebedceeb46002ac5": {
-      "link": "https://www.ithome.com.tw/tech/146524",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/xe-hpc-1-2_stack_sample_tu_pian_lai_yuan_ying_te_er_.png?itok=7d_LjyFX",
-      "title": "2022\u82f1\u7279\u723e\u8cc7\u6599\u4e2d\u5fc3\u7e6a\u5716\u8655\u7406\u5668\uff1aPonte Vecchio",
-      "date": "2021-09-08"
+    "084bbf61c655cf5d943a4553b6553419": {
+      "link": "https://www.ithome.com.tw/news/159380",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/ying_mu_xie_qu_hua_mian_2023-10-19_173824.png?itok=IO6Y7slb",
+      "title": "\u91d1\u7ba1\u6703\u6b63\u5f0f\u767c\u5e03\u91d1\u878d\u696d\u904b\u7528AI\u539f\u5247\uff0c\u653e\u5bec\u696d\u8005\u4f7f\u7528AI\u7686\u9808\u4eba\u70ba\u5224\u65b7\u7684\u4e00\u81f4\u6027\u898f\u7bc4",
+      "date": "2023-10-19"
     },
-    "f0ef99739aaf36a3a976abd667346563": {
-      "link": "https://www.ithome.com.tw/voice/146521",
-      "image": null,
-      "title": "\u82f1\u7279\u723e\u7684\u8655\u7406\u5668\u53cd\u653b",
-      "date": "2021-09-08"
+    "6e7e650213e4d5a8fa7e7a8c77e78040": {
+      "link": "https://www.ithome.com.tw/news/159379",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/20231019.png?itok=5gJibFXE",
+      "title": "\u3010\u8cc7\u5b89\u65e5\u5831\u301110\u670819\u65e5\uff0c\u4e92\u52d5\u5f0f\u904b\u7b97\u5e73\u81faJupyter Notebook\u906d\u5230\u9396\u5b9a\uff0c\u99ed\u5ba2\u90e8\u7f72\u60e1\u610f\u7a0b\u5f0f\uff0c\u5f9e\u4e2d\u6316\u7926\u4e26\u76dc\u53d6\u96f2\u7aef\u670d\u52d9\u5e33\u5bc6",
+      "date": "2023-10-19"
     },
-    "e5931c7f78cf3e2f22690f8ab188b7ec": {
-      "link": "https://www.ithome.com.tw/tech/146497",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/1041-cover-2-tu_pian_lai_yuan_ying_te_er_-960-v2.png?itok=3xzF9fD7",
-      "title": "2022\u82f1\u7279\u723e\u4f3a\u670d\u5668\u5e73\u81fa\uff1aSapphire Rapids",
-      "date": "2021-09-08"
+    "29acedc5a68980d0e1600fdcef41d727": {
+      "link": "https://www.ithome.com.tw/news/159376",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1019-digital_euro-photo_by_european_central_bank-ecb-2-960.jpg?itok=yTbmUea8",
+      "title": "\u6b50\u6d32\u592e\u884c\u5c07\u65bc11\u6708\u9081\u5165\u6578\u4f4d\u6b50\u5143\u7684\u6e96\u5099\u968e\u6bb5",
+      "date": "2023-10-19"
     },
-    "e8f369f104da741557147877339452f9": {
-      "link": "https://www.ithome.com.tw/news/146583",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-amazon_braket_liang_zi_chu_li_qi_qpu.jpg?itok=wJ7uBDqz",
-      "title": "AWS\u65b0\u670d\u52d9\u5408\u4f75\u91cf\u5b50\u96fb\u8166\u89e3\u6c7a\u52a0\u5bc6\u91d1\u9470\u88ab\u7834\u89e3\u7684\u554f\u984c",
-      "date": "2021-09-07"
+    "7101f065b49a343b1f6a67b52634a344": {
+      "link": "https://www.ithome.com.tw/news/159375",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/twm-1.jpg?itok=YMaYEAhS",
+      "title": "\u53f0\u7063\u5927\u54e5\u5927\u4ee5AI 2.0\u6280\u8853\u512a\u5316\u667a\u80fd\u5ba2\u670d\u6a5f\u5668\u4eba\uff0c\u63d0\u9ad8\u5c0d\u7528\u6236\u63d0\u554f\u7684\u7406\u89e3\u53ca\u56de\u7b54\u6b63\u78ba\u7387",
+      "date": "2023-10-19"
     },
-    "5a15f89bc263364398082d7c14bb44ad": {
-      "link": "https://www.ithome.com.tw/news/146582",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/46530561324_f2ff71178a_k.jpg?itok=jcBjgKkH",
-      "title": "\u7d10\u6642\uff1a\u958b\u6316\u6bd4\u7279\u5e63\u6240\u4f7f\u7528\u7684\u96fb\u529b\u662fGoogle\u7e3d\u7528\u96fb\u91cf\u76847\u500d",
-      "date": "2021-09-07"
+    "6a454302af1367aabed4fe8fc1b4676d": {
+      "link": "https://www.ithome.com.tw/news/159374",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0715-netflix_by_netflix-960-jpg_0.jpg?itok=BSSHbFyu",
+      "title": "\u7db2\u98db\u71df\u6536\u6210\u95777.8%\uff0c\u5373\u65e5\u8d77\u8abf\u6f32\u7f8e\u570b\u3001\u82f1\u570b\u53ca\u6cd5\u570b\u8cbb\u7387",
+      "date": "2023-10-19"
     },
-    "fb42de1814dddf9ac8d19d1c4a21af54": {
-      "link": "https://www.ithome.com.tw/news/146578",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_760_-_google_ai_blog_detecting_abnormal_chest_x-rays_using_deep_learning_-_ai.googleblog.com_.jpg?itok=ijmWglCJ",
-      "title": "Google\u4ee5\u6df1\u5ea6\u5b78\u7fd2\u5075\u6e2c\u7570\u5e38\u80f8\u8154X\u5149\u7247\uff0c\u53ef\u627e\u51fa\u8a13\u7df4\u8cc7\u6599\u96c6\u672a\u898b\u904e\u7684\u80ba\u90e8\u7570\u5e38",
-      "date": "2021-09-07"
+    "666ff110bbd5884b3affab3cf9d08f56": {
+      "link": "https://www.ithome.com.tw/news/159373",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1019-azure_container_apps-radius-open_application_platform_for_the_cloud-960.jpg?itok=qQGtEXGh",
+      "title": "\u5fae\u8edf\u958b\u6e90\u96f2\u7aef\u539f\u751f\u61c9\u7528\u7a0b\u5f0f\u958b\u767c\u5e73\u81faRadius",
+      "date": "2023-10-19"
     },
-    "3a7449380edff3fb6141c6859502f42f": {
-      "link": "https://www.ithome.com.tw/news/146581",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/zhu_tu_mitre_engage_960x420.jpg?itok=5dJTw3Z-",
-      "title": "MITRE Engage\u5c07\u53d6\u4ee3MITRE Shield\uff0c\u805a\u7126\u4ea4\u6230\u3001\u62d2\u7d55\u8207\u6b3a\u6575\u9818\u57df",
-      "date": "2021-09-07"
+    "b66d6721f6a830aa4c9b6c91aa2392f3": {
+      "link": "https://www.ithome.com.tw/news/159372",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1019-amazon_prime_air_drone_delivery-960.jpg?itok=5Y9-4Xhf",
+      "title": "Amazon\u660e\u5e74\u8981\u5728\u82f1\u570b\u8207\u7fa9\u5927\u5229\u90e8\u7f72\u7121\u4eba\u6a5f\u9001\u8ca8\u670d\u52d9",
+      "date": "2023-10-19"
     },
-    "217f94c3bba4bc01dbc4f85041adfdac": {
-      "link": "https://www.ithome.com.tw/news/146580",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/tai_1686-1.jpg?itok=JTgODNsD",
-      "title": "\u5de5\u7814\u9662\u8207Arm\u806f\u624b\uff0c\u70ba\u65b0\u5275\u696d\u8005\u5f15\u9032Arm IP\u6253\u9020IC\u8a2d\u8a08\u5e73\u81fa",
-      "date": "2021-09-07"
+    "667b0ab4f11b25fa1dd8611141d683b1": {
+      "link": "https://www.ithome.com.tw/news/159368",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1019-winrar-back-photo_by_jr_korpa_on_unsplash-960.jpg?itok=-iP9YlRd",
+      "title": "\u4e2d\u4fc4\u570b\u5bb6\u99ed\u5ba2\u6d89\u5acc\u6feb\u7528WinRAR\u96f6\u6642\u5dee\u6f0f\u6d1e",
+      "date": "2023-10-19"
     },
-    "87b4df635d2a44b76dd4163283b97a50": {
-      "link": "https://www.ithome.com.tw/news/146576",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/cachelib_hero.jpg?itok=-Wxk31vy",
-      "title": "\u81c9\u66f8\u958b\u6e90\u5feb\u53d6\u5f15\u64ceCacheLib\uff0c\u9023\u7d50\u7522\u696d\u63a8\u52d5\u5feb\u53d6\u5275\u65b0",
-      "date": "2021-09-07"
+    "3f1925caf5f30fb671257304d01fbcc6": {
+      "link": "https://www.ithome.com.tw/news/159367",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0526-openai-back_photo_by_jean-philippe_delberghe_on_unsplash_2.jpg?itok=iPNposCe",
+      "title": "OpenAI\u6b63\u5f0f\u958b\u653eChatGPT Bing\u7db2\u9801\u641c\u5c0b\uff0c\u516c\u6e2cDALLE-3",
+      "date": "2023-10-19"
     },
-    "b89beb07dfb550ada259e539e97e6e4f": {
-      "link": "https://www.ithome.com.tw/news/146577",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-protonmail-960.jpg?itok=wrVKo_eh",
-      "title": "\u96b1\u79c1\u90f5\u4ef6\u670d\u52d9ProtonMail\u5c07\u7528\u6236IP\u4f4d\u5740\u4ea4\u7d66\u8b66\u65b9\u6380\u98a8\u6ce2",
-      "date": "2021-09-07"
+    "7122dc3270adaf258962780da373c496": {
+      "link": "https://www.ithome.com.tw/news/159207",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/zi_an_yue_bao_202309.jpg?itok=-ElwLGlF",
+      "title": "\u3010\u8cc7\u5b89\u6708\u5831\u30112023\u5e749\u6708",
+      "date": "2023-10-19"
     },
-    "9ea854d0709379ae489812dae28bef50": {
-      "link": "https://www.ithome.com.tw/news/146575",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-headset_photo_by_c_d-x_on_unsplash.png?itok=UsuVlKUc",
-      "title": "\u85cd\u7259\u8033\u6a5f\u53ef\u80fd\u8b93\u4f7f\u7528\u8005\u88ab\u4eba\u8ffd\u8e64",
-      "date": "2021-09-07"
+    "94e86c3587357ea27605b5ded25370d6": {
+      "link": "https://www.ithome.com.tw/news/159360",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/img_7647.jpg?itok=coLsk2DE",
+      "title": "\u672a\u4f86\u8981\u8b93AI\u63a5\u624b\u96fb\u5546\u4f5c\u696d\u9762\u5de5\u4f5c\uff01\u81fa\u7063\u5bb6\u6a02\u798f\u516c\u958b5\u5e74\u4e0a\u96f2\u6b77\u7a0b\u53ca\u6578\u4f4d\u8f49\u578b\u4e0b\u4e00\u6b65",
+      "date": "2023-10-19"
     },
-    "7793339410909a4826486fef122dfdb8": {
-      "link": "https://www.ithome.com.tw/news/146574",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-tensorflow_cve-2021-37678.jpg?itok=X6eGNKWE",
-      "title": "\u7a0b\u5f0f\u78bc\u57f7\u884c\u6f0f\u6d1e\u4fc3\u4f7fGoogle Tensorflow\u4e2d\u6b62\u652f\u63f4YAML",
-      "date": "2021-09-07"
+    "9a7ceaeab48f87625ae0501cffefdd43": {
+      "link": "https://www.ithome.com.tw/news/159361",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/20231018.png?itok=5h5o4uNw",
+      "title": "\u3010\u8cc7\u5b89\u65e5\u5831\u301110\u670818\u65e5\uff0c\u4f7f\u7528Telegram\u3001AWS\u3001\u963f\u91cc\u96f2\u7684\u958b\u767c\u4eba\u54e1\u906d\u5230\u9396\u5b9a\uff0c\u99ed\u5ba2\u900f\u904ePyPI\u5957\u4ef6\u767c\u52d5\u4f9b\u61c9\u93c8\u653b\u64ca",
+      "date": "2023-10-18"
     },
-    "9215875344715eb24c24baf66e39d7c0": {
-      "link": "https://www.ithome.com.tw/news/146573",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0907-yin_ni_zong_tong_joko_widodo-tu_pian_lai_yuan_-e_guo_zheng_fu_wang_zhan_-960.png?itok=V4D3abvS",
-      "title": "\u5370\u5c3c\u9632\u75ab\u7db2\u7ad9\u672a\u505a\u597d\u8cc7\u6599\u5eab\u9632\u8b77\uff0c\u5c0e\u81f4\u767e\u842c\u6c11\u773e\u8cc7\u6599\u5916\u6d29",
-      "date": "2021-09-07"
+    "a56cc8a5e1f77cfbb41990f8911e1f0b": {
+      "link": "https://www.ithome.com.tw/news/159358",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1018-google-new_accessibility_updates-960.jpg?itok=QQAj0k6d",
+      "title": "Google\u767c\u88688\u9805\u7121\u969c\u7919\u529f\u80fd\uff0c\u570d\u7e5e\u5728\u5730\u5716\u3001\u641c\u5c0b\u8207\u62cd\u7167",
+      "date": "2023-10-18"
     },
-    "6659e7fcbe622f2349e4cc444140744d": {
-      "link": "https://www.ithome.com.tw/news/146564",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_759_-_python_in_visual_studio_code_-_september_2021_release_-_python_-_devblogs.microsoft.com_.jpg?itok=_E3tabvh",
-      "title": "VS Code Python\u64f4\u5145\u5957\u4ef6\u7ffb\u65b0\u6e2c\u8a66\u4ecb\u9762\uff0c\u5c07\u68c4\u7528\u820a\u8a9e\u8a00\u4f3a\u670d\u5668",
-      "date": "2021-09-06"
+    "df2e5c7db9e729243cf20986983814e1": {
+      "link": "https://www.ithome.com.tw/news/159338",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1018-cve-2023-20198-_ios_xe-cisco_catalyst_8500_series_edge_platforms-router-960.jpg?itok=MzKROrCH",
+      "title": "CVE-2023-20198\u6f0f\u6d1e\u5df2\u8b93\u6578\u5343\u81fa\u601d\u79d1\u88dd\u7f6e\u6dea\u9677",
+      "date": "2023-10-18"
     },
-    "17e2ea860cf3dca270f18685713ce73d": {
-      "link": "https://www.ithome.com.tw/news/146561",
-      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/fireshot_capture_758_-_announcing_databricks_serverless_sql_instant_managed_secured_and_p_-_databricks.com_.jpg?itok=7vkyOoY6",
-      "title": "Databricks\u767c\u5e03Serverless SQL\uff0c\u7528\u6236\u4e0d\u9808\u7ba1\u7406\u4f3a\u670d\u5668\u5373\u6642\u7372\u5f97SQL\u904b\u7b97\u80fd\u529b",
-      "date": "2021-09-06"
+    "e030707794ab8f993235a4eb396cd983": {
+      "link": "https://www.ithome.com.tw/news/159337",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/0823-password-credential_stuffing_attack-cyber-image_on_pixabay-960_1.jpg?itok=XkBMOwjg",
+      "title": "\u67092%\u7684IT\u7ba1\u7406\u5e33\u6236\u4ee5\u300cadmin\u300d\u4f5c\u70ba\u5bc6\u78bc",
+      "date": "2023-10-18"
+    },
+    "a607f9e66ec332c58467bfa942aac8e9": {
+      "link": "https://www.ithome.com.tw/news/159336",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1018-d-link-bei_jing_tu_pian_lai_yuan_-ithomedang_an_zhao_-960.jpg?itok=T2poUpza",
+      "title": "\u53cb\u8a0a1.2GB\u7522\u54c1\u539f\u59cb\u78bc\u3001\u5ba2\u6236\u3001\u54e1\u5de5\u8cc7\u6599\u5728\u99ed\u5ba2\u8ad6\u58c7\u4e0a\u515c\u552e",
+      "date": "2023-10-18"
+    },
+    "07431c50a4befb9948db6bd46ba1ca9f": {
+      "link": "https://www.ithome.com.tw/news/159335",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1018-passkey-tu_pian_lai_yuan_-the_fido_alliance.jpg?itok=nFqsB6BJ",
+      "title": "Amazon\u8207WhatsApp\u4e5f\u958b\u59cb\u652f\u63f4Passkey",
+      "date": "2023-10-18"
+    },
+    "28fb764e209e2aa611a4898b0a132240": {
+      "link": "https://www.ithome.com.tw/news/159332",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1018-risc-v-jing_pian_-bei_jing_tu_pian_-chip-zhu_ji_ban_-bei_jing_tu_pian_lai_yuan_-geralt_on_pixabay-960.jpg?itok=WK01MzME",
+      "title": "\u6311\u6230Arm\uff0c\u9ad8\u901a\u3001Google\u5408\u4f5c\u958b\u767c\u7a7f\u6234\u88dd\u7f6eRISC-V\u6676\u7247",
+      "date": "2023-10-18"
+    },
+    "48a51603275a8fbd2a1a527fe0623fc4": {
+      "link": "https://www.ithome.com.tw/news/159330",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/sa.jpg?itok=nhbbc4pC",
+      "title": "\u6843\u5712\u5e02\u8207\u96fb\u4fe1\u696d\u8005\u5408\u4f5c\u4ee5\u7db2\u8def\u5207\u7247\u6253\u9020\u6025\u65515G\u5c08\u7db2\uff0c\u8b93\u6551\u8b77\u8eca\u5230\u9662\u524d\u53ef\u5148\u5c07\u60a3\u8005\u751f\u7406\u6578\u64da\u30014K\u5f71\u50cf\u50b3\u9001\u81f3\u91ab\u9662\u4f5c\u597d\u6025\u6551\u6e96\u5099",
+      "date": "2023-10-17"
+    },
+    "4cf95dc07ef8bdd38f76bbb3ff65b551": {
+      "link": "https://www.ithome.com.tw/news/159329",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/20231017.png?itok=_ALERQS3",
+      "title": "\u3010\u8cc7\u5b89\u65e5\u5831\u301110\u670817\u65e5\uff0c\u99ed\u5ba2\u5047\u501f\u63d0\u4f9b\u4ee5\u8272\u5217\u6c11\u773e\u7a7a\u8972\u8b66\u5831\u61c9\u7528\u7a0b\u5f0f\uff0c\u610f\u5716\u641c\u62ec\u5b89\u5353\u624b\u6a5f\u7528\u6236\u5404\u5f0f\u8cc7\u6599",
+      "date": "2023-10-17"
+    },
+    "fbda164bc561e94fe396e99fd1ad1f50": {
+      "link": "https://www.ithome.com.tw/review/159250",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/amd_kria_k24_som_main2.jpg?itok=v6qkc3Ld",
+      "title": "\u652f\u63f4\u99ac\u9054\u63a7\u5236\u8207DSP\u6578\u4f4d\u8a0a\u865f\u8655\u7406\uff0cAMD\u63a8\u5165\u9580\u7d1aFPGA\u904b\u7b97\u677f",
+      "date": "2023-10-17"
+    },
+    "cbf40f3ae8b8b835f04f5073ad43aed1": {
+      "link": "https://www.ithome.com.tw/news/159328",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1017-solar_energy-photo_by_american_public_power_association_on_unsplash-9601.jpg?itok=qcHV5Pf-",
+      "title": "\u4eca\u5e74\u5168\u7403\u5c0d\u592a\u967d\u80fd\u7684\u6295\u8cc7\u5c07\u9996\u5ea6\u8d85\u8d8a\u77f3\u6cb9",
+      "date": "2023-10-17"
+    },
+    "4e47529901bee937dd2f040cf798e26b": {
+      "link": "https://www.ithome.com.tw/news/159326",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1017-linkedin-photo_by_greg_bulla_on_unsplash-960.jpg?itok=I5JYNu5I",
+      "title": "LinkedIn\u88c1\u64a4\u8fd1700\u540d\u54e1\u5de5\uff0cR&D\u53608\u6210",
+      "date": "2023-10-17"
+    },
+    "111e8f3a32453a275b2d22716e41bb3a": {
+      "link": "https://www.ithome.com.tw/news/159319",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1017-cisco_catalyst_9200_xi_lie_jiao_huan_qi_-960.jpg?itok=Q3hqq8uX",
+      "title": "\u601d\u79d1IOS XE\u96f6\u6642\u5dee\u6f0f\u6d1e\u5141\u8a31\u99ed\u5ba2\u53d6\u5f97\u6700\u9ad8\u6b0a\u9650",
+      "date": "2023-10-17"
+    },
+    "baebbe121dbec4ba7ef14e2a429948e9": {
+      "link": "https://www.ithome.com.tw/news/159311",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1017-google-photo_by_pawel_czerwinski_on_unsplash-960.jpg?itok=eptqk9qC",
+      "title": "\u684c\u6a5f\u7248Google.com\u6e2c\u8a66\u65b0\u805e\u5167\u5bb9",
+      "date": "2023-10-17"
+    },
+    "eb9700e0cb8b7adb41afd384569fa33f": {
+      "link": "https://www.ithome.com.tw/news/159310",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1017-stack_overflow-960.jpg?itok=98QoRF9N",
+      "title": "\u53d7ChatGPT\u7b49AI Chatbot\u885d\u64ca\uff0cStack Overflow\u88c1\u54e128%",
+      "date": "2023-10-17"
+    },
+    "4c283f0e908d0694971228930a5c2aa6": {
+      "link": "https://www.ithome.com.tw/news/159309",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/14thcore-1.jpg?itok=MFW5GYaB",
+      "title": "\u82f1\u7279\u723e\u63a8\u7b2c14\u4ee3Core\u684c\u4e0a\u578b\u8655\u7406\u5668\uff0c\u589e\u52a0\u6838\u5fc3\u6578\uff0c\u7368\u7acb\u652f\u63f4Wi-Fi 7\u8207\u85cd\u72595.4\u7121\u7dda\u50b3\u8f38",
+      "date": "2023-10-16"
+    },
+    "cc0ea3ef57f7f99936816bcc917c1067": {
+      "link": "https://www.ithome.com.tw/news/159306",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/20231016.png?itok=Lyql6fkR",
+      "title": "\u3010\u8cc7\u5b89\u65e5\u5831\u301110\u670816\u65e5\uff0cSkype\u7528\u6236\u6ce8\u610f\uff01\u99ed\u5ba2\u5229\u7528\u5916\u6d29\u5e33\u865f\u767c\u9001\u8a0a\u606f\uff0c\u900f\u904e\u5167\u5d4cVBA\u6307\u4ee4\u78bc\u7684\u6a94\u6848\u6563\u5e03\u60e1\u610f\u7a0b\u5f0fDarkGate",
+      "date": "2023-10-16"
+    },
+    "81653d25b722c2370ae6721d6bd60d80": {
+      "link": "https://www.ithome.com.tw/news/159293",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1016-llm-tuning-safety_via_github-960.jpg?itok=pUvZRfrV",
+      "title": "\u7814\u7a76\u986f\u793a\u5fae\u8abfLLM\u6703\u524a\u5f31\u6a21\u578b\u5b89\u5168\u6027",
+      "date": "2023-10-16"
+    },
+    "d00077ec0ca1666a48388c77608f96fe": {
+      "link": "https://www.ithome.com.tw/news/159292",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1016-microsoft-back-bei_jing_tu_pian_lai_yuan_-umberto_on_unsplash.jpg?itok=2NXEc1QH",
+      "title": "\u5fae\u8edf\u8a08\u756b\u95dc\u9589Windows 11\u4e2d\u7684NTLM",
+      "date": "2023-10-16"
+    },
+    "d426ebd971ecefbe00271993ae8c9c29": {
+      "link": "https://www.ithome.com.tw/news/159289",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1016-cloud_next_2023-duet_ai_for_google_workspace-guan_fang_tu_pian_-960.jpg?itok=lA7OVNBX",
+      "title": "Google Cloud\u63d0\u4f9b\u667a\u8ca1\u514d\u8cac\u9632\u8b77\uff0c\u8b93\u5ba2\u6236\u4f7f\u7528AI\u670d\u52d9\u4e0d\u7528\u64d4\u5fc3\u88ab\u544a",
+      "date": "2023-10-16"
+    },
+    "e1048ee909484147b59c2951575585d2": {
+      "link": "https://www.ithome.com.tw/article/159286",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/devops_handbook-960.jpg?itok=VABMBOmm",
+      "title": "\u7d44\u7e54\u5982\u4f55\u9078\u64c7DevOps\u8f49\u578b\u5207\u5165\u9ede",
+      "date": "2023-10-16"
+    },
+    "b4ba4041b1c2dc549ded77d3905caed5": {
+      "link": "https://www.ithome.com.tw/news/159285",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/zi_an_zhou_bao_20231014.jpg?itok=HKQBX0pF",
+      "title": "\u3010\u8cc7\u5b89\u9031\u5831\u30112023\u5e7410\u670811\u65e5\u523010\u670813\u65e5",
+      "date": "2023-10-16"
+    },
+    "a32b3cdfa9e7f41c9c7d2a26a00a1dc1": {
+      "link": "https://www.ithome.com.tw/news/159283",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1016-windows_server-wei_ruan_guan_fang_tu_pian_-960.jpg?itok=wRBmHpb-",
+      "title": "Windows 11 21H2\u3001Server 2012\u652f\u63f4\u5230\u671f\uff0cServer\u7248\u642c\u4e0aAzure\u53ef\u7372\u5f973\u5e74\u652f\u63f4",
+      "date": "2023-10-16"
+    },
+    "bcd8839f877aaa220777887d5ca9079d": {
+      "link": "https://www.ithome.com.tw/news/159282",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/1016-activision_blizzard_king_to_microsoft_xbox.jpg?itok=YeemjCHW",
+      "title": "\u5fae\u8edf\u5b8c\u6210\u52d5\u8996\u66b4\u96ea\u6536\u8cfc\u6848\uff0c\u96f2\u7aef\u4e32\u6d41\u904a\u6232\u7248\u6b0a\u4ea4\u7531Ubisoft",
+      "date": "2023-10-16"
+    },
+    "2f04a0c733816cf60d93683e56f88f99": {
+      "link": "https://www.ithome.com.tw/news/159279",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/openssf-malicious-packages-repository.png?itok=KYIxo7cs",
+      "title": "OpenSSF\u958b\u6e90\u60e1\u610f\u5957\u4ef6\u5132\u5b58\u5eab\uff0c\u4ee5\u61c9\u5c0d\u958b\u6e90\u8edf\u9ad4\u4f9b\u61c9\u93c8\u5b89\u5168\u5a01\u8105",
+      "date": "2023-10-16"
+    },
+    "337547b491002eec4844ebb4eb10f1a6": {
+      "link": "https://www.ithome.com.tw/news/159281",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/wang_zhan_zhu_tu_2mei_guo_gong_bu_10zhong_chang_jian_pei_zhi_bu_dang_qing_kuang_tu_pian_lai_yuan_mei_cisa.jpg?itok=4CDQ5FG-",
+      "title": "\u3010\u675c\u7d5510\u5927\u4e0d\u7576\u914d\u7f6e\uff1a\u8edf\u9ad4\u4f9b\u61c9\u5546\u7bc7\u3011\u5f9e\u6e90\u982d\u8edf\u9ad4\u88fd\u9020\u5546\u8457\u624b\uff0cNSA\u8207CISA\u63d0\u51fa7\u9805\u6e96\u5247",
+      "date": "2023-10-15"
+    },
+    "8b6db2f83f53e754e4b3533fe869c53e": {
+      "link": "https://www.ithome.com.tw/news/159280",
+      "image": "https://s4.itho.me/sites/default/files/styles/picture_size_small/public/field/image/wang_zhan_zhu_tu_mei_guo_gong_bu_10zhong_chang_jian_pei_zhi_bu_dang_qing_kuang_tu_pian_lai_yuan_mei_cisa.jpg?itok=tQ8hFTRI",
+      "title": "\u3010\u56e0\u61c910\u5927\u4e0d\u7576\u914d\u7f6e\uff1a\u85cd\u968a\u7bc7\u3011\u9762\u5c0d\u5e38\u898b\u932f\u8aa4\u914d\u7f6e\u5f15\u767c\u7684\u8cc7\u5b89\u98a8\u96aa\uff0c\u7db2\u8def\u9632\u5b88\u8005\u6709\u56e0\u61c9\u4e4b\u9053\u53ef\u53c3\u8003",
+      "date": "2023-10-15"
     }
   }
 }

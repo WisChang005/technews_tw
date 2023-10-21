@@ -13,7 +13,6 @@ def test_orange_email_helper():
     mh = EmailContentHelper()
 
     samples_list = [
-        "orange_samples.json",
         "ithome_samples.json",
         "business_samples.json",
         "inside_samples.json"
@@ -24,6 +23,6 @@ def test_orange_email_helper():
         samples = _load_samples(f"tests/samples/{sp_name}")
         news_rows += mh.get_news_html_contents(samples, samples["news_page_title"])
 
-    email_html = mh.get_email_html("2020-科技新聞", news_rows)
+    email_html = mh.get_email_html("2024-科技新聞", news_rows)
     with open("news_email.html", "w", encoding="utf-8") as f:
         f.write(email_html)

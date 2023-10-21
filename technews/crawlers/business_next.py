@@ -4,14 +4,14 @@ import logging
 
 import time
 import requests
+from bs4 import BeautifulSoup
 
 
 class BusinessNext:
 
     def __init__(self):
         self.timestamp = time.time()
-        self.url = f"https://www.bnext.com.tw/api/article/list?" \
-            f"timestamp={self.timestamp}&sign=T2cUU8eV5IDGguY1BdESrmxRUHGYbqDicD02K8ixZZI%253D"
+        self.url = f"https://www.bnext.com.tw/articles"
         self.headers = {
             "User-Agent": ("Mozilla/5.0 (X11; Linux x86_64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -24,7 +24,10 @@ class BusinessNext:
         self.session = requests.Session()
 
     def get_news(self, page=1):
-        resp = self.session.post(self.url, headers=self.headers, data={"page": page})
+        params = {
+            "page": page,
+        }
+        resp = self.session.get(self.url, headers=self.headers, params=params)
         news_contents = dict()
 
         # # get title text
@@ -33,43 +36,42 @@ class BusinessNext:
             "news_page_title": "Business Next"
         }
 
-        if page >= 2:
-            for page_i in range(2, page + 1):
-                others_pages_news_data = self.__load_pages(page_index=page_i)
-                news_contents.update(others_pages_news_data)
+        if resp.status_code == 200:
+            resp_data = resp.text
+        else:
+            raise Exception("Load page error")
 
         # # get news data
-        cur_news_data = self.__handle_page_contents(data_contents=resp.json())
+        cur_news_data = self.__handle_page_contents(data_contents=resp_data)
         news_contents.update(cur_news_data)
         news_data["news_contents"] = news_contents
 
         return news_data
 
-    def __load_pages(self, page_index, token=None):
-
-        load_resp = self.session.post(
-            url=self.url,
-            data={"page": page_index})
-
-        logging.debug("Load page status [%s]", load_resp.status_code)
-        resp_data_dict = self.__handle_page_contents(load_resp.json())
-        return resp_data_dict
-
     def __handle_page_contents(self, data_contents):
+        data_soup = BeautifulSoup(data_contents, "lxml")
+
         # generate data dict
         _contents = dict()
-        for d in data_contents["data"]["data"]:
-            post_date = d["shortDate2"].replace(".", "-")
-            news_link = d["amp_link"]
-            news_title = d["title"]
-            img_link = d["medium"]
+        for d in data_soup.find_all("div", {"class": "flex flex-col gap-3 relative h-full"}):
+            date_div = d.find("div", {"class":"flex relative items-center gap-2 text-xs text-gray-500 font-normal"})
+            post_date = ""
+            for date_span in date_div.find_all("span"):
+                if "|" not in date_span.text:
+                    post_date = date_span.text
+                    break
+            news_link = d.find("a", {"class": "absolute inset-0"})["href"]
+            news_title = d.find("h2", {"class": "text-lg"}).text
+            img_link =d.find("img", {"class": "aspect-[16/9] object-cover rounded-none"})["src"]
             news_md5 = hashlib.md5(news_link.encode("utf-8")).hexdigest()
+
             cur_news_data = {
                 news_md5: {
                     "link": news_link,
                     "image": img_link,
                     "title": news_title,
-                    "date": post_date}
+                    "date": post_date
+                }
             }
             _contents.update(cur_news_data)
 

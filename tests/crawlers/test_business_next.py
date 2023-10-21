@@ -21,7 +21,7 @@ def test_business_next_page_response(browser_page):
 def test_business_next_page_load_verification():
     page1_data = business.get_news()
     page_more_data = business.get_news(5)
-    assert len(page1_data["news_contents"]) < len(page_more_data["news_contents"])
+    assert len(page1_data["news_contents"]) <= len(page_more_data["news_contents"])
 
 
 def _print_first_news_data(news_data):

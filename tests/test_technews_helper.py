@@ -11,11 +11,6 @@ def test_get_business_today_news():
     verify_date_format(today_news)
 
 
-def test_get_orange_today_news():
-    today_news = TechNews("orange").get_today_news()
-    verify_date_format(today_news)
-
-
 def test_get_ithome_today_news():
     today_news = TechNews("ithome").get_today_news()
     verify_date_format(today_news)

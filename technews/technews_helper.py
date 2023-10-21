@@ -2,7 +2,6 @@ import time
 import datetime
 
 from technews.crawlers.business_next import BusinessNext
-from technews.crawlers.tech_orange import TechOrange
 from technews.crawlers.ithome import iThome
 from technews.crawlers.inside import Inside
 
@@ -16,7 +15,6 @@ class TechNews:
     def _init_news_object(self):
         news_obj = {
             "business": BusinessNext,
-            "orange": TechOrange,
             "ithome": iThome,
             "inside": Inside
         }

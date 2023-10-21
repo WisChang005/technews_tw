@@ -1,234 +1,78 @@
 {
-  "timestamp": 1631438645.718559,
+  "timestamp": 1697932352.251551,
   "news_page_title": "Business Next",
   "news_contents": {
-    "34e11f21a9b81af431cfb06170b70957": {
-      "link": "https://www.bnext.com.tw/amp/article/64840",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1630487607-23307@900.jpg",
-      "title": "\u65e5\u672c\u9ea5\u7576\u52de\u6700\u8001\u5e97\u54e1\uff0193\u6b72\u8001\u7fc1\u6a02\u4e0a\u4e00\u90314\u5929\u591c\u73ed",
-      "date": "2021-09-11"
+    "3ced172f5a569adc89cf15b2f04ff53a": {
+      "link": "https://www.bnext.com.tw/article/77075/tesla-report-cybertruck",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-06/img-1687314657-47229.jpg?w=600&output=webp",
+      "title": "\u7279\u65af\u62c9\u6380\u50f9\u683c\u8840\u6230\uff0c\u6bdb\u5229\u7387\u5927\u8dcc7\uff05\uff01Cybertruck\u4e5f\u8981\u4f86\u4e86\uff0c\u4f46\u99ac\u65af\u514b\u5148\u6f51\u51b7\u6c34\uff1f",
+      "date": "2 \u5929\u524d"
     },
-    "409c4a4f536770395ce87613e91478c0": {
-      "link": "https://www.bnext.com.tw/amp/article/64970",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631166381-61031@900.jpg",
-      "title": "\u9000\u8ca8\u7387\u50c51%\u3001\u6bd4iPhone\u9084\u4f4e\uff01\u53f0\u7063\u6700\u5927\u751f\u9bae\u96fb\u5546\uff0c\u5982\u4f55\u62da\u51fa\u5e74\u71df\u653612\u5104\u5143\uff1f",
-      "date": "2021-09-11"
+    "2084e735f68f0cf5a2138e119aaf57f4": {
+      "link": "https://www.bnext.com.tw/article/77074/netflix-q3-earnings-subscribers-rise",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2022-08/img-1661766646-50454.jpg?w=600&output=webp",
+      "title": "Netflix\u5ee3\u544a\u7248\u8a02\u6236\u6fc0\u589e70%\uff0c\u9810\u544a\u5176\u4ed6\u65b9\u6848\u5c07\u6f32\u50f9\uff01Q3\u8ca1\u5831\u4eae\u9e97\u80cc\u5f8c\uff0c\u6b78\u529f2\u5927\u653f\u7b56",
+      "date": "2 \u5929\u524d"
     },
-    "24025178b8416b0b82dc3afd10f65d24": {
-      "link": "https://www.bnext.com.tw/amp/article/65002",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2017-11/img-1510576970-23851@900.jpg",
-      "title": "\u4f4e\u8abf\u73fe\u8eab\u5831\u5e73\u5b89\uff1f\u99ac\u96f24\u500b\u6708\u4f86\u9996\u5ea6\u4eae\u76f8\uff0c\u8996\u5bdf\u96c6\u5718\u83dc\u68da",
-      "date": "2021-09-11"
+    "1cca9f64680d7cb62f6319b5981d0f95": {
+      "link": "https://www.bnext.com.tw/article/77071/honhai--cdms-strategy",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697622082-58739.jpeg?w=600&output=webp",
+      "title": "\u9d3b\u6d77\u6b66\u5668CDMS\uff0c\u70ba\u4f55\u81f3\u4eca\u53ea\u6709\u7d0d\u667a\u6377\u8cb7\u55ae\uff1f\u5289\u63da\u5049\u80fd\u628aCDMS\u63a8\u9032\u4e2d\u570b\u55ce\uff1f",
+      "date": "3 \u5929\u524d"
     },
-    "1eb8fbbd04f6a002a27e60f2b335209d": {
-      "link": "https://www.bnext.com.tw/amp/article/64992",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631254620-72150@900.jpg",
-      "title": "Dyson\u6253\u4e86\u4e00\u500b\u53f2\u4e0a\u6700\u8cb4\u7684\u6c34\u6f02\uff1f\u82b1\u8d85\u904e200\u5104\u5143\uff0c\u9020\u4e86\u8f1b\u81ea\u5df1\u90fd\u5acc\u8cb4\u7684\u96fb\u52d5\u8eca",
-      "date": "2021-09-11"
+    "aec6222bcf58fe6e473ccdd0fce599d6": {
+      "link": "https://www.bnext.com.tw/article/77072/tiktok-taiwan-global-asia-korea-japan-shortformvideo",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697622193-29468.jpg?w=600&output=webp",
+      "title": "\u3010\u5716\u89e3\u3011TikTok\u4e0a\u7d05\u4ec0\u9ebc\uff1f\u53f0\u3001\u65e5\u91cd\u65c5\u904a\uff0c\u97d3\u570b\u71b1\u611b\u821e\u8e48\u6311\u6230\uff0c\u4e00\u5f35\u5716\u627e\u51fa\u6d41\u91cf\u5bc6\u78bc",
+      "date": "3 \u5929\u524d"
     },
-    "b7979d0fd84886fb1578f8b735749761": {
-      "link": "https://www.bnext.com.tw/amp/article/64969",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2019-07/img-1562658229-51377@900.jpg",
-      "title": "P&G\u585e\u6e2f\u3001\u8a02\u55ae\u7206\u91cf\u90fd\u4e0d\u6015\uff01\u5feb\u6d88\u54c1\u5de8\u982d\u5982\u4f55\u8eb2\u904e\u505c\u5de5\u3001\u65b7\u8ca8\u5371\u6a5f\uff0c\u92b7\u552e\u6f32\u5e45\u5237\u65b0\u9ad8\uff1f",
-      "date": "2021-09-11"
+    "b9bc0e69ce2f0888c68e726d432ec943": {
+      "link": "https://www.bnext.com.tw/article/77070/american-express-ceo-daily-schedule",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697536770-71666.jpeg?w=600&output=webp",
+      "title": "\u7f8e\u570b\u904b\u901aCEO\u63ed\u4e00\u5929\u4f5c\u606f\uff1a\u89aa\u81ea\u56de\u8986200\u5c01email\u3001\u5de5\u4f5c17\u5c0f\u6642\u9084\u80fd\u904b\u52d5\uff01",
+      "date": "3 \u5929\u524d"
     },
-    "5595bfab9a43f111dfe1e6f9dba3d23e": {
-      "link": "https://www.bnext.com.tw/amp/article/65001",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2020-11/img-1604383645-74974@900.jpg",
-      "title": "15\u5bb6\u91d1\u63a7\u524d8\u6708\u7372\u5229\u98c6\u78344500\u5104\u5143\uff01\u5bcc\u90a6\u91d1\u63a7\u5beb\u4e0b3\u9a5a\u5947\u3001\u570b\u6cf0\u91d1\u5c45\u6b21",
-      "date": "2021-09-11"
+    "e1bb3c2aff3b23bdd66297be5ac22d71": {
+      "link": "https://www.bnext.com.tw/article/77067/2023-q3-venture-trends-cbinsights",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2021-07/img-1625219595-30382.jpg?w=600&output=webp",
+      "title": "\u3010\u5716\u89e3\u3011\u7368\u89d2\u7378\u6f6e\u7d50\u675f\uff0c\u63dbIPO\u958b\u6d3e\u5c0d\uff1f4\u5f35\u5716\u770b\u61c2\u5168\u7403\u98a8\u96aa\u6295\u8cc7\u8da8\u52e2",
+      "date": "3 \u5929\u524d"
     },
-    "23a31b01db911641632a2327b754ef8d": {
-      "link": "https://www.bnext.com.tw/amp/article/64983",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631248272-25335@900.jpg",
-      "title": "\u7e7cRoblox\u4e4b\u5f8c\uff0cRec Room\u4f55\u4ee5\u6210\u70ba\u4e0b\u4e00\u96bbMetaverse\u7368\u89d2\u7378\uff1f",
-      "date": "2021-09-10"
+    "d8d808e72bc0fd9b7696a8c3804ec8a9": {
+      "link": "https://www.bnext.com.tw/article/77069/dnb",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697612228-17490.jpg?w=600&output=webp",
+      "title": "\u9127\u767d\u6c0f\u6b61\u6176\u300c\u53f0\u7063\u4e2d\u5c0f\u4f01\u696d\u83c1\u82f1\u734e\u300d\u5341\u9031\u5e74 \u6578\u64da\u50f9\u503c\u6c7a\u5b9a\u53f0\u7063\u4e2d\u5c0f\u4f01\u696d\u767c\u5c55\u7684\u524d\u77bb\u6027\u8207\u672a\u4f86\u6027",
+      "date": "3 \u5929\u524d"
     },
-    "7384ea015d3b9fe398d1b811b334203f": {
-      "link": "https://www.bnext.com.tw/amp/article/65000",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-04/img-1619697115-42880@900.jpg",
-      "title": "\u83ef\u78a9\u795e\u6295\u8cc7\uff01\u64d4\u4efb\u7814\u83ef\u7b2c2\u5927\u80a1\u677115\u5e74\u3001\u9996\u5ea6\u7533\u8b937500\u5f35\u80a1\u7968\uff01\u7372\u5229\u4f30\u903e20\u5104\u5143",
-      "date": "2021-09-10"
+    "d9388c0c62f7b896fbe280119ea69881": {
+      "link": "https://www.bnext.com.tw/article/77065/semiconductor-foxconn-chiang-sheung-yee",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697604802-36706.jpg?w=600&output=webp",
+      "title": "\u8523\u5c1a\u7fa9\u9d3b\u6d77\u8655\u5973\u79c0\uff01\u5148\u9032\u5c01\u88dd\u5982\u4f55\u5927\u5403IOT\u5e02\u5834\uff1f\u9d3b\u6d77\u8eca\u7528\u534a\u5c0e\u9ad4\u7b56\u7565\u70ba\u4f55\uff1f\u4e00\u6b21\u89e3\u7b54",
+      "date": "3 \u5929\u524d"
     },
-    "e5147bae114600c9ce2b12703688cddb": {
-      "link": "https://www.bnext.com.tw/amp/article/64982",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2018-02/img-1518587405-92352@900.jpg",
-      "title": "\u3010\u7c21\u7acb\u5cf0\u5c08\u6b04\u3011Low-Code / No-Code\u6642\u4ee3\u4f86\u81e8\uff0c\u5beb\u7a0b\u5f0f\u9084\u662f\u4eba\u624d\u6a19\u914d\u55ce\uff1f",
-      "date": "2021-09-10"
+    "564adce938f60f0866bc5e1da2fa1394": {
+      "link": "https://www.bnext.com.tw/article/75411/nvidia-jensen-haung-ntu-graduation-anniversary",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697606423-99493.jpg?w=600&output=webp",
+      "title": "\u9ec3\u4ec1\u52f3\u79c0\u624b\u7e6a\u5716\uff0c\u63ed\u5bc6\u4ed6\u8207\u9d3b\u6d77\u7684\u300cAI\u5de5\u5ee0\u5922\u300d\uff01\u651c\u624b\u5289\u63da\u5049\u9a5a\u559c\u73fe\u8eab\u79d1\u6280\u65e5",
+      "date": "3 \u5929\u524d"
     },
-    "822a5c8a64735f858f00d6fdb9b1fd5d": {
-      "link": "https://www.bnext.com.tw/amp/article/64998",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-08/img-1630396538-48538@900.jpg",
-      "title": "\u9a30\u8a0a\u3001\u7db2\u6613\u7b49\u904a\u6232\u5de8\u982d\u88ab\u7d04\u8ac7\uff01\u4e2d\u570b\u8981\u6c42\u57f7\u884c\u672a\u6210\u5e74\u7981\u4ee4\uff0c\u65b0\u904a\u6232\u4e5f\u50b3\u51cd\u7d50\u6279\u5be9",
-      "date": "2021-09-10"
+    "56d5a237544d0fa5a751f8a011e5b2aa": {
+      "link": "https://www.bnext.com.tw/article/77061/hhtd23-highlights",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697603106-25852.jpg?w=600&output=webp",
+      "title": "\u9d3b\u6d77\u79d1\u6280\u65e5\uff5c\u4e00\u53f0Model N\uff0c\u63ed\u958b\u9d3b\u6d77\u7269\u6d41\u91ce\u5fc3\uff01\u96d9\u7b56\u7565\u9577\u9996\u8ac7\u81f4\u52dd\u95dc\u9375\uff1aCDMS\u662f\u4ec0\u9ebc\uff1f",
+      "date": "3 \u5929\u524d"
     },
-    "3e4e48e508cd304a77bb53f093417a16": {
-      "link": "https://www.bnext.com.tw/amp/article/64979",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2016-12/img-1482217185-52937@900.jpg",
-      "title": "\u6715\u4e0d\u7d66\u7684\u4f60\u4e0d\u80fd\u8981\uff01 \u8ac7\u8ac7\u793e\u7fa4\u5c0f\u7de8\u82e6\u60f1\u7684\u89f8\u53ca\u7387",
-      "date": "2021-09-10"
+    "87722460696beac98fef3ecdc03e8036": {
+      "link": "https://www.bnext.com.tw/article/77064/apple-new-pencil",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2023-10/img-1697602556-72742.jpg?w=600&output=webp",
+      "title": "\u860b\u679c\u7a81\u64ca\u767c\u5e03\u65b0\u6b3eApple Pencil\u3001\u4e5f\u63db\u4e0aType-C\u5145\u96fb\uff01\u600e\u9ebc\u6311\u9078\uff1f\u4e00\u5f35\u8868\u770b\u61c2",
+      "date": "3 \u5929\u524d"
     },
-    "17e1388ff62fead3ef6a2174d10b390f": {
-      "link": "https://www.bnext.com.tw/amp/article/64943",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2020-01/img-1578451219-54712@900.jpg",
-      "title": "\u8001\u662f\u72af\u540c\u7a2e\u932f\u8aa4\uff01\u521d\u968e\u5de5\u7a0b\u5e2b\u5982\u4f55\u5c0d\u81ea\u5df1\u7684\u7a0b\u5f0f\u78bc\u8ca0\u8cac\uff1f",
-      "date": "2021-09-10"
-    },
-    "7dd35b5d9e9c15ed99d40be3e0c900ed": {
-      "link": "https://www.bnext.com.tw/amp/article/64947",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631081052-19257@900.jpg",
-      "title": "\u6559\u5b78\u651d\u5f71\u6a5f\u6253\u9032\u5168\u7f8e8\u842c\u6240K12\u6821\u5712\uff01\u53f0\u7063\u677e\u4e0b\u7b2c3\u4ee3\u638c\u9580\u4eba\uff0c\u8de8\u754c\u7784\u6e96\u300c\u5206\u4eab\u300d\u751f\u610f",
-      "date": "2021-09-10"
-    },
-    "83404625b6bf78ea313d25bf07012abf": {
-      "link": "https://www.bnext.com.tw/amp/article/64975",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2020-11/img-1604486998-67446@900.jpg",
-      "title": "\u860b\u679c\u3001PayPal\u90fd\u6436\u9032\u6230\u5c40\uff0c\u300c\u5148\u8cb7\u5f8c\u4ed8\u300d\u5982\u4f55\u628a\u904e\u5ba2\u8b8a\u9867\u5ba2\uff1f",
-      "date": "2021-09-10"
-    },
-    "41c3e76beb53f47cf873f784072c9b14": {
-      "link": "https://www.bnext.com.tw/amp/article/64976",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-02/img-1613721811-58759@900.jpg",
-      "title": "\u5168\u7403\u6676\u7247\u4f9b\u4e0d\u61c9\u6c42\u3001\u9020\u50f9\u9ad8\u6602\uff0c\u6050\u5c07\u62d6\u5ef6\u79d1\u6280\u5275\u65b0\u8173\u6b65",
-      "date": "2021-09-10"
-    },
-    "3b5aad358adc7aca6fa41d93b15ac569": {
-      "link": "https://www.bnext.com.tw/amp/article/64427",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-05/img-1620717811-61157@900.jpg",
-      "title": "\u6771\u5143\u7236\u5b50\u5ef6\u9577\u8cfd\uff01\u923a\u53e1\u6536\u8cfc\u83f1\u5149\u4e0d\u5982\u9810\u671f\uff0c\u9ec3\u80b2\u4ec1\u638c\u63e1\u8fd13\u6210\u80a1\u6b0a",
-      "date": "2021-09-10"
-    },
-    "f18e1a43eded71f1a7d464407af9a718": {
-      "link": "https://www.bnext.com.tw/amp/article/64986",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631260199-77031@900.jpg",
-      "title": "\u6700\u5dee\u7684\u5287\u672c\u537b\u653e\u51fa\u76db\u5927\u7159\u706b\uff01\u611b\u723e\u9054\u9760\u5967\u904b\u885d6\u500d\u8a02\u95b1\u6578\uff0c\u63a5\u4e0b\u4f86\u5982\u4f55\u7559\u4f4f\u4e00\u65e5\u9ad4\u80b2\u8ff7\uff1f",
-      "date": "2021-09-10"
-    },
-    "171c7ad19af45ea820768e4b53208c8c": {
-      "link": "https://www.bnext.com.tw/amp/article/56770",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2018-07/img-1532060429-60192@900.jpg",
-      "title": "\u5f37\u98b1\u74a8\u6a39\u9678\u4e0a\u98b1\u98a8\u8b66\u5831\u767c\u5e03\u3001\u5c45\u5bb6\u8fa6\u516c\u4ecd\u8981\u4e0a\u73ed\uff015\u5927\u8ffd\u8e64\u5e73\u53f0\u4e00\u6b21\u770b",
-      "date": "2021-09-10"
-    },
-    "0e555211e1e81b52e339708489ffcf1b": {
-      "link": "https://www.bnext.com.tw/amp/article/64995",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631257636-57603.jpeg",
-      "title": "\u88ab\u7f8e\u570b\u91ab\u9662\u5929\u50f9\u6536\u8cbb\u5687\u5230\uff01YouTuber\u7adf\u56de\u5bb6\u81ea\u88fdX\u5149\u6a5f\u81ea\u5df1\u62cd\uff1f",
-      "date": "2021-09-10"
-    },
-    "a9e012ab000b32b1263664ff5f9064cc": {
-      "link": "https://www.bnext.com.tw/amp/article/64997",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-03/img-1615531518-95449@900.jpg",
-      "title": "\u300c\u7f3a\u4ec0\u9ebc\u6211\u5c31\u6350\u4ec0\u9ebc\u300d\uff01\u53f0\u7a4d\u96fb\u5275\u65b0\u516c\u76ca\uff0c\u5f35\u6dd1\u82ac\u8dd1\u900f\u5168\u53f0\u53ea\u70ba\u6350\u592a\u967d\u80fd\u767c\u96fb\u7ad9",
-      "date": "2021-09-10"
-    },
-    "cc9ee2ad3b74670267637b9716c8f6b0": {
-      "link": "https://www.bnext.com.tw/amp/article/64993",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2018-07/img-1531207949-83351@900.jpg",
-      "title": "\u7f3a\u5de5\u6f6e\u8513\u5ef6\uff0c\u4e9e\u99ac\u905c\u5c07\u70ba75\u842c\u540d\u54e1\u5de5\u5168\u984d\u652f\u4ed8\u5927\u5b78\u5b78\u8cbb\uff01\u70ba\u7559\u624d\u51fa\u4e86\u54ea\u4e9b\u62db\uff1f",
-      "date": "2021-09-10"
-    },
-    "35d346b52b5e9d21b70ef2642587ccfb": {
-      "link": "https://www.bnext.com.tw/amp/article/64987",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631266427-24920@900.jpg",
-      "title": "\u4e94\u500d\u5238\u5982\u4f55\u8b8a\u5341\u500d\uff1f\u5404\u5bb6\u9280\u884c\u5927\u63a8\u6578\u4f4d\u7d81\u5b9a\u512a\u60e0\uff0c\u653b\u7565\u61f6\u4eba\u5305\u4e00\u6b21\u770b",
-      "date": "2021-09-10"
-    },
-    "1021eeb19733df2d74dc205acd15e28e": {
-      "link": "https://www.bnext.com.tw/amp/article/64415",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2020-08/img-1598256506-20895@900.jpg",
-      "title": "\u85ddFUN\u5238\u9762\u984d600\u5143\u8981\u4f86\u4e86\uff01\u6578\u4f4d\u5238\u4f548\u6210\uff0c\u7e3d\u8a08300\u842c\u4efd",
-      "date": "2021-09-10"
-    },
-    "8bb329b73aec041dfe525845b4942a7f": {
-      "link": "https://www.bnext.com.tw/amp/article/64977",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2020-02/img-1582104670-29316@900.jpg",
-      "title": "\u5f9e\u65b0\u5275\u5230\u77f3\u6cb9\u5de8\u982d\u90fd\u4e0d\u6562\u932f\u904e\uff0c \u96fb\u52d5\u8eca\u6d6a\u6f6e\u9ede\u71c3\u300c\u5145\u96fb\u5927\u6230\u300d",
-      "date": "2021-09-10"
-    },
-    "58c9528ee558914d8f6d2d1957c1de8d": {
-      "link": "https://www.bnext.com.tw/amp/article/64673",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-08/img-1629780804-70546.jpeg",
-      "title": "\u8fb2\u904a\u5238888\u5143\u9996\u6ce2\u767c\u7d6688\u842c\u4eba\uff0c\u6d88\u8cbb\u6eff\u5343\u518d\u62bd\u7b2c\u4e8c\u6ce2\uff01\u8207\u632f\u8208\u4e94\u500d\u5238\u6574\u5408\u540c\u4e00\u5e73\u53f0",
-      "date": "2021-09-10"
-    },
-    "babc7279ba5df5175c4276534d75231b": {
-      "link": "https://www.bnext.com.tw/amp/article/64994",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631257144-64836@900.jpg",
-      "title": "\u7fa4\u5275\u6436\u4eba\u624d\uff01\u9810\u7d042022\u5e74\u78a9\u535a\u7562\u696d\u751f\uff0c\u796d10\u842c\u5143\u65e9\u9ce5\u7c3d\u7d04\u91d1\u300160\u842c\u734e\u5b78\u91d1",
-      "date": "2021-09-10"
-    },
-    "d45e6e921f1d3903e2e3e507d46614a1": {
-      "link": "https://www.bnext.com.tw/amp/article/64981",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631245673-15352@900.jpg",
-      "title": "\u53f0\u7063\u5473\u518d\u6d88\u9000\uff0117LIVE\u5c07\u5168\u7403\u71df\u904b\u7e3d\u90e8\u9077\u81f3\u65e5\u672c\uff0c\u63a8\u65b0LOGO\u8fce\u63a5\u54c1\u724c\u91cd\u5851",
-      "date": "2021-09-10"
-    },
-    "8f10d32c963de1eea2615b6d84daf359": {
-      "link": "https://www.bnext.com.tw/amp/article/64989",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631253444-92953.jpeg",
-      "title": "\u7fa4\u96fb\u88c1\u64a4\u52d5\u529b\u6a5f\u68b0\u90e8\u9580\u3001\u8cc7\u906380\u4eba\uff01\u540c\u696d\uff1a\u88fd\u9020\u592a\u96c6\u4e2d\u4e2d\u570b",
-      "date": "2021-09-10"
-    },
-    "188b1d681c1cee25b7a05dc8fa4a631d": {
-      "link": "https://www.bnext.com.tw/amp/article/64990",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631255087-13199@900.jpg",
-      "title": "\u4e00\u5361\u901a\u63a8\u300cBROWN & FRIENDS\u300d\u718a\u5927\u3001\u5154\u5154\u53ca\u838e\u83893D\u7acb\u9ad4\u89d2\u8272\u5361",
-      "date": "2021-09-10"
-    },
-    "cda9a22736077ddf8ccfe7e1da985b82": {
-      "link": "https://www.bnext.com.tw/amp/article/64985",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-06/img-1622780384-39072.jpeg",
-      "title": "Apple Car\u9ad8\u5c64\u8df3\u69fd\u798f\u7279\u5f8c\uff0c\u50b3Apple Watch\u8edf\u9ad4\u4e3b\u7ba1\u63a5\u624b\uff01\u66fe\u900f\u9732\u9020\u8eca\u7384\u6a5f",
-      "date": "2021-09-10"
-    },
-    "0b16c10ed795de36daeeed028ba51e36": {
-      "link": "https://www.bnext.com.tw/amp/article/64984",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2017-07/img-1500959642-96006@900.jpg",
-      "title": "\u8c50\u7530\u793e\u9577\u6279\u65e5\u653f\u5e9c\u80fd\u6e90\u653f\u7b56\uff1a\u53ea\u4e00\u5473\u6a21\u4eff\u6b50\u6d32\uff0c\u4e0a\u767e\u842c\u4eba\u6050\u5931\u696d\uff01",
-      "date": "2021-09-10"
-    },
-    "7196c6ebb6e3a14a461951e0f98617ac": {
-      "link": "https://www.bnext.com.tw/amp/article/64948",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631083372-11687@900.jpg",
-      "title": "\u597d\u559d\u7684\u300c\u5348\u5f8c\u7d05\u8336\u300d\u7adf\u662f\u6aa2\u9a57\u80f0\u81df\u764c\u65b0\u79d8\u65b9\uff01\u65e5\u672c\u7814\u7a76\uff1a\u7167\u8d85\u97f3\u6ce2\u5f88\u6709\u5e6b\u52a9",
-      "date": "2021-09-10"
-    },
-    "ee1a49a83a1d6b6b148f0deb14ab0cbd": {
-      "link": "https://www.bnext.com.tw/amp/article/64974",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631238257-82891@900.jpg",
-      "title": "\u5f9e\u62ab\u85a9\u5c0f\u5f1f\u5230\u5065\u8eab\u670d\u98fe\u54c1\u724cCEO\uff01GYMSHARK\u5275\u8fa6\u4eba\u5982\u4f557\u5e74\u6253\u9020\u5e02\u503c10\u5104\u82f1\u938a\u4f01\u696d\uff1f",
-      "date": "2021-09-10"
-    },
-    "d651d3d38d4179b9869bfd00dad72e67": {
-      "link": "https://www.bnext.com.tw/amp/article/64978",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631242009-90616@900.jpg",
-      "title": "Facebook\u667a\u6167\u773c\u93e1Ray-Ban Stories\u4eae\u76f8\uff01\u651c\u624b\u96f7\u670b\uff0c\u5916\u578b\u6642\u5c1a\u9084\u53ef\u62cd\u7167\u807d\u97f3\u6a02",
-      "date": "2021-09-10"
-    },
-    "94a544991f6af9f6eefb1330ab6af6dc": {
-      "link": "https://www.bnext.com.tw/amp/article/64980",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-06/img-1624437951-96672@900.jpg",
-      "title": "\u860b\u679c\u8a2d\u8a08\u8d70\u4e0b\u300c\u795e\u300d\u58c7\uff0c\u8d70\u9032\u76f4\u7dda\u6642\u4ee3\u3001\u66f4\u4eba\u6027\u5316\u4e86\uff1f",
-      "date": "2021-09-10"
-    },
-    "0ed7fac09e18ed7872128394743713fd": {
-      "link": "https://www.bnext.com.tw/amp/article/64971",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-06/img-1623128954-87814@900.jpg",
-      "title": "\u860b\u679c\u3001\u7279\u65af\u62c9\u4e5f\u6490\u4e0d\u4f4f\uff1f\u6676\u7247\u77ed\u7f3a\u6f6e\uff0c\u518d\u5927\u7684\u516c\u53f8\u4e5f\u96e3\u9003",
-      "date": "2021-09-10"
-    },
-    "9c34f0f83bce552a286d026741e8c9ab": {
-      "link": "https://www.bnext.com.tw/amp/article/64951",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631085167-28104.jpeg",
-      "title": "\u9bae\u4e73\u574a\u5f9e\u52df\u8cc7\u5c08\u6848\u8ce3\u9032\u5927\u82d1\u5b50\u3001\u8def\u6613\u838e\uff0c\u7adf\u59cb\u65bc\u4e00\u5834\u516c\u5e73\u4ea4\u6613\u7684\u6297\u722d\uff1f",
-      "date": "2021-09-10"
-    },
-    "12226972483472e7951b0fc38b50a133": {
-      "link": "https://www.bnext.com.tw/amp/article/64973",
-      "image": "https://bnextmedia.s3.hicloud.net.tw/image/album/2021-09/img-1631148399-47608@900.jpg",
-      "title": "\u751f\u91ab\u7522\u767c\u689d\u4f8b\u518d\u5ef610\u5e74\uff01CDMO\u3001\u518d\u751f\u3001\u7cbe\u6e96\u91ab\u7642\u7d0d\u734e\u52f5\uff0c\u6797\u5168\u6279\uff1a\u9f13\u52f5\u751f\u7522\u65b9\u5f0f\u800c\u975e\u6280\u8853\u5c07\u626d\u66f2\u7522\u696d",
-      "date": "2021-09-09"
+    "d409a2a2d9c09d7b5d923b8ae90b0432": {
+      "link": "https://www.bnext.com.tw/article/77059/goldman-sachs-apple-card",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2019-11/img-1572849859-41557.jpeg?w=600&output=webp",
+      "title": "Apple Card\u6158\u8667\u6578\u5341\u5104\uff0c\u9ad8\u76db\u60f3\u62bd\u8eab\u4e86\uff01\u70ba\u4f55\u8aaa\u5408\u4f5c\u860b\u679c\u662f\u300c\u5669\u5922\u300d\uff1f\u54ea\u88e1\u51fa\u554f\u984c\uff1f",
+      "date": "3 \u5929\u524d"
     }
   }
 }

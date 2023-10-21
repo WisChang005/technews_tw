@@ -11,7 +11,6 @@
 ## Tech News Providers
 ```text
 - iThome
-- Tech Orange 科技報橘
 - Business Next - 數位時代
 - INSIDE 硬塞的
 ```
@@ -28,7 +27,6 @@ pip install technews-tw
 from technews import TechNews
 
 TechNews("business").get_today_news()
-TechNews("orange").get_today_news()
 TechNews("ithome").get_today_news()
 TechNews("inside").get_today_news()
 ```
@@ -40,7 +38,6 @@ TechNews("inside").get_today_news()
 from technews import TechNews
 
 TechNews("business").get_news_by_page(3)
-TechNews("orange").get_news_by_page(3)
 TechNews("ithome").get_news_by_page(3)
 TechNews("inside").get_news_by_page(3)
 ```
@@ -71,3 +68,7 @@ LOG_LEVEL="DEBUG"
 # 每天晚上七點發送
 0 19 * * 1-7 python3 -m technews.daily_news > technews_log.log 2>&1
 ```
+
+# Release Note
+### 2023.10.21
+* 移除對科技報橘的支援，因為太難維護, 太難爬了. GG

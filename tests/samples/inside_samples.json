@@ -1,276 +1,276 @@
 {
-  "timestamp": 1631438655.3007329,
+  "timestamp": 1697932356.634637,
   "news_page_title": "INSIDE",
   "news_contents": {
-    "244da16345c14122406e1eecdd3546b3": {
-      "link": "https://www.inside.com.tw/article/24809-brain-science",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/5v2i7jnb8v44qfw0c1ih6c8eovvv4b.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "\u79d1\u666e\u52d5\u756b\u300c\u79d1\u5b78\u8166\u5de8\u4eba\u300d\uff0c\u9019\u4e5f\u662f\u5168\u53f0\u9996\u90e8 4K \u898f\u683c\u7684\u8166\u79d1\u5b78 3D \u52d5\u756b\u7247\uff0c\u900f\u904e\u6dfa\u767d\u7684\u6558\u4e8b\u8b93\u89c0\u773e\u63a2\u7d22\u8166\u90e8\u5967\u79d8\uff0c\u9810\u8a08 9 \u6708 12 \u65e5\u665a\u4e0a 6 \u6642\u5728\u516c\u8996 3 \u53f0\u9996\u64ad\u3002",
-      "date": "2021-09-12"
+    "8cb4c4baa51f6928311044736f94f0e2": {
+      "link": "https://www.inside.com.tw/feature/side-chat/33111-side-chat-e181",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/da7dc0a4-45b4-4e38-8457-072ecad90b15.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u672c\u96c6\u6211\u5011\u9080\u8acb\u5230\u300c\u77e5\u8b58\u885b\u661f\u300d\u7684\u5275\u8fa6\u4eba Stephen \u6e38\u5f18\u5b87\uff0c\u8207\u6211\u5011\u5206\u4eab\u4ed6\u5728\u5341\u5e74\u5167\u5275\u696d\u56db\u6b21\u7684\u5fc3\u8def\u6b77\u7a0b\uff0c\u4ee5\u53ca\u4ed6\u5982\u4f55\u5f9e\u904e\u53bb\u7684\u7d93\u9a57\u4e2d\u5b78\u7fd2\uff0c\u9032\u800c\u5728\u77ed\u6642\u9593\u5167\u5275\u8fa6\u51fa\u300c\u77e5\u8b58\u885b\u661f\u300d\u7dda\u4e0a\u6559\u80b2\u5e73\u53f0\u3002\u7bc0\u76ee\u4e2d\u6e38\u5f18\u5b87\u5206\u4eab\u4e86\u4ed6\u5c0d\u300c\u5b8c\u8ab2\u7387\u300d\u7684\u7368\u5230\u898b\u89e3\uff0c\u63a2\u8a0e\u6559\u80b2\u5e73\u53f0\u8981\u5982\u4f55\u5728\u5e02\u5834\u4e2d\u8d70\u51fa\u7368\u6a39\u4e00\u683c\u7684\u54c1\u724c\u5f62\u8c61\uff0c\u6700\u5f8c\u4ed6\u5411\u6211\u5011\u5206\u4eab\u4e86\u4e09\u5802\u4ed6\u6700\u63a8\u85a6\u7684\u7dda\u4e0a\u8ab2\u7a0b\u3002",
+      "date": "2023-10-21"
     },
-    "ec28d20d4132a02b9dbd13cec126dfb4": {
-      "link": "https://www.inside.com.tw/article/24808-harrypotterma-ban-words-taiwan",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/uk4ule9qne3i41cradgxjupvdhq1jz.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "\u654f\u611f\u5b57\u5143\u5305\u62ec\u300c\u8521\u82f1\u6587\u300d\u3001\u300c\u7fd2\u8fd1\u5e73\u300d\u3001\u300c\u62dc\u767b\u300d\u3001\u300c\u7279\u6717\u666e\u300d\uff08\u5ddd\u666e\uff09\u7b49\u4eba\u540d\u4e5f\u88ab\u7981\u6b62\u7528\u65bc\u5275\u7acb\u89d2\u8272\u3002",
-      "date": "2021-09-11"
+    "8245c01ef2545f1c3709ed7de123258b": {
+      "link": "https://www.inside.com.tw/article/33116-x-2-subscription-tiers",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/b248f17e-ae09-4fda-9425-7d94bcc79482.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u99ac\u65af\u514b\uff08Elon Musk\uff09\u5728\u4ed6\u7684 X \u5e73\u53f0\u5e33\u865f\u767c\u6587\u8868\u793a\uff1a\u300c\u5176\u4e2d\u4e00\u7a2e\u8cbb\u7528\u8f03\u4f4e\uff0c\u5177\u5099\u6240\u6709\u529f\u80fd\uff0c\u4f46\u5ee3\u544a\u6c92\u6e1b\u5c11\uff1b\u53e6\u4e00\u7a2e\u8cbb\u7528\u8f03\u8cb4\uff0c\u4f46\u6c92\u6709\u5ee3\u544a\u3002\u300d",
+      "date": "2023-10-21"
     },
-    "a0107be0bb194414d439f6d44c375d76": {
-      "link": "https://www.inside.com.tw/article/24616-delta-5g",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/s9b3qz03d4zrn558mygu09my3j0mbq.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u53f0\u9054\u96fb\u5b50\u770b\u898b\u667a\u9020\u65b0\u529b\u91cf\uff0c\u5728\u9060\u50b3 5G \u5c08\u9577\u52a9\u529b\u4e0b\uff0c\u6253\u9020\u5168\u570b\u9996\u5ea7 5G \u667a\u6167\u5de5\u5ee0\uff0c\u5c0e\u5165 5G \u5c08\u7db2\u3001\u4eba\u5de5\u667a\u6167\u8207\u7269\u806f\u7db2\u61c9\u7528\u65bc\u5be6\u969b\u5ee0\u623f\u3002\u4ee5\u4e0b\u4e14\u770b\u9060\u50b3\u8207\u53f0\u9054\u5982\u4f55\u9054\u6210 5G \u667a\u6167\u5316\u7522\u7dda\uff0c\u5efa\u69cb\u7522\u80fd\u9032\u5316\u52a0\u901f\u5668\u3002",
-      "date": "2021-09-10"
+    "d8f2970e18f03aa9150195db0797c3c6": {
+      "link": "https://www.inside.com.tw/article/32949-partipost",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/44718657-4a0a-41be-9456-16c4e03545a1.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5206\u6790\u5e2b\u9810\u6e2c\uff0c2024 \u5e74\u76f4\u64ad\u96fb\u5546\u5e02\u5834\u7684\u7e3d\u898f\u6a21\u5c07\u9054 350 \u5104\u7f8e\u5143\uff0c\u662f 2021 \u5e74\u7684\u4e09\u500d\u591a\uff0c\u5230 2026 \u5e74\uff0c\u76f4\u64ad\u8cfc\u7269\u92b7\u552e\u984d\u6709\u671b\u4f54\u6574\u500b\u96fb\u5b50\u5546\u52d9\u92b7\u552e\u4efd\u984d 20%\uff0c\u66f4\u986f\u793a\u5176\u4e2d\u76f4\u64ad\u96fb\u5546\u7684\u5feb\u901f\u767c\u5c55\u3002\u56e0\u6b64\u8d8a\u4f86\u8d8a\u591a\u7684\u54c1\u724c\u4e5f\u958b\u59cb\u9032\u884c\u300c\u5275\u4f5c\u5546\u52d9\u300d\u7684\u5546\u6a5f\u4f48\u5c40\u3002",
+      "date": "2023-10-18"
     },
-    "6cea6df340c3607ce2554af1f5a276b1": {
-      "link": "https://www.inside.com.tw/article/24807-small-online-sellers-tax",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/3aeuc6mc0jb681jt49d7h2pzlqatf7.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u5730\u50f9\u7a05\u8a8d\u5b9a\u4e0a\u71df\u696d\u7528\u623f\u5c4b\u8ddf\u81ea\u4f4f\u8ab2\u7a05\u91d1\u984d\u5dee\u5f88\u5927\uff0c\u8ca1\u653f\u90e8\u653e\u5bec\u8a8d\u5b9a\uff0c\u5982\u679c\u5be6\u969b\u4ea4\u6613\u90fd\u662f\u5728\u7db2\u8def\u5e73\u53f0\u4e0a\u5b8c\u6210\uff0c\u4e14\u8a72\u71df\u696d\u767b\u8a18\u7684\u623f\u5c4b\uff0c\u5be6\u969b\u672a\u4f9b\u8fa6\u516c\u3001\u5b58\u653e\u8207\u71df\u696d\u6d3b\u52d5\u76f8\u95dc\u7684\u8a2d\u5099\u53ca\u7269\u54c1\uff0c\u4ecd\u53ef\u9069\u7528\u81ea\u4f4f\u7528\u5730\u7a05\u7387\uff0c\u3002",
-      "date": "2021-09-11"
+    "0adb89f9e959b71788ffcc7939f6d234": {
+      "link": "https://www.inside.com.tw/article/33115-openai-in-talks-for-80b-deal",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/4756a69f-4e63-4973-8841-e97136159c30.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u82e5\u4ea4\u6613\u5b8c\u6210 OpenAI \u4f30\u503c\u5c07\u8d85\u904e 800 \u5104\u7f8e\u5143\uff0c\u4e26\u6210\u70ba\u820a\u91d1\u5c71\u6700\u6709\u50f9\u503c\u7684\u65b0\u5275\uff0c\u4e5f\u6703\u662f\u5168\u7403\u6700\u5177\u50f9\u503c\u7684\u79d1\u6280\u65b0\u5275\u4e4b\u4e00\uff0c\u6392\u5728\u5b57\u7bc0\u8df3\u52d5\u548c SpaceX \u4e4b\u5f8c\u3002",
+      "date": "2023-10-21"
     },
-    "ad862d971c959b041605481d7ffb54c3": {
-      "link": "https://www.inside.com.tw/article/24806-hdm-in-taiwan",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/hyta4huxh7mtfyr9sb1muntngla6n0.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "\u6210\u529f\u5927\u5b78\u9ad8\u7cbe\u5730\u5716\u4e2d\u5fc3\u4eca\u5929\u8868\u793a\uff0c\u5168\u53f0\u9ad8\u7cbe\u5730\u5716\u5df2\u5efa\u7f6e\u7d04 120 \u516c\u91cc\uff0c\u4eca\u5e74\u66f4\u63a8\u52d5\u5efa\u7f6e\u81ea\u99d5\u8eca\u7528\u9ad8\u7cbe\u5730\u5716 3 \u8655\u9a57\u8b49\u5834\u57df\u3002",
-      "date": "2021-09-11"
+    "875da12c78df3e4f3f86d0decfba21a9": {
+      "link": "https://www.inside.com.tw/article/33114-amd-china-layoff",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/6b74b7cb-4ccb-4594-8741-36a2b3caec20.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4e2d\u570b\u8077\u5834\u793e\u7fa4\u8fd1\u65e5\u6709\u7db2\u53cb\u7206\u6599\u7a31\uff0cAMD \u5c07\u958b\u59cb\u5728\u4e2d\u570b\u9032\u884c\u88c1\u54e1\uff0c\u88c1\u54e1\u6bd4\u4f8b\u53ef\u80fd\u70ba 10% \u81f3 15%\uff0c\u5c07\u6d89\u53ca 300 \u81f3 450 \u540d\u7684\u54e1\u5de5\uff0c\u5176\u4e2d RTG \u90e8\u9580\u662f\u91cd\u707d\u5340\u3002",
+      "date": "2023-10-21"
     },
-    "f620dd3377a25cbf3a59e6d100ccc239": {
-      "link": "https://www.inside.com.tw/article/24782-google-cloud",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/bi6l652h0565vkea6nxmbnlutbqwky.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u4e00\u5834\u75ab\u60c5\uff0c\u8b93\u8a31\u591a\u884c\u696d\u610f\u8b58\u5230\u300c\u6578\u4f4d\u8f49\u578b\uff0c\u4e0d\u8f49\u4e0d\u884c\u300d\u7684\u5371\u6a5f\uff0c\u5c24\u5176\u662f\u8f49\u578b\u8173\u6b65\u76f8\u5c0d\u7de9\u6162\u7684\u88fd\u9020\u696d\u3001\u96f6\u552e\u6d41\u901a\u696d\uff0c\u5728\u75ab\u60c5\u7576\u4e0b\u66f4\u662f\u53d7\u5275\u56b4\u91cd\u7684\u5169\u5927\u696d\u614b\u3002Google Cloud\u5c07\u5728 9 \u6708 29 \u65e5\u30019 \u6708 30 \u65e5\u8209\u8fa6 Industry Summit Recap \u7dda\u4e0a\u7814\u8a0e\u6703\uff0c\u4e3b\u984c\u591a\u5143\u8c50\u5bcc\u800c\u4e14\u4e0d\u7528\u51fa\u9580\u3001\u4e0d\u5fc5\u82b1\u9322\uff0c\u7a76\u7adf\u8b70\u7a0b\u6709\u591a\u5438\u5f15\u4eba\uff1f",
-      "date": "2021-09-10"
+    "2580b0a82db7f66329d6b20405d5faa8": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/33048-2023TCCF-PITCHING",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/6a019c44-072b-40d6-be9c-f0976b492c39.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4e00\u90e8\u5f71\u8996\u4f5c\u54c1\u51fa\u73fe\u5728\u87a2\u5e55\u4e0a\u4e4b\u524d\uff0c\u7d93\u6b77\u4e86\u6f2b\u9577\u7684\u7c4c\u5099\u3001\u62cd\u651d\u3001\u5f8c\u88fd\u22ef\u22ef\u7b49\u904e\u7a0b\uff0c\u4f46\u662f\u4f60\u77e5\u9053\u8981\u555f\u52d5\u9019\u4e9b\u74b0\u7bc0\uff0c\u90a3\u500b\u8b93\u5b87\u5b99\u8a95\u751f\u7684\u77ac\u9593\u7684\u5927\u7206\u70b8\u662f\u4ec0\u9ebc\u55ce\uff1f\u7b54\u6848\u662f\u300c\u5f71\u8996\u958b\u767c\u300d\u3002\u5f71\u8996\u958b\u767c\u662f\u6307\u5f71\u8996\u4f5c\u54c1\u62cd\u651d\u524d\u671f\u7684\u6e96\u5099\u5de5\u4f5c\uff0c\u4e3b\u8981\u5305\u62ec\u9078\u64c7\u984c\u76ee\uff0c\u9019\u53ef\u80fd\u662f\u7de8\u5287\u3001\u5c0e\u6f14\u7684\u5275\u610f\uff0c\u6216\u662f\u6839\u64da\u5e02\u9762\u4e0a\u7684\u5c0f\u8aaa\u6216\u6f2b\u756b\u9032\u884cIP\u6539\u7de8\u800c\u4f86\u3002\u9078\u5b9a\u984c\u76ee\u5f8c\uff0c\u518d\u8207\u7de8\u5287\u5408\u4f5c\u5c07\u984c\u6750\u6587\u672c\u5316\uff0c\u9032\u800c\u5f62\u6210\u5b8c\u6574\u5287\u672c\u4ee5\u9032\u884c\u62cd\u651d\u3002 \u7121\u8ad6\u539f\u5275\u6216\u6539\u7de8\uff0c\u958b\u767c\u662f\u4e00\u5207\u5f71\u8996\u4f5c\u54c1\u7684\u8d77\u9ede\u3002\u539f\u5275\u5167\u5bb9\u884c\u4e4b\u6709\u5e74\uff0c\u800cIP\uff08Intellectual Property\uff09\u6539\u7de8\u5728\u7576\u4eca\u5f71\u8996\u88fd\u4f5c\u9818\u57df\u4e2d\uff0c\u8b8a\u5f97\u8d8a\u4f86\u8d8a\u5e38\u898b\u800c\u4e14\u91cd\u8981\u3002\u5728\u67d0\u7a2e\u7a0b\u5ea6\u4e0a\uff0cIP\u6539\u7de8\u5177\u6709\u5546\u696d\u4fdd\u969c\u3001\u89d2\u8272\u8207\u60c5\u7bc0\u57fa\u790e\u3001\u54c1\u724c\u5ef6\u4f38\u7b49\u512a\u52e2\u3002\u4f46\u662f\uff0c\u96d6\u7136IP\u6539\u7de8\u6709",
+      "date": "2023-10-17"
     },
-    "a98f03cc71c5c77b0243b0222cf396f6": {
-      "link": "https://www.inside.com.tw/article/24805-sony-playstation-showcase-2021",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/cnbrx2fnegmha3cx2i85hvlkau36d9.png?fit=crop&h=209&q=80&w=400",
-      "title": "Sony \u5728\u4eca\u5e74\u7684 PlayStation Showcase \u7dda\u4e0a\u767c\u8868\u6703\uff0c\u767c\u4f48\u591a\u6b3e\u71b1\u9580\u7684\u904a\u6232\u5927\u4f5c\u65b0\u60c5\u5831\u3002",
-      "date": "2021-09-11"
+    "67ff8fa0db80f29f8c8fff96f55524fa": {
+      "link": "https://www.inside.com.tw/article/33113-nvidia-eureka",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/fc385ddc-31cf-4d6e-b180-f5b0daa7f604.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "NVIDIA \u7814\u7a76\u4eba\u54e1\u6307\u51fa\uff0c\u900f\u904e\u4eba\u5de5\u667a\u6167\u4ee3\u7406\u57f7\u884c\u8a13\u7df4\u7684\u6548\u7387\uff0c\u9060\u6bd4\u4eba\u985e\u900f\u904e\u7a0b\u5f0f\u64b0\u5beb\u8a13\u7df4\u7d04\u53ef\u5feb\u4e0a 80%\uff0c\u4e26\u4e14\u80fd\u8b93\u6a5f\u5668\u624b\u81c2\u57f7\u884c\u6548\u7387\u63d0\u5347 50%\u3002",
+      "date": "2023-10-21"
     },
-    "7875796555f22e5f9c946ef87e7f32c4": {
-      "link": "https://www.inside.com.tw/article/24788-side-chat-metaverse",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/uzlq1fvqesmu4xn9mpiboc6bpsobzx.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u4e5f\u8a31\u6700\u8fd1\u6709\u4e9b\u4eba\u5e38\u807d\u5230 Metaverse \u6216\u662f\u300c\u5143\u5b87\u5b99\u300d\uff0c\u4e0d\u904e\u9019\u8ddf\u6f2b\u756b\u5e38\u51fa\u73fe\u7684\u591a\u5143\u5b87\u5b99\u4e0d\u4e00\u6a23\uff0c\u800c\u662f\u5e38\u5e38\u5728\u79d1\u5e7b\u4f5c\u54c1\u88e1\u9762\u51fa\u73fe\u7684\u865b\u64ec\u4e16\u754c\u3002\u73fe\u5728\u96a8\u8457\u79d1\u6280\u9032\u6b65\u3001\u793e\u7fa4\u5e73\u53f0\u64f4\u5f35\uff0c\u52a0\u4e0a\u8fd1\u5e74\u75ab\u60c5\u8207\u74b0\u5883\u5929\u707d\u8b93\u4eba\u5011\u7121\u6cd5\u5728\u5be6\u9ad4\u898b\u9762\uff0c\u6240\u4ee5\u8f49\u5f80\u7dda\u4e0a\u6eff\u8db3\u751f\u6d3b\u6240\u9700\uff0c\u9019\u500b\u6578\u5341\u5e74\u524d\u4ecd\u53ea\u5b58\u5728\u79d1\u5e7b\u4f5c\u54c1\u7684\u8a5e\u5f59\uff0c\u4e5f\u6108\u4f86\u6108\u63a5\u8fd1\u5be6\u73fe\u7684\u4e00\u5929\u3002",
-      "date": "2021-09-11"
+    "679304e243d8664483d6294343bdc19c": {
+      "link": "https://www.inside.com.tw/article/33109-airtag-2-2025",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/81f6baca-9e03-46d3-a46e-1f380f0ed63f.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4e0d\u904e\u65b0\u7684 Airtag 2 \u6703\u8207\u73fe\u5728\u7684\u7248\u672c\u6709\u4ec0\u9ebc\u4e0d\u4e00\u6a23\uff1f\u65b0\u54c1\u61c9\u6703\u5728\u7cbe\u5ea6\u7bc4\u570d\u8ddd\u96e2\u4e0a\u6709\u6240\u6539\u5584\u3002\u800c\u76ee\u524d Airtag 1 \u7684\u7bc4\u570d\u7d04\u5728 10 \u81f3 15 \u516c\u5c3a\uff1b\u6700\u65b0\u7684 iPhone 15 \u652f\u63f4\u7684\u8ddd\u96e2\u5247\u6700\u9060\u53ef\u9054 60 \u516c\u5c3a\u3002\u800c Airtag 2 \u9084\u6709\u53ef\u80fd\u6709\u300c3D \u7cbe\u78ba\u5b9a\u4f4d\u300d\uff083D Precision Finding\uff09\u7684\u529f\u80fd\u3002",
+      "date": "2023-10-20"
     },
-    "76fe1a6ccdc94e1af919ac1937d2bc92": {
-      "link": "https://www.inside.com.tw/article/24721-devdays-asia-2021",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/k9u6r6a95nwdz81rl9tmroqtwjmxt2.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u5fae\u8edf\u65bc 8 \u6708 10 \u65e5\u8209\u8fa6\u300cDevDays Asia 2021 Online \u4e9e\u592a\u6280\u8853\u5e74\u6703\u7dda\u4e0a\u8a18\u8005\u6703\u300d\uff0c\u900f\u904e\u300cReimagine Taiwan \u81fa\u7063\u7522\u696d\u65b0\u661f\u5ea7\u8ac7\u5206\u4eab\u300d\uff0c\u9080\u8acb\u9245\u92fc\u6a5f\u68b0\u3001\u7db2\u806f\u79d1\u6280\u3001\u5eb7\u63da\u7b49\u5925\u4f34\u5206\u4eab\u5728\u5f8c\u75ab\u6642\u4ee3\u6240\u9762\u81e8\u7684\u5168\u65b0\u6311\u6230\uff0c\u4ee5\u53ca\u5982\u4f55\u900f\u904e\u5fae\u8edf\u524d\u77bb\u79d1\u6280\u6280\u8853\uff0c\u6253\u9020\u65b0\u8208\u61c9\u7528\u3001\u8d70\u5411\u570b\u969b\u3002",
-      "date": "2021-09-03"
+    "01e9b6dafe8f303ab1098447a6db1d2d": {
+      "link": "https://www.inside.com.tw/article/33044-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/0ead39c1-0612-4428-b486-432cc4ce5aed.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u53f0\u7063\u5cf6\u770b\u4f3c\u6e3a\u5c0f\uff0c\u537b\u80fd\u5728\u7d93\u6fdf\u793e\u6703\u767c\u5c55\u6307\u6a19\u540d\u5217\u524d\u8305\uff0c\u4f8b\u5982\u4eca\u5e74IMD\u4e16\u754c\u7af6\u722d\u529b\u6392\u540d\u5168\u7403\u7b2c\uff16 \uff08\u5176\u4e2d\u7d93\u6fdf\u97cc\u6027\u66f4\u5275\u65b0\u9ad8\u5230\u7b2c 5 \u540d\uff09\u3001\u5728\u4eba\u53e3\u6578\u5169\u5343\u842c\u4ee5\u4e0a\u570b\u5bb6\uff0c\u53f0\u7063 2022 \u5e74\u4eba\u5747 GDP \u5728 191 \u500b\u7d93\u6fdf\u9ad4\u7576\u4e2d\u6392\u70ba\u7b2c 7\u3002\u80fd\u6709\u9019\u6a23\u597d\u6210\u7e3e\uff0c\u4e0d\u5f97\u4e0d\u63d0\u7522\u696d/\u79d1\u5b78\u5712\u5340\u7684\u8a2d\u7acb\uff0c\u626e\u6f14\u9a45\u52d5\u53f0\u7063\u7d93\u6fdf\u767c\u5c55\u7684\u91cd\u8981\u706b\u8eca\u982d\u3002",
+      "date": "2023-10-16"
     },
-    "77ac302242d71e4aed9c5b554167a02e": {
-      "link": "https://www.inside.com.tw/article/24804-air-capture-plant-c02-climeworks-in-iceland",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/m9y6q636w83hr0vvwfq3rxfpzrxp28.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u745e\u58eb\u4e00\u9593\u6eab\u5ba4\u6c23\u9ad4\u7814\u7a76\u516c\u53f8 Climeworks \u628a\u300c\u4e8c\u6c27\u5316\u78b3\u300d\u5546\u696d\u5316\uff0c\u66f4\u7372\u5f97\u5fae\u8edf\u7684\u6295\u8cc7\u3002",
-      "date": "2021-09-11"
+    "8b7d4f48680c2006bb9af58a323b326e": {
+      "link": "https://www.inside.com.tw/article/22593-crying-laughing-emoji-gen-z",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/4dc2d5bc-88af-4aa3-a816-76546a00ddf6.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5982\u679c\u4f60\u73fe\u5728\u9084\u5728\u611b\u7528\u300c\ud83d\ude02\u300d\uff0c\u5e74\u8f15\u4eba\u53ef\u80fd\u8a8d\u70ba\u4f60\u5df2\u7d93\u8001\u4e86\uff01\u90a3\u9ebc\u751a\u9ebc emoji \u53ef\u4ee5\u53d6\u4ee3\u300c\u7b11\u5230\u54ed\u300d\u7684\u610f\u5883\u5462\uff1f",
+      "date": "2023-10-20"
     },
-    "acc9a03b8c6a55ce666a9ac6532ac38d": {
-      "link": "https://www.inside.com.tw/article/24801-chinas-ximalaya-drops-u-s-ipo-plan",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/rrejovjio5elz5pg2p09orc7ypzv5c.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u559c\u99ac\u62c9\u96c5 4 \u6708\u63d0\u51fa\u7f8e\u570b IPO \u7533\u8acb\u3002",
-      "date": "2021-09-11"
+    "12b424308074fe9759944599cccaba8f": {
+      "link": "https://www.inside.com.tw/article/33108-north-korea-it-workers-help-fund-weapons-program",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/604619da-44b5-47c4-ba03-7ea4c12f50d2.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u9019\u4e9b\u5de5\u4f5c\u8005\u4e3b\u8981\u5c45\u4f4f\u5728\u4e2d\u570b\u3001\u4fc4\u7f85\u65af\uff0c\u4e26\u4e14\u5411\u7f8e\u570b\u6216\u5176\u4ed6\u570b\u5bb6\u7684\u4f01\u696d\u8b0a\u7a31\u4ed6\u5011\u662f\u9060\u8ddd\u81ea\u7531\u5de5\u4f5c\u8005\uff0c\u6bcf\u5e74\u8cfa\u53d6\u6578\u767e\u842c\u7f8e\u5143\u7684\u85aa\u8cc7\uff0c\u4ee5\u8cc7\u52a9\u5317\u97d3\u5c0e\u5f48\u8a08\u756b\u3002",
+      "date": "2023-10-20"
     },
-    "5a9af8f92f3d97200edbdd51e5ab91f9": {
-      "link": "https://www.inside.com.tw/article/24692-shopee_for_business",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/o2orfp1ka3bkkmhxw1u4segoir69yu.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u9762\u5c0d\u53cd\u8986\u7121\u5e38\u7684\u75ab\u60c5\uff0c\u54c1\u724c\u8981\u8ddf\u8457\u6d88\u8cbb\u8005\u8b8a\u5316\u7684\u8173\u6b65\uff0c\u5584\u7528\u7cbe\u6e96\u884c\u92b7\u5de5\u5177\u4e92\u52d5\u6e9d\u901a\u3002\u8766\u76ae X Facebook \u5ee3\u544a\u53ef\u4ee5\u9054\u5230\u66f4\u4f4e\u7684\u5ee3\u544a\u8cfc\u8cb7\u6210\u672c\u3001\u4e5f\u6709\u6548\u958b\u767c\u65b0\u5ba2\u3002",
-      "date": "2021-09-01"
+    "cd206c46e3459a27b2931be3a886812f": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/33090-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/1e25f1b1-3f92-47ff-8442-6a808f67e0b5.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5f71\u8996\u8207\u97f3\u6a02\u662f\u6700\u591a\u81fa\u7063\u4eba\u63a5\u89f8\u7684\u6587\u5316\u5167\u5bb9\u9818\u57df\uff0c\u4e0d\u8ad6\u54ea\u4e00\u500b\u5e74\u9f61\u5c64\u7684\u95b1\u807d\u7387\u90fd\u9054\u516b\u6210\u4e94\u4ee5\u4e0a\uff0c\u90a3\u9ebc\u81fa\u7063\u73fe\u5728\u6709\u591a\u5c11\u4eba\u4e0d\u50c5\u4f7f\u7528\u5f71\u8996OTT\u4e5f\u4f7f\u7528\u97f3\u6a02\u4e32\u6d41\u5462\uff1f\u672c\u6587\u5c07\u900f\u904e\u300a2022\u5e74\u81fa\u7063\u6587\u5316\u5167\u5bb9\u6d88\u8cbb\u8da8\u52e2\u8abf\u67e5\u5831\u544a\u300b\u7684\u6578\u64da\u9032\u4e00\u6b65\u6df1\u5165\u6316\u6398\u5f71\u97f3\u4e32\u6d41\u91cd\u758a\u4f7f\u7528\u7684\u6838\u5fc3\u5e02\u5834\uff0c\u89c0\u5bdf\u5e02\u5834\u7684\u63a8\u79fb\u8b8a\u5316\uff01",
+      "date": "2023-10-14"
     },
-    "7544834ddfd4d59bf1e5f2f9e8766242": {
-      "link": "https://www.inside.com.tw/article/24799-grubhub-doordash-uber-eats-sue-new-york-city-over-fee-caps",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/ofu4mwl5zk6yv4qr7z19f84j0a6wm0.JPG?fit=crop&h=209&q=80&w=400",
-      "title": "\u75ab\u60c5\u671f\u9593\u90e8\u4efd\u57ce\u5e02\u796d\u51fa\u8cbb\u7528\u4e0a\u9650\u898f\u5b9a\uff0c\u9632\u6b62\u5e73\u53f0\u904e\u5ea6\u6536\u8cbb\u3002",
-      "date": "2021-09-11"
+    "48fd49a16e531f9a9bb3e395e3702b6a": {
+      "link": "https://www.inside.com.tw/article/33107-google-pixel-product-experience-space-in-taiwan",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/349aebb9-aec6-4adc-b263-bd1008090c03.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "Google \u5ba3\u5e03\u5728\u53f0\u7063\u9996\u6b21\u63a8\u51fa Pixel \u7522\u54c1\u9ad4\u9a57\u7a7a\u9593\uff0c\u5e0c\u671b\u8b93\u66f4\u591a\u4eba\u80fd\u5920\u9032\u4e00\u6b65\u611f\u53d7 Pixel \u88dd\u7f6e\u5728\u6574\u5408 Google AI \u8207\u591a\u5143\u5be6\u7528\u670d\u52d9\u4e0b\uff0c\u80fd\u5920\u5be6\u73fe\u7684\u667a\u6167\u751f\u6d3b\u3002",
+      "date": "2023-10-20"
     },
-    "e3a30e188f43d53ae6a6bad15eaa802e": {
-      "link": "https://www.inside.com.tw/article/24800-inspiration4",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/d8fjp9c4vk1f01r6erdk0ii7vv9t0o.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "Inspiration4 \u662f\u4e00\u9805\u7531\u7f8e\u570b\u5104\u842c\u5bcc\u7fc1\u3001Shift4 Payment \u7684\u5275\u8fa6\u4eba\uff0c\u540c\u6642\u6709\u8c50\u5bcc\u98db\u6a5f\u98db\u884c\u7d93\u9a57\u7684 Jared Isaacman \u6240\u8fa6\u7684\u592a\u7a7a\u8a08\u756b\uff0c\u4e5f\u662f\u9996\u6b21\u5168\u54e1\u5e73\u6c11\u4e0a\u5230\u5730\u7403\u8ecc\u9053\u7684\u8a08\u756b\uff0c\u4ee5\u53ca\u9996\u6b21\u4e0a\u5230\u5730\u7403\u8ecc\u9053\u7684\u79c1\u4eba\u5546\u696d\u592a\u7a7a\u65c5\u7a0b\u8a08\u756b\u3002",
-      "date": "2021-09-11"
+    "81dca85b52e0fbe0c9e20e4783fae8f9": {
+      "link": "https://www.inside.com.tw/article/33105-tsmc-semiconductor-taiwan",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/04/63fb4721-411d-4040-a3d9-498c1eec9d47.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u53f0\u7a4d\u96fb\u5ba3\u5e03\u4e0d\u9032\u99d0\u9f8d\u79d1\u4e09\u671f\u5f8c\uff0c\u5404\u65b9\u722d\u53d6\u8b93\u53f0\u7a4d\u96fb\u5728\u53f0\u8a2d\u5ee0\u3002\u7d93\u6fdf\u90e8\u9577\u738b\u7f8e\u82b1\u8868\u793a\uff0c\u5c07\u5354\u5c0b\u672a\u4f86\u7528\u5730\uff0c\u5979\u5f37\u8abf\u53f0\u7a4d\u96fb\u7684\u5148\u9032\u88fd\u7a0b\u548c\u7522\u80fd\u4e00\u5b9a\u6703\u7559\u5728\u53f0\u7063\u3002",
+      "date": "2023-10-20"
     },
-    "e43cdd75aa6af38cb18c29434c84a052": {
-      "link": "https://www.inside.com.tw/feature/yahoo-2021-dsp-summit/24655-yahoo-tv-virtual-production",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/s2i4arubds531ucnzh4p7y0e1w30vf.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u7531\u5922\u60f3\u52d5\u756b\u63d0\u4f9b\u7684 LED \u9310\u5f62\u6295\u5f71\u6280\u8853\uff0c\u52a0\u4e0a Yahoo \u7684 AR \u524d\u666f\u88fd\u4f5c\u6280\u8853\uff0c\u5448\u73fe\u51fa\u300c\u7121\u61fc\u884c\u92b7 2021 DSP Summit \u300d\u6c89\u6d78\u5f0f\u7814\u8a0e\u6703\u7684\u7d55\u4f73\u8996\u89ba\u6548\u679c\u3002",
-      "date": "2021-08-31"
+    "57fe76ad7cb8ca5da20562b29ccea79e": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/33089-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/211ef703-c53c-4c22-84cc-8313a948dad9.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "2022\u5e74\u4e0a\u6620\u7684\u570b\u7247\u300a\u5492\u300b\u5728\u6211\u570b\u7968\u623f\u8868\u73fe\u4eae\u773c\uff0c\u66f4\u5438\u5f15\u4e9e\u592a\u5730\u5340\u3001\u4e2d\u6771\u8207\u62c9\u4e01\u7f8e\u6d32\u89c0\u773e\uff0c\u4e26\u9032\u5165\u8a72\u5730\u5340\u5404\u570bNetflix\u6392\u884c\u524d10\u6578\u9031\u3002\u62c9\u4e01\u7f8e\u6d32\u96fb\u5f71\u5e02\u5834\u56e0\u6587\u5316\u8207\u5730\u7de3\u95dc\u4fc2\uff0c\u597d\u840a\u5862\u96fb\u5f71\u76f8\u8f03\u5176\u4ed6\u5916\u570b\u96fb\u5f71\u5177\u6709\u512a\u52e2\u3002\u4f46\u96a8\u7db2\u8def\u5f71\u97f3\u5e02\u5834\u767c\u9054\uff0c\u4e9e\u6d32\u4f5c\u54c1\u958b\u59cb\u5728\u7576\u5730\u767c\u9175\u3002\u570b\u7247\u300a\u5492\u300b\u7684\u4eba\u6c23\uff0c\u53cd\u6620\u62c9\u4e01\u7f8e\u6d32\u6216\u8a31\u662f\u570b\u7247\u9f90\u5927\u6f5b\u5728\u5e02\u5834\u3002",
+      "date": "2023-10-14"
     },
-    "d36fbe91b0a5c0854aa77604de141172": {
-      "link": "https://www.inside.com.tw/article/24803-apple-must-allow-other-forms-of-in-app-purchase-rules-judge-in-epic-vs-apple",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/ow6ch3eqlz62z945nj8kbw56z6mtk2.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u67d0\u7a2e\u7a0b\u5ea6\u4e0a\u9019\u5df2\u7d93\u662f Epic Games \u7684\u91cd\u5927\u52dd\u5229\uff0c\u4f46\u8ddd\u96e2\u5b8c\u5168\u52dd\u5229\u537b\u9084\u6709\u4e00\u5927\u6bb5\u8ddd\u96e2\uff0cApple \u4e26\u6c92\u88ab\u5224\u5b9a\u70ba\u300c\u58df\u65b7\u300d\u3002",
-      "date": "2021-09-11"
+    "57f3327be44bfe2a07f1a684c28876a7": {
+      "link": "https://www.inside.com.tw/article/33104-strongest-quake-on-mars-has-shocked-scientists",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/774f4be1-00e7-4029-bb52-851afae5d671.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7f8e\u570b\u592a\u7a7a\u7e3d\u7f72\u7684\u6d1e\u5bdf\u865f\u63a2\u6e2c\u5668\u5728\u706b\u661f\u5075\u6e2c\u5230\u6700\u5927\u7684\u5730\u9707\uff0c\u79d1\u5b78\u5bb6\u5011\u5f97\u51fa\u7d50\u8ad6\uff0c\u9019\u6b21\u5730\u9707\u662f\u7531\u706b\u661f\u5730\u6bbc\u6d3b\u52d5\u5f15\u8d77\uff0c\u800c\u4e0d\u662f\u9695\u77f3\u649e\u64ca\u3002\u9019\u5c0d\u65bc\u4e86\u89e3\u706b\u661f\u7684\u5730\u8cea\u69cb\u9020\u548c\u898f\u5283\u672a\u4f86\u7684\u706b\u661f\u4efb\u52d9\u81f3\u95dc\u91cd\u8981\u3002",
+      "date": "2023-10-20"
     },
-    "a4a7a9d637e0a2df9be7be622484306b": {
-      "link": "https://www.inside.com.tw/article/24798-17-live-announces-transformation-today",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/5rffnkru5r3mdwc11fvd5ol81e40bs.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "17 LIVE \u672c\u6b21\u54c1\u724c\u91cd\u5851\u5305\u62ec\u5168\u7403\u54c1\u724c\u540d\u7a31\u7d71\u4e00\u3001\u5168\u65b0\u4f01\u696d Logo\u3001\u96c6\u5718\u9858\u666f\u8207\u54c1\u724c\u4f7f\u547d\u7b49\u3002",
-      "date": "2021-09-10"
+    "ba37f5d5008ced38b901f574b391d8f5": {
+      "link": "https://www.inside.com.tw/article/33106-us-marines-test-fire-robot-dog-armed-with-rocket-launcher",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/b81ffc36-99d7-4aa2-a745-c764b515eef0.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u6709\u8da3\u7684\u662f\uff0c\u7f8e\u570b\u6d77\u8ecd\u9678\u6230\u968a\u4e0d\u628a\u5b83\u53eb\u6a5f\u5668\u72d7\uff0c\u800c\u662f\u53eb\u6210\u300c\u6a5f\u5668\u5c71\u7f8a\u300d\uff08robotic goat\uff09\uff0c\u66f4\u8b93\u4eba\u5403\u9a5a\u7684\u662f\uff0c\u5f9e\u5916\u89c0\u7279\u5fb5\u770b\u8d77\u4f86\uff0c\u9019\u53f0\u6a5f\u5668\u5c71\u7f8a\u975e\u5e38\u53ef\u80fd\u662f\u4e2d\u570b\u88fd\u9020\u3002",
+      "date": "2023-10-20"
     },
-    "40ffca194f13d97abd11c7abb5dbf57c": {
-      "link": "https://www.inside.com.tw/feature/yahoo-2021-dsp-summit/24620-yahoo-2021-dsp-summit",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/r5qazo64x77dqsgjzkmeid6dxsres5.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u5f9e\u65e9\u671f\u7684\u975c\u614b\u6a6b\u5e45\u5ee3\u544a\u5230\u6700\u8fd1\u7684\u5275\u65b0\u5ee3\u544a\uff0c\u6578\u4f4d\u884c\u92b7\u7684\u5275\u610f\u8a2d\u8a08\u5df2\u7d93\u8d70\u904e\u4e00\u689d\u6f2b\u9577\u7684\u9053\u8def\uff0c\u5ee3\u544a\u4e3b\u4e5f\u5fc5\u9808\u96a8\u4e4b\u8abf\u6574\u7b56\u7565\uff0c\u56e0\u61c9\u5feb\u901f\u6f14\u8b8a\u7684\u5ee3\u544a\u683c\u5f0f\uff0c\u4ee5\u53d6\u5f97\u8207\u6d88\u8cbb\u8005\u4fdd\u6301\u7dca\u5bc6\u806f\u7e6b\u7684\u6a5f\u6703\u3002",
-      "date": "2021-08-27"
+    "7b035b4c1280cf56fdc5fb4f9af40d8b": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/32993-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/35d182b3-dab2-480e-aebe-0e42698ff2be.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u96fb\u5f71\u88fd\u7247\u9673\u74bd\u6587\u5f9e\u7fa9\u5927\u5229\u4f86\u5230\u81fa\u7063\uff0c\u5f9e\u5b64\u8eab\u505a\u8d77\uff0c\u5230\u5982\u4eca\u7684\u898f\u6a21\uff0c\u5408\u4f5c\u904e\u7684\u5c0d\u8c61\u5f9e\u6b50\u7f8e\u7b49\u5230\u6771\u5357\u4e9e\u5404\u570b\uff0c\u66f4\u5fa9\u518d\u5230\u97d3\u570b\u8207\u65af\u6d1b\u4f10\u514b\uff0c\u300c\u6211\u958b\u59cb\u8a66\u8457\u5f9e\u524d\u671f\u5c31\u52a0\u5165\u6545\u4e8b\u7684\u767c\u60f3\uff0c\u627e\u5230\u9069\u5408\u6545\u4e8b\u7684\u8cc7\u91d1\uff0c\u8a66\u5716\u627e\u5230\u5b83\u8cbc\u8fd1\u89c0\u773e\u7684\u65b9\u6cd5\u3002\u7fa9\u5927\u5229\u5b78\u5230\u7684\u5275\u610f\u88fd\u7247\u8ddf\u7576\u6642\u81fa\u7063\u8a8d\u77e5\u300e\u88fd\u7247\u5c31\u53ea\u662f\u7ba1\u9322\u300f\uff0c\u4e0d\u4e00\u6a23\u3002\u300d",
+      "date": "2023-10-14"
     },
-    "d03cc8818ec774f71fbc3ccfcc241f7e": {
-      "link": "https://www.inside.com.tw/article/24797-toyota-akio-toyoda-criticize-the-japanese-government-energy-policy",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/93uniku0baoqcdowe9qwbkm4pefxjq.JPG?fit=crop&h=209&q=80&w=400",
-      "title": "\u8c50\u7530\u8868\u793a\uff0c\u5982\u679c\u653f\u5e9c\u7684\u74b0\u5883\u76ee\u6a19\u3001\u80fd\u6e90\u653f\u7b56\u7b49\u4e0d\u5207\u5be6\u969b\uff0c\u65e5\u672c\u6c7d\u8eca\u7522\u696d 550 \u842c\u4eba\u5f88\u53ef\u80fd\u5927\u534a\u6703\u5931\u696d\u3002",
-      "date": "2021-09-10"
+    "24746b1830202d97651fadce7e2527a8": {
+      "link": "https://www.inside.com.tw/article/33103-toyota-lexus-tesla-nacs-supercharger-electric-vehicle-charging-2025",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/3d784f80-1857-422a-a703-31264a7c57d7.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "TOYOTA \u548c Lexus 2025 \u8d77\u958b\u59cb\u5728\u300c\u90e8\u5206\u8eca\u6b3e\u300d\u63a1\u7528 NACS\uff0c\u9084\u6703\u70ba\u73fe\u6709\u6216\u9019\u5169\u5e74\u5167\u5373\u5c07\u63a8\u51fa\u7684\u96fb\u52d5\u8eca\u63d0\u4f9b\u8f49\u63a5\u5668\uff0c\u8b93\u4ed6\u5011\u652f\u63f4\u5317\u7f8e\u7684\u7279\u65af\u62c9\u8d85\u7d1a\u5145\u96fb\u7ad9\u3002",
+      "date": "2023-10-20"
     },
-    "9acc7868c54fc0eec24d0c4922f595e6": {
-      "link": "https://www.inside.com.tw/article/24796-irobot-roomba-ai-dog-poop-avoidance-j7-specs-price",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/1104ffyrpqgwsimvshqqgg7zh7wfxj.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u5b98\u65b9\u627f\u8afe\u300c\u4e00\u5e74\u4fdd\u56fa\u300d\uff0c\u5982\u679c\u8cb7\u4e86 Roomba j7+ \u4e00\u5e74\u5167\u9084\u662f\u4e0d\u5c0f\u5fc3\u300c\u6383\u5230\u300d\u5bf5\u7269\u5927\u4fbf\uff0c\u53ef\u514d\u8cbb\u66f4\u63db\u4e00\u53f0\u3002",
-      "date": "2021-09-10"
+    "50c79905ded3abb272aceab11c79581d": {
+      "link": "https://www.inside.com.tw/article/33102-llm-apllications",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/fec82184-1588-40aa-9cf6-e70908f6eb53.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5f9e ChatGPT \u9ede\u71c3\u71b1\u6f6e\u4ee5\u4f86\uff0c\u5927\u578b\u8a9e\u8a00\u6a21\u578b (LLM) \u6210\u70ba\u8fd1\u534a\u5e74\u4f86\u7522\u696d\u71b1\u9580\u8a71\u984c\uff0c\u5177\u6709\u5ee3\u6cdb\u61c9\u7528\u3001\u91cd\u5851\u7522\u696d\u6a23\u8c8c\u7684\u80fd\u529b\u3002\u4f46\u662f\u8981\u5f9e\u4f55\u4e0b\u624b\u5207\u5165\u61c9\u7528\uff1f\u672c\u6587\u63d0\u4f9b\u4e00\u4e9b\u65b9\u5411\u53ef\u4ee5\u601d\u8003\u3002",
+      "date": "2023-10-19"
     },
-    "622185df2333b02844b8dc49792d9d30": {
-      "link": "https://www.inside.com.tw/article/24596-sandy-hyslop",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/ilzys9zr804sz5hkpx4kn5qm0wvd0l.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u7576\u611f\u6027\u7684\u5473\u89ba\u9047\u4e0a\u7406\u6027\u7684\u5206\u6790\uff0c\u4e00\u74f6\u5a01\u58eb\u5fcc\u53ef\u4ee5\u6210\u70ba\u5404\u7a2e\u300c\u6578\u5b57\u300d\u7684\u7e3d\u548c\uff0c\u4e26\u5728\u4e0d\u540c\u7684\u5473\u857e\u4e0a\u5316\u4f5c\u7121\u6cd5\u91cf\u5316\u7684\u611f\u52d5\u3002\u5de5\u7a0b\u80cc\u666f\u51fa\u8eab\u7684\u9673\u5efa\u9298\u8207\u90b1\u5fb7\u592b\uff0c\u4e00\u540c\u8d70\u5230\u4e86\u5a01\u58eb\u5fcc\u9152\u5f92\u4e4b\u8def\uff0c\u4ee5\u5de6\u8166\u7684\u7406\u6027\u601d\u7dad\u6d1e\u5bdf\u597d\u9152\uff0c\u727d\u52d5\u53f3\u8166\u7121\u9650\u5275\u601d\u3002",
-      "date": "2021-08-27"
+    "9684ad04fd7fb77be84e123a5f9dd8a9": {
+      "link": "https://www.inside.com.tw/article/33020-kbro",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/45fcde59-703c-46ab-80af-24e7e84e9a4a.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5728\u6311\u9078\u5bb6\u4e2d\u5bec\u983b\u7db2\u8def\u6642\uff0c\u591a\u6578\u4eba\u6703\u9677\u5165\u300c\u5c0d\u7a31\u983b\u5bec\u300d\u7684\u8ff7\u601d\u8a8d\u70ba\u4e0a\u50b3\u8207\u4e0b\u8f09\u7684\u901f\u7387\u5169\u8005\u8d8a\u9ad8\u8d8a\u597d\uff0c\u4f46\u5176\u5be6\u4e26\u975e\u5982\u6b64\uff0c\u6839\u64da\u76ee\u524d\u5927\u90e8\u5206\u6d88\u8cbb\u8005\u4e0a\u7db2\u7fd2\u6163\u4f86\u8aaa\uff0c\u53cd\u800c\u66f4\u61c9\u8a72\u95dc\u6ce8\u65bc\u4e0b\u8f09\u983b\u5bec\u901f\u5ea6\u4ee5\u53caWi-Fi\u6db5\u84cb\u7387\uff0c\u624d\u80fd\u9054\u5230\u6700\u4f73\u7684\u4e0a\u7db2\u9ad4\u9a57\uff01",
+      "date": "2023-10-13"
     },
-    "2f103fa963a25c25cc0301ebbc1fc1a3": {
-      "link": "https://www.inside.com.tw/article/24795-twitter-automated-account-bot",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/mqzdaxp0cxo2avrzs7i6gmkx4qm6g1.JPG?fit=crop&h=209&q=80&w=400",
-      "title": "\u63a8\u7279\u65b0\u958b\u767c\u6e2c\u8a66\u7684\u300c\u6a5f\u5668\u4eba\u5e33\u6236\u300d\u529f\u80fd\uff0c\u6709\u7a2e\u7db2\u8def\u5be6\u540d\u5236\u7684\u610f\u5473\u5b58\u5728\u3002",
-      "date": "2021-09-10"
+    "40f58795d98969b0faefcf62da537e64": {
+      "link": "https://www.inside.com.tw/article/33101-nokia-cut-up-to-14000-jobs",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/e05fea27-34f9-43b6-81e0-31e84e67b6b7.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7531\u65bc\u6b50\u6d32\u5c0d\u4e0b\u4e00\u4ee3 5G \u8a2d\u5099\u7684\u6295\u8cc7\u6e1b\u5c11\uff0c\u516c\u53f8\u9810\u8a08\u5728\u65b0\u7684\u6210\u672c\u524a\u6e1b\u8a08\u756b\u4e2d\uff0c\u88c1\u54e1 1.4 \u842c\u4eba",
+      "date": "2023-10-19"
     },
-    "d4974dd66c5991f27d26d12a11f56e2f": {
-      "link": "https://www.inside.com.tw/article/24793-im-a-lyft-driver-my-passengers-act-like-im-part-of-the-app",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/6dpebe38le3pv2xy64ikqy7ialocez.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u53ea\u8981\u4e58\u5ba2\u4e0a\u4e86\u8eca\uff0c\u6211\u5c31\u89ba\u5f97\u5728\u624b\u63e1\u65b9\u5411\u76e4\u7684\u6211\u597d\u50cf\u6d88\u5931\u4e86\u3002",
-      "date": "2021-09-10"
+    "9a46b38074eb87c2a2c05219933f5a24": {
+      "link": "https://www.inside.com.tw/article/33098-music-publishers-sue-ai-company-anthropic",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/091b3c67-7f48-4e56-8c7d-79090e4e4efd.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u51fa\u7248\u5546\u6307\u51fa\uff0cClaude \u804a\u5929\u6a5f\u5668\u4eba\u672a\u7d93\u8a31\u53ef\u5c31\u64c5\u81ea\u5927\u91cf\u6293\u53d6\u6b4c\u8a5e\uff0c\u88fd\u4f5c\u5e7e\u4e4e\u76f8\u540c\u7684\u8907\u88fd\u54c1\uff0c\u300c\u5b83\u6703\u4ee5\u5e7e\u4e4e\u9010\u5b57\u8907\u88fd\u7684\u6b4c\u8a5e\u4f5c\u70ba\u56de\u61c9\u3002\u300d",
+      "date": "2023-10-19"
     },
-    "15a56912236c4ce24283d48884ca1f5b": {
-      "link": "https://www.inside.com.tw/feature/5g-jump/24598-5g-jump-community",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/g1mp26qs7k1f8sxdamzbzxb18t6q71.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u770b\u4e0d\u51fa\u5e06\u8239\u8cfd\u4e8b\u7684\u6fc0\u70c8\u7af6\u722d\u3001\u7121\u6cd5\u7b2c\u4e00\u6642\u9593\u770b\u51fa\u5c0f\u767d\u7403\u98db\u5411\u4f55\u65b9\u22ef\u904e\u53bb\u89c0\u8cde\u904b\u52d5\u8cfd\u4e8b\u7684\u75db\u9ede\uff0c\u90fd\u5728\u9019\u6b21 2020 \u6771\u4eac\u5967\u904b\u8fce\u5203\u800c\u89e3\uff0c\u9019\u80cc\u5f8c\u95dc\u9375\u8f49\u6369\u9ede\uff0c\u6b63\u662f 5G \u5546\u696d\u61c9\u7528\uff01",
-      "date": "2021-08-26"
+    "5f013d1e61728cc7168debd91b0e48fc": {
+      "link": "https://www.inside.com.tw/article/33030-Microsoft-AI",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/9de87c62-517f-4aeb-ac03-69f52099cd50.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4eca\u5e74 10 \u6708 17 \u65e5\uff0c\u5fae\u8edf\u5c07\u8209\u8fa6\u514d\u8cbb\u8ab2\u7a0b\u300cAI \u79d1\u666e\uff1a\u638c\u63e1\u751f\u6210\u5f0f AI \u7684\u5f37\u5927\u529b\u91cf\u300d\uff0c\u6b61\u8fce\u5c0d\u6700\u65b0 AI \u767c\u5c55\u3001\u672a\u4f86\u8077\u5834\u8da8\u52e2\u611f\u8208\u8da3\u7684\u60a8\u5831\u540d\u53c3\u8207\uff0c\u4e00\u540c\u7406\u89e3\u5982\u4f55\u638c\u63e1 AI \u4e26\u4e86\u89e3\u66f4\u591a\u7684\u61c9\u7528\u53ef\u80fd\u3002",
+      "date": "2023-10-12"
     },
-    "9909993abf4d7c5ee5ca7fbf5915b2c6": {
-      "link": "https://www.inside.com.tw/article/24794-youtuber-imserious",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/cwykuj46b2v8zi8ucu7o7ax9u1h7ig.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u300a\u8d85\u8a8d\u771f\u5c11\u5e74\u300b\u983b\u9053\u5206\u4eab\u5c08\u696d\u5de5\u696d\u6559\u5b78\u5f71\u7247\uff0c\u8b93\u66f4\u591a\u4eba\u4e86\u89e3\u4e26\u5c0a\u91cd\u5de5\u696d\uff0c\u985b\u8986\u5927\u773e\u5c0d\u505a\u5de5\u7684\u4eba\u523b\u677f\u5370\u8c61\uff0c\u5c08\u8a2a\u8d85\u7d1a\u659c\u69d3\u8077\u4eba\u963f\u4ed4\u5e2b\u3002",
-      "date": "2021-09-10"
+    "96d11451b4595eca14487638b244478c": {
+      "link": "https://www.inside.com.tw/article/33100-tsmc-q3-2023",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/b55ca25d-8a1b-4054-8c59-fdc6818aab8c.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7b2c\u4e09\u5b63 3 \u5948\u7c73\u88fd\u7a0b\u51fa\u8ca8\u4f54\u6676\u5713\u92b7\u552e\u91d1\u984d\u7684 6%\u30015 \u5948\u7c73\u5247\u4f54 37%\u30017 \u5948\u7c73\u4f54 16%\uff0c\u7d04\u4f54\u5168\u5b63\u6676\u5713\u92b7\u552e\u91d1\u984d\u7684 59%\u3002",
+      "date": "2023-10-19"
     },
-    "45ba05a6dd69a50570b25c5bf48ab3c0": {
-      "link": "https://www.inside.com.tw/article/24790-iphone-13-rumor-makes-globalstar-stock-soars",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/65adk2ehtp0c17n1uk1fektio9d9go.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u63a8\u7279\u6d41\u50b3\u6587\u4ef6\u6307 Globalstar \u7372 FCC\u6388\u6b0a\uff0ciPhone 13 \u652f\u63f4\u885b\u661f\u901a\u8a0a\u529f\u80fd\u7684\u8b20\u8a00\u53c8\u8d77\u6fc0\u52f5\u3002",
-      "date": "2021-09-10"
+    "ed4fba3a7d44a6b89b9ee2be4d830359": {
+      "link": "https://www.inside.com.tw/article/33099-china-belt-and-road-forom",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/JIP5E2grTmD00ios78GsrKo1iUSVt2rNVaUYqAst.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4e2d\u570b\u570b\u5bb6\u4e3b\u5e2d\u7fd2\u8fd1\u5e73\u5ba3\u5e03\u5168\u9762\u53d6\u6d88\u88fd\u9020\u696d\u9818\u57df\u7684\u5916\u8cc7\u51c6\u5165\u9650\u5236\u63aa\u65bd\uff0c\u9019\u4e00\u8209\u63aa\u986f\u793a\u4e86\u4e2d\u570b\u5c0d\u5916\u958b\u653e\u7684\u614b\u5ea6\u548c\u6c7a\u5fc3\uff0c\u4e26\u6709\u5229\u65bc\u63a8\u52d5\u4e2d\u570b\u5f9e\u88fd\u9020\u696d\u5927\u570b\u8d70\u5411\u88fd\u9020\u696d\u5f37\u570b\u3002",
+      "date": "2023-10-19"
     },
-    "32fe41001d3be66c7d062a3b449e962b": {
-      "link": "https://www.inside.com.tw/feature/digi-plus/24626-digi-plus-5g",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/wcce1hb6izq5ww2rge39ks0uf85z8b.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "2020 \u6771\u4eac\u5967\u904b\u958b\u5e55\u5f0f\u4e0a\uff0c\u903e 1 \u5343 8 \u767e\u67b6\u7121\u4eba\u6a5f\u7684\u5347\u7a7a\uff0c\u7d44\u6210\u300c\u5730\u7403\u300d\u6a21\u6a23\u7167\u4eae\u9ed1\u591c\uff1b\u4e00\u53f0\u53f0\u7121\u4eba\u8eca\u99db\u9032\u9078\u624b\u6751\uff0c\u8ca0\u8cac\u4eba\u54e1\u8f09\u9001\uff1b\u518d\u5230\u53f0\u7063\u5bb6\u6236\u4e2d\uff0c\u4f7f\u7528 8K \u756b\u8cea\u96f6\u6642\u5dee\u5730\u6536\u770b\u8cfd\u4e8b\u22ef\u22ef\u9019\u4e9b\u5275\u65b0\u79d1\u6280\u7684\u9ad4\u9a57\u6df1\u5165\u751f\u6d3b\uff0c\u7686\u662f 5G \u61c9\u7528\u7684\u9b54\u529b\uff01",
-      "date": "2021-08-26"
+    "edaa7403adb40ee0ceb7c336f72503ed": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/32995-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/8deca6c6-c5ae-4f04-92fa-b0abbb15195f.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4f86\u81ea\u7f8e\u570b\u7684\u90ed\u6587\u6cf0\uff0c\u539f\u5728\u7f8e\u570b\u897f\u5317\u5927\u5b78\u653b\u8b80\u535a\u58eb\uff0c\u4ee5\u81fa\u7063\u5c0f\u5287\u5834\u70ba\u7814\u7a76\u5c0d\u8c61\uff0c1992 \u5e74\u4f86\u81fa\u5b78\u7fd2\u570b\u5287\u5f8c\uff0c\u6df1\u53d7\u81fa\u7063\u85dd\u8853\u74b0\u5883\u7684\u8c50\u5bcc\u6027\u5438\u5f15\uff0c\u9577\u5e74\u904a\u8d70\u65bc\u81fa\u7f8e\u5169\u5730\uff0c\u4e26\u5728 1998 \u5e74\u5275\u7acb\u6cb3\u5e8a\u5287\u5718\uff0c\u64d4\u4efb\u5287\u5718\u85dd\u8853\u7e3d\u76e3\u53ca\u5c0e\u6f14\uff0c\u4ee5\u300c\u610f\u8c61\u5287\u5834\u300d\u7406\u5ff5\u5805\u6301\u70ba\u89c0\u773e\u5275\u9020\u975e\u65e5\u5e38\u7684\u9ad4\u9a57\uff0c\u5275\u4f5c\u624b\u6cd5\u6a6b\u8de8\u5287\u5834\u85dd\u8853\u3001\u8eab\u9ad4\u8868\u6f14\u3001\u8996\u89ba\u85dd\u8853\u7b49\u9818\u57df\u3002",
+      "date": "2023-10-12"
     },
-    "98153020d63d3c90cc3b8741e4b6b286": {
-      "link": "https://www.inside.com.tw/article/24789-vis-tc-earnings-2021-aug",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/i39uee79mucisbzpoukm272w76ym4f.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u4e16\u754c\u5148\u9032\u9810\u671f\u4eca\u5e74\u5168\u5e74\u90fd\u5c07\u7dad\u6301\u76f8\u7576\u9ad8\u7684\u7522\u80fd\u5229\u7528\u7387\u3002",
-      "date": "2021-09-10"
+    "cd3e67fd90c5f1377c25e4b42f395744": {
+      "link": "https://www.inside.com.tw/article/10162-the-guy-who-invented-those-annoying-password-rules-now-regrets-wasting-your-time",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/f8a2d291-bacc-494f-8db5-993595fc7877.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u76f8\u4fe1\u5927\u5bb6\u90fd\u5fc3\u6709\u621a\u621a\u7109\uff0c\u6bcf\u6b21\u78b0\u5230\u9019\u4e9b\u843d\u843d\u9577\u7684\u8981\u6c42\uff0c\u5fc3\u88e1\u5c31\u6709\u5e95\uff0c\u9019\u7d44\u5bc6\u78bc\u9632\u6b62\u81ea\u5df1\u767b\u5165\u7684\u6b21\u6578\u5c07\u6bd4\u9632\u6b62\u88ab\u76dc\u7684\u6b21\u6578\u9084\u4f86\u5f97\u591a\u3002",
+      "date": "2023-10-19"
     },
-    "948c09002f73c6290378e11e4c1e2e15": {
-      "link": "https://www.inside.com.tw/article/24791-apple-watch-kevin-lync-take-over-project-titan",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/pmk4odfkknpiyacv7ibntplj97un2i.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u860b\u679c\u96fb\u52d5\u8eca\u7684\u958b\u767c\u9032\u5c55\uff0c\u4f3c\u4e4e\u9084\u6709\u5f88\u9577\u4e00\u6bb5\u8def\u8981\u6478\u7d22\u524d\u9032\uff0c\u4f46\u5982\u4f55\u9762\u5c0d\u5e02\u5834\u8ddf\u6295\u8cc7\u4eba\u6216\u8a31\u662f\u7b2c\u4e00\u9053\u8981\u7169\u60f1\u7684\u8ab2\u984c\u3002",
-      "date": "2021-09-10"
+    "fadaf0cd3a5f598e3374c0862fc73f68": {
+      "link": "https://www.inside.com.tw/article/33097-popchill-pre-a-plus",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/321634ac-8d15-49a8-a423-9f3fcf6d1125.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7531\u9023\u7e8c\u5275\u696d\u5bb6\u90ed\u5bb6\u9f4a\u3001\u5ed6\u5bb6\u6b23\u5171\u540c\u5275\u8fa6\u7684\u6642\u5c1a\u8f49\u552e\u5e73\u53f0 PopChill\uff08\u62cd\u62cd\u5708\u79d1\u6280\uff09\u5ba3\u5e03\u5b8c\u6210 Pre-A+ \u52df\u8cc7\uff0c\u7e3d\u5171\u7372\u5f97 5700 \u842c\u53f0\u5e63\u6295\u8cc7\u984d\uff0c\u52a0\u4e0a\u5e74\u521d\u7684 Pre-A \u5c31\u6709 1.57 \u5104\u4e86\uff01",
+      "date": "2023-10-19"
     },
-    "19ff8c5053f8a7ae6167eb99a6cbf8e8": {
-      "link": "https://www.inside.com.tw/feature/yahoo-2021-dsp-summit/24595-yahoo-dsp-ctv-2021",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/nqoksfbf3o2ghribi5r6vzw228lb99.png?fit=crop&h=209&q=80&w=400",
-      "title": "CTV \u5ee3\u544a\u7d50\u5408\u50b3\u7d71\u96fb\u8996\u548c\u6578\u4f4d\u5ee3\u544a\u7684\u512a\u9ede\uff0c\u53ef\u8996\u7387\u3001 VTR \u5b8c\u6574\u89c0\u770b\u7387\u5927\u5e45\u63d0\u5347\uff0c\u66f4\u56e0\u70ba\u6709\u6578\u4f4d\u5ee3\u544a\u7684\u6280\u8853\uff0c\u6240\u4ee5\u53ef\u4ee5\u91dd\u5c0d\u53d7\u773e\u505a\u7cbe\u6e96\u7684\u5ee3\u544a\u6295\u653e\uff0c\u540c\u6642\u4e5f\u53ef\u4ee5\u8de8\u8f09\u5177\u3001\u518d\u884c\u92b7\u3002",
-      "date": "2021-08-25"
+    "63547ca1ee21c2872afa95e7549a2d80": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/32994-",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/76ac838d-8e23-46aa-b8f1-b76823b32b50.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u300c\u4f5c\u70ba\u4e00\u500b\u7d00\u9304\u7247\u5de5\u4f5c\u8005\uff0c\u6211\u53ea\u662f\u5f88\u5b89\u5206\u5730\u628a\u4f5c\u54c1\u5448\u73fe\u597d\uff0c\u5f9e\u6c92\u60f3\u904e\u53c3\u5c55\u3001\u5f97\u734e\uff0c\u6216\u8005\u89c0\u773e\u5f9e\u6211\u4f5c\u54c1\u5f97\u5230\u4ec0\u9ebc\u3002\u300d\u8aaa\u51fa\u6b64\u8a71\u6642\uff0c\u76e7\u76c8\u826f\u57f7\u5c0e\u7684\u300a\u795e\u4eba\u4e4b\u5bb6\u300b\u5df2\u5728\u90a3\u5e74\u7684\u81fa\u5317\u96fb\u5f71\u734e\u4e00\u53e3\u6c23\u6458\u4e0b\u767e\u842c\u9996\u734e\u3001\u6700\u4f73\u7d00\u9304\u7247\u3001\u526a\u8f2f\u8207\u89c0\u773e\u7968\u9078\u734e\uff0c\u662f\u5be6\u81f3\u540d\u6b78\u7684\u5927\u8d0f\u5bb6\u3002",
+      "date": "2023-10-12"
     },
-    "5cca729583cddd4e24848878adbb9259": {
-      "link": "https://www.inside.com.tw/article/24792-ray-ban-and-facebook-announces-smart-glasses-ray-ban-stories",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/ko12b4lsc9lb9y0s8ud7s2naa7osxk.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u540c\u6642\u80fd\u7d50\u5408\u773c\u93e1\u672c\u8eab\u5177\u5099\u901a\u8a71\u8207\u8072\u97f3\u64ad\u653e\u529f\u80fd\u6253\u9020\u4e0d\u540c\u9ad4\u9a57\u3002",
-      "date": "2021-09-10"
+    "9e1d0dc99603af1c7383fe1246845ac2": {
+      "link": "https://www.inside.com.tw/article/33096-biden-cut-china-off-more-nvidia-chips-expand-curbs-more-countries",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/2bf148fb-698c-4b3b-89d0-5c3e5ab8e8c8.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7f8e\u570b\u653f\u5e9c\u6700\u65b0\u9650\u5236\u63aa\u65bd\u6709\u54ea\u4e9b\uff1f\u672c\u6587\u5f9e\u6676\u7247\u7d0d\u7ba1\u7bc4\u570d\u3001\u5c0f\u6676\u7247\u6f0f\u6d1e\u3001\u8f1d\u9054\u7684\u4e2d\u570b\u6311\u6230\u8005\u5404\u65b9\u9762\u4e00\u6b21\u7d71\u6574\u3002",
+      "date": "2023-10-19"
     },
-    "4083ee029d5053a59ee97047e32441bf": {
-      "link": "https://www.inside.com.tw/article/24786-facebook-and-media",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/tnbxhbpcwr81u3y08mlfbl6gu45kbw.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "Facebook \u4e9e\u592a\u5340\u65b0\u805e\u5408\u4f5c\u5925\u4f34\u95dc\u4fc2\u7e3d\u76e3 Anjali Kapoor \u5728\u9019\u7bc7\u6587\u4e2d\uff0c\u6574\u7406\u4e86\u4e09\u5927\u95dc\u9375\uff0c\u5305\u62ec\u52a0\u901f\u6578\u4f4d\u8f49\u578b\uff0c\u958b\u5275\u4e0d\u540c\u7684\u71df\u6536\u4f86\u6e90\uff0c\u4ee5\u53ca\u5275\u9020\u66f4\u591a\u512a\u8cea\u7684\u65b0\u805e\u5167\u5bb9\uff0c\u4e00\u8d77\u4f86\u63a2\u8a0e\u5a92\u9ad4\u696d\u5982\u4f55\u61c9\u5c0d\u591a\u8b8a\u7684\u672a\u4f86\u3002",
-      "date": "2021-09-09"
+    "6027a6b1e3f43cc0c01458ba7b38e043": {
+      "link": "https://www.inside.com.tw/feature/side-chat/33095-side-chat-e180",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/2bb2fad0-7187-4b44-acd4-6abef2592743.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u8fd1\u65e5\u9ec3\u4ec1\u52f3\u51fa\u5e2d\u9d3b\u6d77\u79d1\u6280\u65e5\u5099\u53d7\u95dc\u6ce8\uff0c\u6211\u5011\u5c07\u6df1\u5165\u5206\u6790\u9ec3\u4ec1\u52f3\u8207\u9d3b\u6d77\u9084\u6709\u4ec0\u9ebc\u5408\u4f5c\u7684\u53ef\u80fd\u6027\u3002\u63a5\u8457\uff0c\u56e0\u70ba\u4e00\u7bc7\u5831\u5c0e\u8b93\u6bd4\u7279\u5e63\u50f9\u683c\u77ed\u6642\u9593\u66b4\u6f32\u53c8\u6025\u907d\u4e0b\u8dcc\uff0c\u63a2\u8a0e\u5e63\u5708\u672a\u4f86\u53ef\u80fd\u7684\u8da8\u52e2\u8d70\u5411\u3002\u6700\u5f8c\u6211\u5011\u8a0e\u8ad6\uff0cSam Altman \u63d0\u5230 OpenAI \u7684\u71df\u6536\u5c07\u5275\u4e0b\u65b0\u9ad8\u5cf0\uff0c\u9019\u4e00\u4e8b\u4ef6\u53c8\u6703\u5982\u4f55\u5f71\u97ff\u5e02\u5834\u8da8\u52e2\u3002",
+      "date": "2023-10-19"
     },
-    "01bd9b265d09703404bd62636af29e70": {
-      "link": "https://www.inside.com.tw/article/24549-cathay-financial-holdings",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/fqy6gj7cedxpwpr1q1dxh3x7i43evr.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "CaaS\u570b\u6cf0\u751f\u614b\u5708\u670d\u52d9\u5e73\u53f0\uff0c\u5982\u540c\u4e00\u500b\u91d1\u878d\u670d\u52d9\u7684\u8a31\u9858\u6c60\uff0c\u63d0\u4f9b\u4e0d\u540c\u5834\u666f\u91d1\u878d\u7684\u670d\u52d9\u9700\u6c42\uff0c\u65bc\u6b64\u900f\u904e\u55ae\u4e00\u7a97\u53e3\u4ee5\u53ca\u5c08\u8cac\u71df\u904b\u5718\u968a\uff0c\u7dda\u4e0a\u7dda\u4e0b\u4e00\u7ad9\u89e3\u6c7a\u3002",
-      "date": "2021-08-24"
+    "ee51fecf84ef058f2364d5a8de559c42": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/33070-7428f198",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/1adbb819-c16e-4f72-9d37-59690c8175d3.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u300c\u53db\u9006\u3001\u878d\u5165\u793e\u6703\u5931\u6557\uff0c\u662f\u5275\u4f5c\u8005\u7684\u7279\u8cea\u3002\u300d\u5927\u75ab\u5e74\u4ee3\uff0c\u9694\u8457\u4e00\u65b9\u7a97\u6846\uff0c\u5433\u66c9\u6a02\u5728\u87a2\u5e55\u5f7c\u5cb8\uff0c\u5206\u4eab\u8457\u5979\u7684\u6d1e\u5bdf\u3002\u5f9e\u8457\u4f5c\u300a\u4f60\u7684\u5b69\u5b50\u4e0d\u662f\u4f60\u7684\u5b69\u5b50\u300b\u8ac7\u8ad6\u5347\u5b78\u4e3b\u7fa9\u4e0b\u7684\u89aa\u5b50\u95dc\u4fc2\uff0c\u300a\u4e0a\u6d41\u5152\u7ae5\u300b\u9053\u51fa\u4e0a\u6d41\u793e\u6703\u7684\u7578\u5f62\u4eba\u969b\uff0c\u300a\u81f4\u547d\u767b\u5165\u300b\u8ac7\u7db2\u8def\u904a\u6232\u7b49\uff0c\u6bcf\u6b21\u51fa\u624b\uff0c\u7e3d\u80fd\u5f15\u9818\u8b80\u8005\u91cd\u65b0\u601d\u7d22\u5468\u8eab\u90a3\u4e9b\u56e0\u7fd2\u6163\u800c\u5ffd\u7565\u7684\u6846\u67b6\u3002\u9019\u6216\u8a31\u53ef\u4ee5\u6b78\u56e0\u65bc\u5275\u4f5c\u8005\u7684\u7279\u8cea\uff0c\u6c38\u9060\u7ad9\u5728\u793e\u6703\u7684\u5cb8\u908a\uff0c\u5ba2\u89c0\u800c\u6e05\u695a\u5730\u51dd\u8996\u3002",
+      "date": "2023-10-12"
     },
-    "0b4168c3b5db42cd74cfa311ce5317fb": {
-      "link": "https://www.inside.com.tw/article/24787-nasa-james-webb-space-telescope",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/uemgsru2mqi6nnfig5yqf8s1rrz91l.JPG?fit=crop&h=209&q=80&w=400",
-      "title": "\u64f1\u7f6e\u5df2\u4e45\u7684\u535a\u97cb\u4f2f\u671b\u9060\u93e1\u7d42\u65bc\u8981\u5728\u5e74\u5e95\u524d\u5f80\u592a\u7a7a\u57f7\u884c\u4efb\u52d9\u4e86\u55ce\uff1f\u9019\u6b21\u7684\u592a\u7a7a\u4efb\u52d9\u5c07\u7531 NASA \u8207\u591a\u5bb6\u822a\u7a7a\u5c40\u651c\u624b\u7b56\u5283\u3002",
-      "date": "2021-09-09"
+    "435130451c8d4aee0e50a47753d6a713": {
+      "link": "https://www.inside.com.tw/article/33093-netflix-raise-subscription-prices",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/lgVYUOT9FmkePblvNxa276wQGmZYnqe0Lgqhi0fA.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "Netflix \u5ba3\u5e03\u5c07\u518d\u6b21\u8abf\u6f32\u8a02\u95b1\u6536\u8cbb\u50f9\u683c\uff0c\u5305\u542b\u7f8e\u570b\u3001\u82f1\u570b\u53ca\u6b50\u6d32\u5e02\u5834\u7684\u57fa\u672c\u8207\u9ad8\u7d1a\u8a02\u95b1\u65b9\u6848\u90fd\u6703\u6709\u5fae\u5e45\u8abf\u6f32\u3002\u6b64\u6b21\u8abf\u6574\u4e3b\u8981\u662f\u56e0\u61c9\u5167\u5bb9\u88fd\u4f5c\u6210\u672c\u7b49\u9700\u6c42\u3002Netflix \u5f37\u8abf\u7576\u524d\u8a02\u95b1\u65b9\u6848\u50f9\u5b9a\u50f9\u4ecd\u6bd4\u5176\u4ed6\u4e32\u6d41\u5f71\u97f3\u670d\u52d9\u5177\u7af6\u722d\u529b\u3002",
+      "date": "2023-10-19"
     },
-    "367603456e0202f0da58cc524dab5d19": {
-      "link": "https://www.inside.com.tw/article/24783-taiwan-and-arm-startup-ic-design-platform",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/vkvwrlmsszumgr98042bph7t8s3syn.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u5de5\u7814\u9662\uff1a\u5e0c\u671b\u900f\u904e Arm \u5168\u7403\u751f\u614b\u7cfb\u8d85\u904e 1000 \u5bb6\u6280\u8853\u5408\u4f5c\u5925\u4f34\u7684\u93c8\u7d50\uff0c\u9010\u6b65\u63a8\u52d5\u53f0\u7063\u6210\u70ba\u4e9e\u592a\u534a\u5c0e\u9ad4\u751f\u614b\u7cfb\u4e2d\u5fc3\u3002",
-      "date": "2021-09-09"
+    "bf3d870f3e19ffac9fd1c3cd3c99bd3c": {
+      "link": "https://www.inside.com.tw/article/33094-blue-origin-unveils-space-mobility-platform-blue-ring",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/133deb44-9591-4eeb-8611-d44c1b510c77.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u8c9d\u4f50\u65af\u7684\u7269\u6d41\u5927\u696d\u5ef6\u4f38\u81f3\u5916\u592a\u7a7a\u3002",
+      "date": "2023-10-19"
     },
-    "d8bbd64fb9e7d7f98ecd7d36084ce73b": {
-      "link": "https://www.inside.com.tw/article/24582-cloud-service-iii",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/wsewlb68k4pi6j6csik3iu4j3o32mx.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u81fa\u7063\u4e2d\u5c0f\u88fd\u9020\u696d\u904e\u53bb\u4ef0\u8cf4\u9ad8\u5ea6\u52de\u52d5\u529b\uff0c\u6578\u4f4d\u97cc\u6027\u4e0d\u8db3\uff0c\u904b\u7528\u96f2\u670d\u52d9\u5de5\u5177\u53ef\u6709\u6548\u63d0\u5347\u7522\u80fd\u53ca\u6548\u7387\uff0c\u6578\u4f4d\u8f49\u578b\u540c\u6642\u4e5f\u80fd\u5354\u52a9\u4f01\u696d\u5275\u9020\u5e02\u5834\u7af6\u722d\u512a\u52e2\u3002",
-      "date": "2021-08-21"
+    "6fa2f38d19f44c304bcd6f2de6b24fe6": {
+      "link": "https://www.inside.com.tw/article/33022-trinityvc",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/90767119-7b08-486f-8a6d-e72c10f5e37d.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u4eca\u5e74 10 \u6708 24 \u65e5\u4e2d\u5c0f\u4f01\u696d\u958b\u767c\u516c\u53f8\u8cc7\u9f0e\u5c07\u651c\u624b\u95dc\u9375\u8a55\u8ad6\u7db2\uff0c\u8209\u8fa6\u300c\u7b2c\u4e00\u5cf6\u93c8\u65b0\u5275\u82f1\u96c4\u6703\u300d\u65b0\u5275\u8ad6\u58c7\uff0c\u9080\u8acb\u81fa\u7063\u91cd\u9ede\u65b0\u5275\u4f01\u696d\u5bb6\u3001\u8b49\u4ea4\u6240\u9577\u5b98\u8207\u8cf4\u526f\u7e3d\u7d71\u7b49\u91cd\u91cf\u7d1a\u4eba\u7269\u5c0d\u8ac7\uff0c\u5f9e\u65b0\u5275\u5be6\u52d9\u8207\u570b\u5bb6\u767c\u5c55\u7684\u89d2\u5ea6\uff0c\u6df1\u5165\u63a2\u8a0e\u81fa\u7063\u65b0\u5275\u751f\u614b\u7cfb\u7684\u904e\u53bb\u8207\u672a\u4f86\u3002\u6d3b\u52d5\u5e2d\u6b21\u6709\u9650\uff0c\u7acb\u5373\u9ede\u64ca\u5831\u540d\u5427\uff01",
+      "date": "2023-10-11"
     },
-    "d751ef47de6a36e1109d43d61a5fcb2d": {
-      "link": "https://www.inside.com.tw/article/24785-2021-half-ig-micro-influencer-report",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/956w4eyunvxgbggybnvdrfuirb0aez.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "\u5fae\u7db2\u7d05\u5a92\u5408\u5e73\u53f0 Influenxio \u5708\u5708\u79d1\u6280\u767c\u8868 2021 \u4e0a\u534a\u5e74\u300a Instagram \u5fae\u7db2\u7d05\u884c\u92b7\u6578\u64da\u8da8\u52e2\u5831\u544a\u66f8\u300b\uff0c\u63d0\u4f9b\u54c1\u724c\u884c\u92b7\u4f5c\u70ba\u53c3\u8003\u3002",
-      "date": "2021-09-09"
+    "f11604bb3874c26de1659ef4d7eada43": {
+      "link": "https://www.inside.com.tw/article/33092-joseon-web3",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/e3806c51-f7ea-4616-9b04-d614928868b2.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u5b98\u7db2\u865f\u7a31 Joseon \u5143\u9996\u662f\u300cKing Andrew Lee\u300d\uff0c\u9019\u4f4d\u97d3\u88d4\u7f8e\u570b\u4f01\u696d\u5bb6\u5275\u8fa6\u4e86Private Internet Access\u3001Mt. Gox Live\uff0c\u800c\u4e14\u9084\u771f\u7684\u64c1\u6709\u674e\u6c0f\u671d\u9bae\u738b\u671d\u8840\u7d71\u3002",
+      "date": "2023-10-19"
     },
-    "d83632b1c22ea204d95278947b2c92d9": {
-      "link": "https://www.inside.com.tw/article/24784-5-times-coupon",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/ejxku0u1a1v40bt6nmii74ur5fsfmi.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u8607\u8c9e\u660c\u8868\u793a\uff0c\u4e94\u500d\u5238\u5be6\u9ad4\u5238\u9810\u8a08\u65bc 10 \u6708 8 \u65e5\u570b\u6176\u9023\u5047\u671f\u9593\u6b63\u5f0f\u8b93\u6c11\u773e\u9818\u53d6\u3002",
-      "date": "2021-09-09"
+    "44771f54bd6ab6dddcb5c8c863db7b6d": {
+      "link": "https://www.inside.com.tw/article/33091-tesla-begins-cybertruck-deliveries-on-november-30",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/40385441-716d-411a-b434-ea5467dbfa0b.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u7d93\u904e\u591a\u6b21\u5ef6\u671f\u3001\u91cd\u65b0\u8a2d\u8a08\u5f8c\uff0c\u7279\u65af\u62c9\u7d42\u65bc\u516c\u5e03 Cybertruck \u7684\u6b63\u5f0f\u4ea4\u8eca\u65e5\u4e86....",
+      "date": "2023-10-19"
     },
-    "eef3949d8ea7c1c118d86eeceedeecc1": {
-      "link": "https://www.inside.com.tw/feature/yahoo-2021-dsp-summit/24556-yahoo-dsp-2021",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/fzkxh5r5ug5kueesltkcy7h8dk574r.png?fit=crop&h=209&q=80&w=400",
-      "title": "Verizon Media DSP \u64c1\u6709\u7368\u5bb6\u7684 Yahoo \u96fb\u5546\u6578\u64da\uff0c\u4ee5\u53ca\u5168\u53f0\u7063 1,500 \u842c\u4ee5\u4e0a\u7684\u7b2c\u4e00\u65b9\u6703\u54e1\u6578\u64da\uff0c\u5efa\u7acb\u5b8c\u6574\u7684 Cookieless \u89e3\u6c7a\u65b9\u6848\uff0c\u5e6b\u52a9\u5ee3\u544a\u4e3b\u9577\u671f\u6301\u7e8c\u5730\u638c\u63e1\u6d88\u8cbb\u8005\u8f2a\u5ed3\u4e26\u512a\u5316\u6210\u6548\u3002",
-      "date": "2021-08-20"
+    "c56c82b5ac00c0f1ad1f84289d1081c6": {
+      "link": "https://www.inside.com.tw/feature/2023tccf/32979-2023TCCF-INNOVATIONS",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/32376d7e-0df6-4149-ba05-f84a888041bd.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u773e\u6240\u671f\u5f85\u7684 2023 TCCF \u5275\u610f\u5167\u5bb9\u5927\u6703\u5373\u5c07\u5c55\u958b\uff0c\u4eca\u5e74\u5171\u6709\u300cINNOVATIONS\u300d\u3001\u300cMARKET\u300d\u8207\u300cPITCHING\u300d\u4e09\u5927\u4e3b\u984c\uff0c\u5ee3\u9080\u570b\u5167\u5916\u696d\u754c\u4eba\u58eb\u53c3\u8207\uff0c\u4e0d\u7ba1\u5728\u5167\u5bb9\u5c55\u793a\u3001\u8da8\u52e2\u5448\u73fe\u3001\u7522\u696d\u4ea4\u6d41\u7b49\u5404\u65b9\u9762\uff0c\u90fd\u6e96\u5099\u4e86\u6700\u8c50\u5bcc\u7684\u5404\u7a2e\u5167\u5bb9\uff0c\u671f\u5f85\u5728\u5927\u6703\u4e2d\u5e36\u4f86\u6700\u524d\u77bb\u7684\u5275\u610f\u3001\u6fc0\u76ea\u51fa\u66f4\u591a\u706b\u82b1\u3002\u5728\u300cINNOVATIONS\u300d\u9019\u500b\u4e3b\u984c\u4e2d\uff0c\u53c8\u53ef\u4ee5\u5206\u70ba\u4e09\u5927\u55ae\u5143\uff0c\u5305\u62ec\u300cShowcase\u300d\u3001\u300cTalk\u300d\u548c\u300cIndustry Event\u300d\uff0c\u9019\u4e09\u500b\u55ae\u5143\u8981\u5448\u73fe\u4ec0\u9ebc\uff1f\u53c8\u6703\u5e36\u4f86\u54ea\u4e9b\u9a5a\u559c\u9ad4\u9a57\uff1f\u8b93\u6211\u5011\u4e00\u8d77\u900f\u904e\u6587\u7b56\u9662\u6587\u5316\u79d1\u6280\u8655\u674e\u61f7\u747e\u8655\u9577\u548c\u7b56\u5283\u5718\u968a\u53c1\u5f0f\u7684\u7e3d\u76e3\u66fe\u7152\u5091\uff08Jay\uff09\u7684\u5206\u4eab\u4f86\u611f\u53d7\u4e00\u4e0b\uff01 \u6536\u807d\u7ba1\u9053\u5982\u4e0b\uff1aApple Podcast \uff5cht",
+      "date": "2023-10-11"
     },
-    "6534a71f87d91571fa26521cb63faaa9": {
-      "link": "https://www.inside.com.tw/article/24781-toyota-spend-over-135-bln-ev-batteries-by-2030",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/11j41dqut185epnk3v101chlc0awzu.JPG?fit=crop&h=209&q=80&w=400",
-      "title": "\u8c50\u7530\u6c7d\u8eca\u8a08\u756b 2030 \u5e74\u4e4b\u524d\u5c07\u96fb\u6c60\u7522\u80fd\u64f4\u589e\u81f3\u73fe\u884c\u7684\u903e 30 \u500d",
-      "date": "2021-09-09"
+    "650eb45a9670a40874e01a0423479f4f": {
+      "link": "https://www.inside.com.tw/article/33087-tsmc-kaohsiung",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/f547ef5e-1dc3-41ed-a045-1307145ae38d.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u91dd\u5c0d\u662f\u5426\u722d\u53d6\u53f0\u7a4d\u96fb\u52a0\u78bc\u6295\u8cc7\u9ad8\u96c4\uff0c\u9673\u5176\u9081\u8aaa\uff0c\u8fd1\u65e5\u5a92\u9ad4\u5927\u5e45\u5831\u5c0e\uff0c\u300c\u6211\u73fe\u5728\u5148\u4e0d\u8b1b\u300d\uff0c\u52aa\u529b\u505a\u5c31\u5c0d\u4e86\uff0c\u300c\u4e0d\u80fd\u8b1b\u592a\u591a\u300d\u3002",
+      "date": "2023-10-18"
     },
-    "05ff3a57ae20c5b654c52c10002616e6": {
-      "link": "https://www.inside.com.tw/article/24779-a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/1ow3nzjo5wdndtyhdj6pjk0ipp68jv.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u4f60\u60f3\u70ba\u5b69\u5b50\u8cb7\u4e00\u96bb\u6a5f\u5668\u7368\u89d2\u7378\u55ce\uff1f",
-      "date": "2021-09-09"
+    "5a6472ea38339fcf8b3f1c25e8f791e2": {
+      "link": "https://www.inside.com.tw/article/33084-tiktok-2023-north-east-asia-trends",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/65303d41-5a76-400b-830c-7db4d9c5780c.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "TikTok \u5206\u4eab\u5728\u53f0\u7063\u6d41\u884c\u7684\u77ed\u5f71\u97f3\u5167\u5bb9\u985e\u578b\uff1a\u7f8e\u98df\u3001\u65c5\u904a\u3001\u97f3\u6a02\u548c\u641e\u7b11\u5167\u5bb9\uff0c\u7686\u5404\u7d2f\u7a4d\u4e86\u6578\u5341\u5104\u6b21\u7684\u89c0\u770b\u6578\u3002",
+      "date": "2023-10-18"
     },
-    "aefb56c253e05b15a4c56dd21b68169d": {
-      "link": "https://www.inside.com.tw/article/24557-aws-free",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/3vmu48d8ul7yy0ggjhyao33ju1qb3l.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u73fe\u5728\u514d\u8cbb\u8a3b\u518a AWS \u5e33\u6236\uff0c\u4e0d\u53ea\u53ef\u4ee5\u4eab\u6709\u4e0a\u767e\u7a2e\u514d\u8cbb\u7684\u96f2\u7aef\u5de5\u5177\uff0c\u53c3\u52a0\u7dda\u4e0a AWS \u53f0\u7063\u96f2\u7aef\u9ad8\u5cf0\u6703\uff0c\u9084\u80fd\u8207\u91cd\u91cf\u7d1a\u8b1b\u5e2b\u4e00\u540c\u5be6\u969b\u64cd\u4f5c\u6f14\u7df4",
-      "date": "2021-08-19"
+    "7f8d05ce8e89c5da8fba4f27b32159dd": {
+      "link": "https://www.inside.com.tw/feature/spacetalent/32980-spacetalent-researchProblemSoving",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/96e85192-b0fa-40fe-a21f-10648b9db0be.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u8fd1\u5e74\u4f86\uff0c\u5168\u7403\u5404\u570b\u90fd\u5728\u9762\u81e8\u7f3a\u4eba\u7f3a\u5de5\u7684\u5371\u6a5f\uff0c\u5c24\u5176\u81fa\u7063\u66f4\u70ba\u986f\u8457\u3002\u70ba\u4e86\u514b\u670d\u9019\u500b\u554f\u984c\uff0c\u592a\u7a7a\u7522\u696d\u9700\u8981\u5411\u5373\u5c07\u7562\u696d\u7684\u5b78\u751f\u62db\u624b\uff0c\u4e26\u63d0\u4f9b\u5be6\u969b\u8a13\u7df4\u6a5f\u6703\uff0c\u4ee5\u5438\u5f15\u66f4\u591a\u4eba\u624d\u52a0\u5165\u9019\u500b\u9818\u57df\u3002\u7d93\u6fdf\u90e8\u7522\u696d\u767c\u5c55\u7f72\u4e5f\u63a8\u52d5\u7522\u5b78\u4ea4\u6d41\uff0c\u4ee5\u57f9\u990a\u66f4\u591a\u592a\u7a7a\u7522\u696d\u5c08\u624d\u3002",
+      "date": "2023-10-06"
     },
-    "b32b5d688a6949911956778a13515cf0": {
-      "link": "https://www.inside.com.tw/article/24780-nvidia-s-eu-filing-for-arm-deal",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/o4m3etal9x9aemifd4dhswve6aim6c.jpeg?fit=crop&h=209&q=80&w=400",
-      "title": "Nvidia \u6536\u8cfc ARM \u906d\u5230\u591a\u65b9\u963b\u529b\uff0c\u82f1\u570b\u76e3\u7ba1\u55ae\u4f4d\u3001\u6b50\u76df\u6c7a\u5b9a\u91dd\u5c0d\u4f75\u8cfc\u6848\u9032\u884c\u96d9\u91cd\u8abf\u67e5\uff0c\u5148\u524d\u9023\u7279\u65af\u62c9\u57f7\u884c\u9577\u99ac\u65af\u514b\uff08Elon Musk\uff09\u8868\u793a\u53cd\u5c0d\u3002",
-      "date": "2021-09-09"
+    "c3eaf7ffdbac0671e5d811d244a70a07": {
+      "link": "https://www.inside.com.tw/article/33086-foxconn-young-liu-electriccar-taiwan",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/2ea2dba8-a3ff-4ea3-a9c7-56ccc94e7aa1.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u9d3b\u6d77\u4eca\u5929\u8209\u884c\u79d1\u6280\u65e5\u6d3b\u52d5\uff0c\u8463\u4e8b\u9577\u5289\u63da\u5049\u4eca\u5929\u8868\u793a\uff0c\u4e2d\u570b\u9072\u65e9\u6703\u958b\u653e\u96fb\u52d5\u8eca\u5916\u5305\u88fd\u9020\u5e02\u5834\uff0c\u53f0\u7063\u5e03\u5c40\u70ba\u914d\u5408\u54c1\u724c\u5ba2\u6236\u9700\u6c42\uff0c\u521d\u6b65\u898f\u5283\u5728\u53f0\u8a2d\u7acb\u5e74\u7522 5 \u842c\u81f3 10 \u842c\u8f1b\u7522\u80fd\u898f\u6a21\u3002",
+      "date": "2023-10-18"
     },
-    "b353287c3820c76a221e04202d1d4ec2": {
-      "link": "https://www.inside.com.tw/article/24778-mit-startup-fusion-make-a-new-fusion-power-technology",
-      "image": "https://inside-assets1.inside.com.tw/2021/9/s4vlc9i1gc2hxg9jyuccry2293sc7l.jpg?fit=crop&h=209&q=80&w=400",
-      "title": "\u9ebb\u7701\u7406\u5de5\u65b0\u5275\u6e2c\u8a66\u4e86\u4e00\u9805\u5168\u65b0\u7684\u8d85\u5c0e\u78c1\u9435\uff0c\u63d0\u5347\u6838\u878d\u5408\u6280\u8853\u767c\u5c55\u96f6\u78b3\u80fd\u6e90\u7684\u6a5f\u6703\u3002",
-      "date": "2021-09-09"
+    "58d83ebc3e482fb2c51f59d1216b413f": {
+      "link": "https://www.inside.com.tw/article/33085-hon-hai-tech-day-2023",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/d880d0c0-b9b3-4633-9893-08f7f5ff46a1.png?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u9ec3\u4ec1\u52f3\u5927\u8b9a Model B \u5f88\u6f02\u4eae\uff0c\u4e5f\u662f\u5e74\u8f15\u592b\u59bb\u3001\u60c5\u4fb6\u7406\u60f3\u4e2d\u7684\u7528\u8eca\uff0c\u4f46\u9664\u4e86\u5e6b Model B \u7ad9\u53f0\u4ee5\u5916\uff0c\u9019\u6b21\u9ec3\u4ec1\u52f3\u73fe\u8eab\u9d3b\u6d77\u79d1\u6280\u65e5\u81ea\u7136\u662f\u70ba\u4e86 AI \u800c\u4f86\u3002",
+      "date": "2023-10-18"
     },
-    "ddae851c7ae10e478a55e6dd2e470781": {
-      "link": "https://www.inside.com.tw/feature/yahoo-2021-dsp-summit/24524-yahoo-2021-connectid",
-      "image": "https://inside-assets1.inside.com.tw/2021/8/xzx3oveg31cyza80lpw44hx12o7g7u.png?fit=crop&h=209&q=80&w=400",
-      "title": "\u5728\u53ef\u8b58\u5225\u6d41\u91cf\u8d8a\u4f86\u8d8a\u5c11\u7684\u60c5\u6cc1\u4e0b\uff0c\u53ef\u8b58\u5225\u6d41\u91cf\u7684 CPM \u5c07\u6703\u8b8a\u5f97\u66f4\u6602\u8cb4\u3002\nVerizon Media \u4ee5\u7368\u5bb6\u4e14\u591a\u5143\u7684\u7b2c\u4e00\u65b9\u6578\u64da\uff0c\u958b\u767c\u4e0d\u540c\u7684\u89e3\u6c7a\u65b9\u6cd5\u4f86\u56e0\u61c9\u6578\u4f4d\u8eab\u4efd\u8b58\u5225\u554f\u984c\u3002",
-      "date": "2021-08-18"
+    "066dd5b29b472023d7090409c11bb3db": {
+      "link": "https://www.inside.com.tw/article/32983-thecreator",
+      "image": "https://bucket-img.tnlmedia.com/cabinet/2023/10/fd1bf13d-05be-4712-afb7-16b0799a5fd7.jpg?w=400&h=209&fit=crop&auto=compress",
+      "title": "\u300aA.I.\u5275\u4e16\u8005\u300b\u4ee5\u5176\u7368\u7279\u7684\u6545\u4e8b\u548c\u8868\u9054\uff0c\u6210\u529f\u5f15\u8d77\u4e86\u4eba\u5011\u5c0d AI \u672a\u4f86\u767c\u5c55\u7684\u95dc\u6ce8\u548c\u601d\u8003\u3002\u5728\u6b23\u8cde\u9019\u90e8\u96fb\u5f71\u7684\u540c\u6642\uff0c\u6211\u5011\u4e5f\u8a31\u80fd\u66f4\u6df1\u5165\u5730\u4e86\u89e3\u5230 AI \u5e36\u4f86\u7684\u6a5f\u6703\u8207\u6311\u6230\uff0c\u800c\u601d\u8003\u7684\u65b9\u5411\u66f4\u9664\u4e86\u5c0d\u6e96\u61c9\u7528\u4e4b\u5916\uff0c\u4e5f\u64f4\u5927\u5230\u5982\u4f55\u5171\u8655\u5427\uff01",
+      "date": "2023-10-06"
     }
   }
 }
