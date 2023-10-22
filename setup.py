@@ -11,12 +11,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="technews-tw",
-    version="1.3.3",
+    version="1.3.4",
     description="Taiwan tech news crawlers.",
     author="Wis Chang",
     author_email="wistw.chang@gmail.com",
     url="https://github.com/WisChang005/technews_tw",
-    include_packages_data=True,
+    include_package_data=True,
     packages=find_packages(where='.', exclude=(), include=('*',)),
     install_requires=required,
     long_description=long_description,

@@ -2,3 +2,6 @@ bs4
 requests
 html5lib
 lxml
+twine
+wheel
+setuptools
